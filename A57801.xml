@@ -1,0 +1,2525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The royal wanton containing the Gallick intriegues [sic], with Lycogenes (late King of Albion) his expedition for Hibernia: being the second volume of the Amours of Messalina, with Polydorus, K. of the Goths. Compleating the whole history. By a woman of quality, a late confidant of Queen Messalina.</title>
+            <title>Amours of Messalina late Queen of Albion. Part 5.</title>
+            <author>Woman of quality, fl. 1689-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1690</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 169 KB of XML-encoded text transcribed from 46 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57801</idno>
+            <idno type="STC">Wing R2158A</idno>
+            <idno type="STC">ESTC R220866</idno>
+            <idno type="EEBO-CITATION">99832251</idno>
+            <idno type="PROQUEST">99832251</idno>
+            <idno type="VID">36723</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57801)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36723)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2057:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The royal wanton containing the Gallick intriegues [sic], with Lycogenes (late King of Albion) his expedition for Hibernia: being the second volume of the Amours of Messalina, with Polydorus, K. of the Goths. Compleating the whole history. By a woman of quality, a late confidant of Queen Messalina.</title>
+                  <title>Amours of Messalina late Queen of Albion. Part 5.</title>
+                  <author>Woman of quality, fl. 1689-1690.</author>
+                  <author>Leti, Gregorio, 1630-1701, attributed name.</author>
+               </titleStmt>
+               <extent>[4], 84 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for F.B. and are to be sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The fifth in a series of five satires on Mary of Modena, consort of James II.</note>
+                  <note>Sometimes attributed to Gregorio Leti.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Mary, --  of Modena, Queen, consort of James II, King of England, 1658-1718 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36723:1" rendition="simple:additions"/>
+            <p>THE <hi rend="blackletterType">Royal Wanton:</hi> Containing the
+Gallick Intriegues, WITH LYCOGENES (Late King of <hi>Albion</hi>) HIS
+Expedition for <hi>Hibernia:</hi> BEING <hi rend="blackletterType">The Second
+Volume</hi> of the Amours of Meſſalina, WITH <hi>Polydorus, K. of the
+Goths.</hi>
+            </p>
+            <p>
+               <hi rend="blackletterType">Compleating the whole Hiſtory.</hi>
+            </p>
+            <p>By a Woman of Quality, a Late Confidant to Queen
+<hi>Meſſalina.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. B.</hi> and are to be Sold by
+Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1690.</p>
+            <pb facs="tcp:36723:2" rendition="simple:additions"/>
+            <pb facs="tcp:36723:2" rendition="simple:additions"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:36723:3"/>
+            <pb facs="tcp:36723:3"/>
+            <head>To the READER.</head>
+            <p>O<g ref="char:V">Ʋ</g>R kind <hi>Cologne</hi> Correſpondent (tho' a little Tardy
+in his Favours) has at laſt tranſmitted over to us the long-expected
+remaining Part of our <hi>Meſſalina</hi>'s <hi>Hiſtory.</hi> And ſince
+her Pourtrait in Miniature, in the <hi>Four Parts</hi> of her Amours, already
+publiſht, (we acknowledge) has been your Favourite; we dare boldly aſſure
+you, in this <hi>Second Volume,</hi> an Equal (if not a greater) ſhare of
+Divertiſement: For you are to conſider, that in <hi>Albion</hi> (the Scene,
+where the <hi>Four Parts</hi> of the <hi>Firſt Volume,</hi> are moſt<g ref="char:EOLhyphen"/>ly
+laid) ſhe ſat at the Helm, and the Fatigue of Buſineſs, and Guidance of
+Empire, lay too cloſe upon her, to give ſo intire a looſe to Pleaſure,
+as in her Retirement and Receſs in <hi>Gothland.</hi> And ſince Love
+ſeems to fill her whole Aſcendant here, which generally occaſions more
+variety of Accident and Adventure, than the heavier movements of State; this
+Remainder of her <hi>Hiſtory,</hi> on that Account, carries its own
+Recommendation above the foregoing Volumn.</p>
+            <p>However, I am oblig'd, on the Bookſellers be<g ref="char:EOLhyphen"/>half, to beg the
+Reader's Pardon. The Matter <pb facs="tcp:36723:4"/>of this <hi>Hiſtory,</hi> depending
+upon Foreign Corre<g ref="char:EOLhyphen"/>ſpondence (from whence the Original has been tranſmitted
+the Receipt of this <hi>Second Volume</hi> coming a little tardtly, and the
+expecting Bookſeller quite deſpairing (being call'd upon for a <hi>Compleat
+Hiſtory</hi>) and the Long Vacation drawing on, truly over-ſway<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by preſent Interest, together with
+his deſponding of this <hi>Second Volume,</hi> he hud<g ref="char:EOLhyphen"/>dled up the Hiſtory
+in <hi>Four Parts,</hi> under the Name of <hi rend="blackletterType">The Co<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>p<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>at and Fi<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>he
+Amours of <hi>Meſſa<g ref="char:EOLhyphen"/>lina</hi>
+               </hi> and in the <hi>Laſt Part</hi> of the
+<hi>Firſt Volume,</hi> he unhappily added a Fragment of the laſt almoſt
+Five Pages utterly ſpurious alien to her Adventures<g ref="char:punc">▪</g> The Reader
+therefore, that poſſibly may have the <hi>Firſt Volume</hi> by
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, is deſired to take
+notice<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> That this <hi>Second
+Volume</hi> is continued from that Concluſion only of the <hi>Fourth
+Part,</hi> where the Original Authored left off, without any Cognizance taken
+of thoſe five laſt ſpurious Pages, above-men<g ref="char:EOLhyphen"/>tioned<g ref="char:punc">▪</g> The True
+Concluſion of the <hi>Fourth Part</hi> terminating at Page 50, Line
+<hi>12.</hi>
+            </p>
+            <p>Our <hi>Meſſalina</hi> therefore, comes now adorn'd and
+array<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> her Gayeſt Dreſs; and
+vouch<g ref="char:EOLhyphen"/>ſafes, <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> concluding
+<hi>Part,</hi> to appear <hi>Her whole, T<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Self,</hi> to pleaſe you.</p>
+         </div>
+      </front>
+      <body>
+         <div n="5" type="part">
+            <pb n="1" facs="tcp:36723:4"/>
+            <head>THE <hi rend="blackletterType">Fifth Part.</hi>
+            </head>
+            <p>THE Landing of <hi>Lycogenes</hi> on the <hi>Gal<g ref="char:EOLhyphen"/>lick</hi> Shore,
+is ſuch ſurprizing News, ſo ſhrill the Trump, and ſo fleet the Wings
+of Fame on that loud Sub<g ref="char:EOLhyphen"/>ject, that all Tongues are taken up with no other
+Theme, and the whole Court of <hi>Gothland</hi> Ecchoes with the ſound. The
+Preſence-Chamber of the Fair <hi>Albion</hi> Queen is in a few mi<g ref="char:EOLhyphen"/>nutes ſo
+thronged with preſſing crowds of the <hi>Gal<g ref="char:EOLhyphen"/>lick</hi> Nobility of both
+Sexes, the Great and the Fair; that betwixt their Abhorrence of the
+Chriſti<g ref="char:EOLhyphen"/>an Barbarity, and <hi>Albion's</hi> Ingratitude in his Ex<g ref="char:EOLhyphen"/>pulſion,
+(for that's the beſt Name they can afford it) and their own Tranſport at
+the Reception of that God-like Pagan Prince; what with their Joy on one ſide,
+and their Execration on the other, the <hi>Gothick</hi> Grandees with one
+univerſal officious Emu<g ref="char:EOLhyphen"/>lation, every one to be the firſt and earlieſt
+Ad<g ref="char:EOLhyphen"/>dreſſer to the Royal <hi>Meſſalina</hi> in their Compli<g ref="char:EOLhyphen"/>ments of
+Condolance and Congratulation, ſo fill'd Her Court, and made an appearance
+ſo ſplendid; that ſhe ſeems to ſhine a ſecond <hi>Cynthia,</hi>
+with all <pb n="2" facs="tcp:36723:5"/>her Stars around her, her own the Sovereign
+Beauty.</p>
+            <p>
+               <hi>Polydorus</hi> above all the whole Company is the only
+Perſon, who though more intereſted in the Arrival of <hi>Lycogenes,</hi> or
+at leaſt in the diſmal Cauſe that brings him, has his thoughts at
+preſent, the leaſt employed about it. The Reſentments of de<g ref="char:EOLhyphen"/>feated Love
+(a Concern that always ſuperſedes all other conſiderations) had ſo
+taken up his whole facul<g ref="char:EOLhyphen"/>ties. His damn'd miſtake of the Nurſe for the
+Queen, was ſtill a Torment ſo violent: His burning out his whole ſtock of
+Incenſe at ſo unhallow'd an Altar, as the poor Arms of a ſordid
+<hi>Lactilla,</hi> a Peſants Courſer-born Brat; and not one Grain left for
+the Divine <hi>Meſſalina;</hi> to riſe up ſo <hi>Impotent,</hi> ſo
+ſhame<g ref="char:EOLhyphen"/>fully unperforming in a Cauſe ſo Glorious, lay a load upon his
+Soul, as heavy, as the very raiſing of the <hi>Siege</hi> of <hi>Vienna.</hi>
+As the ſight therefore of all Company, during this preſent fit of
+melancholy was uneaſy to him, he lays hold of this occaſion of re<g ref="char:EOLhyphen"/>tiring,
+by telling the Queen that the neceſſary Orders and Inſtructions for the
+Reception of the Royal <hi>Lycogenes,</hi> was that Important Call, as muſt
+exclude all other thoughts, and rob him of his pre<g ref="char:EOLhyphen"/>ſent Felicity in making a
+part of the Court of <hi>Meſ<g ref="char:EOLhyphen"/>ſalina,</hi> for the immediate Execution of
+ſo incum<g ref="char:EOLhyphen"/>bent a Duty: And ſo with a profound Reverence he makes Congee, and
+takes his leave.</p>
+            <p>To all this Train of Glittering Beauty, the Court of
+<hi>Meſſalina</hi> has one more particular Darling-Star appear to compleat
+the whole Conſtellation; the Fair <hi>Aſpaſia</hi> Arrived from
+<hi>Ibernia.</hi> The ſight of ſo dear a Friend and Confident returned to
+her Boſome, gives our <hi>Meſſalina</hi> that ſenſible delight, that
+her Careſſes and Embraces of her welcome <hi>Aſpaſia</hi> drew the Eyes
+of the whole Court upon this new Favorite <pb n="3" facs="tcp:36723:5"/>Beauty. The Queen,
+though not a little pleaſed with ſo Pompous a Train, the Grandeur of her
+State, has thoſe dearer Joys and tenderer accents to pour forth into the Ears
+of her <hi>Aſpaſia,</hi> as requi<g ref="char:EOLhyphen"/>red a more private Audience;
+diſmiſſing therefore the gay Aſſembly, aſſoon as Decency, and
+State-Ceremony would permit, ſhe takes her <hi>Aſpatia</hi> alone with her
+into her Cloſet, and with a hundred kind and paſſionate kiſſes (her
+Friendſhip almoſt as warm as Love) ſhe repeats her welcome: When the
+Ar<g ref="char:EOLhyphen"/>dence of their mutual Endearments, the Tranſports of meeting Friends, had
+ſpent their heat, and and cool'd into a little leiſure for Diſcourſe
+and Buſineſs; <hi>Aſpaſia</hi> recounts to the Liſtning
+<hi>Meſſali<g ref="char:EOLhyphen"/>na,</hi> the State of Affairs in <hi>Ibernia,</hi> and the
+un<g ref="char:EOLhyphen"/>ſhaken reſolution and invincible conſtancy of her <hi>Latroon,</hi>
+and the <hi>Ibernian</hi> Loyal <hi>Pagans</hi> in the Cauſe of
+<hi>Lycogones. Alas Madam,</hi> ſays Aſpatia, <hi>Let Pa<g ref="char:EOLhyphen"/>raſites, and
+Sycophants, the mercinary Creatures of Proſperity, play the Eaſtern
+Worſhippers, and adore the</hi> Riſing; <hi>He the</hi> Setting Sun:
+<hi>Shall the injuries or miſeries of</hi> Lycogenes <hi>withdraw the
+Allegiance of</hi> La<g ref="char:EOLhyphen"/>troon. "Not all the ſhocks of Fate and Shafts of
+Vengeance can ſtagger his leaſt Loyal thought. Let Fortune frown upon the
+unhappy <hi>Lycogenes:</hi> Yes, let the angry Gods call in their faithleſs
+Guar<g ref="char:EOLhyphen"/>dians of the Throne, his Tutelar-Angels all ſhame<g ref="char:EOLhyphen"/>fully disbanded: Let
+People, Nations, Crowns, Peace, Happineſs, and all the ſmiles of Providence
+de<g ref="char:EOLhyphen"/>ſert him; tho' Earth and Heaven it ſelf forſakes him, <hi>Latroon</hi>
+ſhall not. Yes, my Dear <hi>Aſpaſia,</hi> Re<g ref="char:EOLhyphen"/>plied the Queen, <hi>The
+Fidelity of</hi> Latroon <hi>wants nei<g ref="char:EOLhyphen"/>ther</hi> Herald <hi>nor</hi>
+Hiſtorian; <hi>His Deeds, I doubt not will be their own Trumpet and Recorder.
+My Royal Lord knew well the Soul, the Principles, the Faith, the Integrity of
+that brave Pagan-Hero, and truſt<g ref="char:EOLhyphen"/>ed <pb n="4" facs="tcp:36723:6"/>him with the Sword
+of</hi> Ibernia, <hi>only becauſe he knew him worthy to be truſted.</hi> No
+Madam, <hi>anſwered</hi> Aſpaſia, <hi>The Royal</hi> Lycogenes <hi>has
+been too generous to</hi> Latroon <hi>for a return of Ingratitude; Yes, he
+re<g ref="char:EOLhyphen"/>members from what humble State, and meaner Extract he raiſed him to that
+Princely Dignity, the Vice-royſhip of</hi> Ibernia. How many
+<hi>Grandees</hi> of the <hi>Albion</hi> No<g ref="char:EOLhyphen"/>bility, enrich'd with all
+hereditary Honours, Illuſtri<g ref="char:EOLhyphen"/>ous Veins, High Blood, and Higher Fortunes,
+ſtood Candidates in vain for that Important charge, the Government of
+<hi>Ibernia.</hi> Yes, they were Chriſtians all, untruſty Tools, and
+undeſerved that Honour: Vaſſals to <hi>Oaths,</hi> and Slaves to
+<hi>Laws,</hi> bound up poor Fools to Rules and Limits, to antiquated
+<hi>Pandects,</hi> muſty Records. Senſeleſs Servility! Ignoble Ma<g ref="char:EOLhyphen"/>nacles!
+But my <hi>Latroon,</hi> yes, my once poor little Lord; for his true
+<hi>Pagan</hi> zeal, that all creating Merit, ad<g ref="char:EOLhyphen"/>vanced to Title, Wealth,
+Power, Truſt, Dominion, o'releaped their dull pretenſions, out-ſoared the
+Heads of their neglected-greatneſs, and plumed by kind <hi>Lycogenes,</hi>
+percht in Glories Neſt above them. And do you think he can forget ſuch
+Favours, or falſify a Truſt ſo mighty? Has he not long ago given ample
+demonſtrations! All <hi>Heretick</hi> Miniſters, publick Officers, Civil
+and Military, Disbanded, Ca<g ref="char:EOLhyphen"/>ſhier'd, Turned out, Diſgraced; and the whole
+Power of <hi>Ibernia</hi> lodged in his Faithful <hi>Pagan</hi> Crea<g ref="char:EOLhyphen"/>tures
+Hands. (Oh that the <hi>Albion</hi> Adminiſtration had been ſo Modelled,
+ſo Reformed!) 'Tis true, the murmuring <hi>Hereticks</hi> ſeem aggrieved at
+this Univerſal diſcarding from their Poſts of Truſt, and ſooliſhly
+plead their Truth, Fidelity and Services to <hi>Lycogenes,</hi> to upbraid him
+of unkidneſs. Some, <hi>viz.</hi> that they had fought his Battles, won him
+Lau<g ref="char:EOLhyphen"/>rels, ſtood up the bold Supporters of his Throne, a<g ref="char:EOLhyphen"/>gainſt the
+<hi>Perkin</hi> Rebel, and early fluſh'd their <pb n="5" facs="tcp:36723:6"/>Swords in
+the <hi>Weſtern</hi> Elood. Others, that they had been the Champions of his
+Birth againſt the once impending Senate Thunder-Storm, his
+<hi>EX<g ref="char:EOLhyphen"/>CL<g ref="char:V">Ʋ</g>SION;</hi> even their whole <hi>Church</hi> embattell'd in that
+Cauſe. Others again, who perhaps had yet few Honourable Scars of their own,
+point back to their Illuſtrious Anceſtors Glorious Wounds, thoſe ever
+Famous Heroes and Monarchy Champions, who Sacrificed their Fortunes and their
+Lives to his Great <hi>Martyred-Father,</hi> their bleeding Veins, and no
+leſs bleeding Patrimonies. Theſe very sons of <hi>Worthies,</hi> even of
+the Nobleſt Rank, left Heirs to nothing now but a <hi>Name,</hi> and
+<hi>Title,</hi> perhaps redu<g ref="char:EOLhyphen"/>ced by their Hereditary hard-ſated Fidelity to
+de<g ref="char:EOLhyphen"/>pendance under <hi>Lycogenes</hi> for <hi>Bread,</hi> only from their
+profuſer Anceſtours Loyalty under his Father for <hi>Glory:</hi> And whom
+to turn out from ſerving, is to turn out to ſtarving. Theſe and twenty
+other ſuch idle fooliſh pleas they make of their Faith, forſooth, their
+Loyalty, their Sufferings, <hi>&amp;c.</hi> weak <hi>Heretick</hi> merit, and
+all dull ſenſeleſs gibberiſh in a <hi>Pagan</hi> Princes Ear. No,
+<hi>Divine Madam,</hi> thoſe uſe<g ref="char:EOLhyphen"/>leſs Chriſtian Tooles are all thrown
+by for Lumber, Ruſt and Rubbiſh; and Power and <hi>Pagan</hi> Soveraign<g ref="char:EOLhyphen"/>ty
+are all our own. And do you think that my <hi>Latroon</hi> ſo backt, ſo
+aſſiſted, will tamely looſe his hold. No, <hi>Madam,</hi> Your generous
+Lord remembred. (yes, and with Ecſtaſy) that once Great, Bleſſed,
+Memorable Day, when two Hundred Thouſand <hi>He<g ref="char:EOLhyphen"/>retick</hi> Victims ſell;
+Oh our rich-fatten'd Land! Their reeking Gore a fragrant Sacrifice, ſweet in
+the Noſtrils of the <hi>Pagan</hi>-Gods, and in our Divine Records, a Legend
+of ever Sacred Memory. Yes, he remembred it, and like a Pious Royal Son of
+<hi>Boanerges,</hi> and a true Servant of our Great <hi>Diana,</hi> gave my
+<hi>Latroon Ibernias</hi>'s glittering <hi>Sword,</hi> to play 
+<pb n="6" facs="tcp:36723:7"/>that Game of Glory over again; and root up all thoſe
+remnant Heretick Weeds, that have ſince run up to Seed. Yes, he did ſo; and
+doubt not <hi>Madam,</hi> but that Great Commiſſion, in ſpight of all the
+threatning <hi>Albion</hi> Apoſtacy ſhall ſtill be exe<g ref="char:EOLhyphen"/>cuted.</p>
+            <p>The Continuation of this Subject had inſenſibly drawn on a
+great part of the Night upon them, when <hi>Meſſalina,</hi> more careful of
+her dear <hi>Aſpaſia,</hi> began to think that a little Reſt, the
+Traveller's wel<g ref="char:EOLhyphen"/>come Companion, would be no unacceptable Gueſt; and
+therefore, after a ſmall Banquet for her Enter<g ref="char:EOLhyphen"/>tainment, kindly motion'd her
+going to bed: But as neceſſary as Repoſe might be at the end of a Fatigue
+of ſo many hundred Miles Travel to the Court of <hi>Gothland;</hi> however,
+not to part with ſo dear a Fa<g ref="char:EOLhyphen"/>vourite too eaſily, the Queen invites her to
+her own Bed, (a peculiar Mark of her Royal Favours, and as dutifully
+acknowledg'd by <hi>Aſpaſia</hi>) reſolving to gra<g ref="char:EOLhyphen"/>tifie her Delight in
+the Enjoyment of ſo dear a Con<g ref="char:EOLhyphen"/>verſation, though but in Dreams together.
+The ſmall Remnant of the Night thus paſs'd over, our two female Conſorts,
+with the very firſt dawn of day, awake together, as early, and as fair too,
+as the bluſhing Morning; and no ſooner have they got their Eyes open, but
+their Arms too, and embraceing each other with the renew'd Endearments of
+Friendſhip, could now allow no longer leizure for ſleeping. A hundred new,
+curious, and inquiſitive Queſtions are to be ask'd. Their Fortunes, their
+Adventures, and all the whole Revolutions ſince their laſt parting in
+<hi>Albion,</hi> are work enough, ready cut out, for their whole Mornings
+Employment. But as Eccleſiaſtick and State-Politicks, the Arcana of Church
+and Em<g ref="char:EOLhyphen"/>pire, Cabinet-Counſels, and holy Leagues, were the whole Subject of
+their laſt Nights Conference: <pb n="7" facs="tcp:36723:7"/>for the ſweet Pleaſure of
+Variety, a ſofter Theme, muſt take up their preſent Morning
+Communica<g ref="char:EOLhyphen"/>tion; <hi>viz.</hi> Love and his Kingdom, the Politicks of
+<hi>Cupid,</hi> and the Cabinet of <hi>Venus,</hi> and all the ſecret Arts
+and Manage of that important Univerſal Em<g ref="char:EOLhyphen"/>pire. The Fair <hi>Aſpaſia</hi>
+has very little of Novel of that kind of her Adventures, worthy recital: For,
+alas! her voyage to <hi>Ibernia</hi> was ſo intirely devoted to ſerious
+Buſineſs and deep Conſult, that that aërier Deity Love had little or
+no Adminiſtration there. Alas, Madam, ſaies <hi>Aſpaſia,</hi> I have
+nothing worthy Your Majeſties Ear, for truely I left Love behind me when I
+left <hi>Albion;</hi> my Friends, my Ser<g ref="char:EOLhyphen"/>vants, my Favourites, yes, all left
+behind. Love Madam, in <hi>Ibernia!</hi> when Your Majeſty knows I met with
+nothing but that thing we call <hi>Husband</hi> there; nay, not only a Husband,
+but a Stateſman too; ſo involv'd in Thought, Study, Project: poor man! ſo
+labouring, ſo tugging at the Helm, ſo tired with the toyl of the Day, that
+God-wot, the Fa<g ref="char:EOLhyphen"/>tigue of Night too, was too much for him. 'Tis true, my poor
+<hi>Latroon</hi> was very glad to ſee me; ſo many years aſunder as we had
+been, would make the converſation of older Friends at firſt ſight at
+leaſt, agreeable. But truly Madam, under the Seal of Confeſſion, a little
+love went a great way be<g ref="char:EOLhyphen"/>tween us two; his Talent, I aſſure you, lyes
+ano<g ref="char:EOLhyphen"/>ther way: Beſides, we two were ſo old to one a<g ref="char:EOLhyphen"/>nother, as made us
+kiſs ſo aukwardly—In ſhort Ma<g ref="char:EOLhyphen"/>dam, I beg Your pardon for
+entertaining you on ſo dull and ſo inſipid a Theme. A Husband!—but
+no matter: Poor <hi>Latroon!</hi> he has, however, theſe other
+qualifications; whatever he wants in Amour, as will amply compenſate all
+other defects. The <hi>CA<g ref="char:V">Ʋ</g>SE,</hi> the Divine <hi>Pagan CA<g ref="char:V">Ʋ</g>SE</hi> is his
+Wife, Miſtriſs, Saint, his All: 'tis in her Arms a<g ref="char:EOLhyphen"/>lone <pb n="8" facs="tcp:36723:8"/>lone he Lauguiſhes, Adores, Sighs, Dies; and e<g ref="char:EOLhyphen"/>very faculty of his
+Soul is ſworn Vaſſal to no o<g ref="char:EOLhyphen"/>ther Sovereign. The ſhort Narrative of
+<hi>Aſpaſia</hi> is no ſooner done, but the Queen in return, reſolved
+to unlock her own whole Heart too, to ſo intire and abſolute a Mrs. of all
+her ſecrets as <hi>Aſpaſia,</hi> and not able to contain within her own
+Boſome only, the Victory of her Eyes o're the captive Heart of her
+<hi>Polydorus,</hi> could not forbear recounting the whole progreſs of her
+new Conqueſt. The Sighes, the Lan<g ref="char:EOLhyphen"/>guets of ſo paſſionate an Adorer,
+were Trophies to her no ſmall Glory: Tis true, the infirm part of his Love,
+his deficience in her Arms, ſhe gene<g ref="char:EOLhyphen"/>rouſly conceal'd, in pure
+tenderneſs, not only to her Lovers Honour, but alſo to her own Glory;
+leſt the ridiculing of his unperformance might diminiſh from her own Charms
+and Attractions; her meer vanity (if nothing elſe) thought fit therefore to
+veil that blemiſh. <hi>Aſpaſia,</hi> at the Relation of
+<hi>Polydorus</hi> Captivity, paid her Congratulatory Compliments to the
+Victorious <hi>Meſſalina,</hi> with all the <hi>Panegyricks</hi> and
+<hi>Iöpoeans</hi> due to ſo Imperial a Conqueſt. So di<g ref="char:EOLhyphen"/>verting a
+Subject as the whole Narrative of <hi>Meſ<g ref="char:EOLhyphen"/>ſalinas</hi> Triumph, and
+<hi>Polydorus</hi> Fetters held e'm diſcourſe till their upriſing; when
+no ſooner were they got dreſt, but as if Love had yet a greater, at leaſt
+a more moving and more heightn'd Scene to play; <hi>Tomazo</hi> appeared, and
+tells the Queen that the Baron of <hi>Sanctifiore</hi> attended without, and
+humbly waited a ſeaſonable hour when the Gracious <hi>Meſſalina</hi>
+would condeſcend him the Glory of throwing himſelf at her Royal Feet. The
+Queen ſeemed ſo ſtruck with the very Name, that ſhe could not anſwer
+<hi>Tomazo;</hi> when turning to <hi>Aſpaſia,</hi> all ſhe could get out,
+was, <hi>Sanctifiore!</hi>—And then redning even to a ſcarlet Bloom
+upon her <pb n="9" facs="tcp:36723:8"/>Cheeks, ſhe could proceed no further.
+<hi>Aſpaſia</hi> perceiving her ſurprize, and well remembring, that more
+than happy Name of <hi>Sanctifiore</hi> our <hi>Meſ<g ref="char:EOLhyphen"/>ſalina</hi>'s Virgin
+Conquerour, a Name ſo oft repeated by her, in her moſt languiſant and
+ſofteſt minutes, and perfumed with the fragrant ſighs that follow<g ref="char:EOLhyphen"/>ed it;
+ſhe wonderd the leſs at only ſo ſuperficial an Impreſſion in the
+bluſhing Eyes of <hi>Meſſalina,</hi> from her knowledge of a deeper one
+in her heart, her preſent diſorder being only ſo ſudden an effect from
+ſo rooted a Cauſe. Turning therefore to the Queen, (who in a deep and
+penſive kind of ſtudy, had leaned her fair Hand for her Support upon
+<hi>Aſpaſias</hi> Shoulder,) <hi>Well Madam,</hi> ſays ſhe,
+<hi>Does</hi> Tomazoes <hi>Embaſſy from the petitioning</hi> Sanctifiore
+<hi>re<g ref="char:EOLhyphen"/>quire no anſwer; or do you diſpute her Credentials in the
+Meſſage ſhe brings you?</hi> No, my <hi>Aſpaſia</hi> replied the
+Queen, <hi>I neither doubt the Petition nor the Petitioner:</hi> Alas, <hi>I
+only miſtruſt the ſupplicated Power that is to Grant it.</hi> Oh my
+<hi>Aſpaſia,</hi> how ſhall I look, ſpeak, move! Oh my miſdoubted
+Eyes, but more ſuſpe<g ref="char:EOLhyphen"/>cted Soul! How, oh how ſhall I be able to receive
+him, (aſſiſt me Glory reſolution!) as <hi>Meſſalina</hi> Daughter
+of <hi>Modena,</hi> or <hi>Meſſalina</hi> Queen of <hi>Albion!</hi> Receive
+him? <hi>Madam, anſwered</hi> Aſpaſia: <hi>Fy, is that a Queſtion!
+No,</hi> Madam <hi>take him as you left him; overlook but half a ſcore of
+rowling Years, and e'ne find your ſelves where you loſt your ſelves.
+Receive him as Queen of</hi> Albion? <hi>Ridiculous foolery! leave Titles, and
+big Names, empty Pride, and ſenſeleſs Vanity, Court-Grandure, and
+Court-Ceremony, (thoſe luggages of Ma<g ref="char:EOLhyphen"/>jesty, worn like Imperial Crowns only
+on days of State,) to their proper uſe and ſeaſons. Think who it is, and
+where 'tis you receive him; not on your Throne, but in your Bed Chamber.</hi>
+Well, <hi>My airy Companion,</hi> Re<g ref="char:EOLhyphen"/>plied <hi>Meſſalina;</hi>
+"Loves-cauſe ſure would neverſail <pb n="10" facs="tcp:36723:9"/>of ſucceſs, if
+he had always ſuch Advocates as you to plead it; and if
+<hi>Meſſalina</hi> commit that weakneſs that the Queen of <hi>Albion</hi>
+muſt bluſh for her; at your Door, my leading Councellour lie the fault.
+<hi>To<g ref="char:EOLhyphen"/>mazo,</hi> who thought the Preliminaries a little too tedious, and
+knowing her ſelf both an able and acceptable Miſtris of the Ceremonies in
+interviews of this kind, without waiting further Orders or Commiſſion,
+introduces the attending Baron. The admitted <hi>Sanctifiore</hi> makes his
+approach with that awful reſpect, and no leſs ſurprize: The grateful
+re<g ref="char:EOLhyphen"/>membrance of a Hundred crowding paſt delights, and his aſtoniſhment at
+as many new commanding Charms in the Divine <hi>Meſſalina;</hi> the
+heightning thought of her Imperial Character, adding a more dazling Luſtre to
+her native Beauties; the preſent Raptures of his Eyes and his paſt
+revolving Ecſta<g ref="char:EOLhyphen"/>ſies, all ſo many Darts from ſo many ſeveral Quivers
+ſtruck him with that admiration and confuſion, that what betwixt fear and
+tranſport (for that's the ſublimeſt Adoration that trembles where it
+kneels) certainly never Lover fell at the Feet of Beauty with more exalted
+Devotion than <hi>Sanctifiore.</hi> The fair <hi>Meſſalina,</hi> toucht
+with the ſame ſpark, felt a warm Joy about her, that ſoon blazed out into
+the ſame re-kindling Fire: She could not ſee that dear, that darling Man,
+thus proſtrate at her Feet, without re<g ref="char:EOLhyphen"/>membring him, the dear once happy
+Riffler of all her Virgin-Joys. Oh the never forgotten Beatifick mi<g ref="char:EOLhyphen"/>nute; the
+Pleaſure and the Pain! Then a whole Le<g ref="char:EOLhyphen"/>gion of Delights ſurround her; the
+private Grotts, the ſilent Shades, and conſcious Groves; all the ſtolen
+Pleaſures, the ſoft and tendereſt Bliſſes in the opening bloom of
+Love, and Nonage of her Charms, now muſter a thouſand Beauteous radiant
+Forms before her, till her pleaſed Soul ſurveys that vaſt Ex<g ref="char:EOLhyphen"/>panded 
+<pb n="11" facs="tcp:36723:9"/>Scene, as leaves her almoſt loſt in the contem<g ref="char:EOLhyphen"/>plation.
+The proſtrate <hi>Sanctifiore</hi> continued kneel<g ref="char:EOLhyphen"/>ing all this while, little
+leſs than rooted at the adored <hi>Meſſalinas</hi> Feet: till a ſoft
+accent from the <hi>Albion</hi> Queen, a raviſhing all charming look, and her
+fair Hand ſtretched out to raiſe him, (ſnatch'd to his burning Lips) all
+Signed the Royal Mandate to Command him Riſe. In ſhort, at ſo ſud<g ref="char:EOLhyphen"/>dain
+an Encounter, and ſo vigorous an Aſſault on both ſides, (as if Love's
+whole Magazine, all the Artillery of the blind God had been ſpent in one
+ſingle Salley) never meeting Eyes, or yielding Hearts encountred like
+<hi>Sanctifiore</hi> and <hi>Meſſalinas.</hi> Yet as warm as their Hearts
+beat, and as ſtrong a violence of Impetuous Love was juſt ready to bear all
+down before it; however, the interpoſing Dread and Awe in the daunted
+<hi>Sanctifiore,</hi> and a preſent reſolved Reſervedneſs in the Queen,
+(perhaps, the greateſt Denial that her o're-maſtered Paſſion ever
+truck<g ref="char:EOLhyphen"/>led to) ſtood up that bounding Bar between 'em, poſſibly the only
+chain on both ſides, that other<g ref="char:EOLhyphen"/>wiſe could have held them from ruſhing
+wild into each others Boſomes, with all the open outrages of folding twining
+Arms, and rioting ravaging Lips, cloſe as their meeting ſouls, and looſe
+as all their roving boundleſs Wiſhes.</p>
+            <p>This diſtant Ceremony being all that the firſt Careſs to her
+<hi>Sanctifiore</hi> would admit, the Queen however as a mark of more than
+ordinary Grace (a diſpenſation of State which in the privateneſs of ſo
+early a viſit, was allowable) commands her <hi>San<g ref="char:EOLhyphen"/>ctifiore</hi> to be
+ſeated in her Preſence; and after the uſual Compliments made by the
+Baron, tho' perhaps a little more refined, at leaſt more exalted than the
+daily Addreſſes made to Crowned Heads, by more indifferent Homagers: The
+Queen find<g ref="char:EOLhyphen"/>ing <pb n="12" facs="tcp:36723:10"/>him too prolix a <hi>Panegyrist</hi> (a
+Theme how<g ref="char:EOLhyphen"/>ever not ungrateful) upon her Glories, diverts him from that Subject,
+by commanding him not to be hers, but his own Hiſtorian; deſiring him to
+enter<g ref="char:EOLhyphen"/>tain her with ſome Relation of his own Fortunes, and the occaſion of
+his Reſidence in <hi>Gothland. Sanctifiore</hi> making his humbleſt and
+duteous ac<g ref="char:EOLhyphen"/>knowledgement for the Honour received in ſo gene<g ref="char:EOLhyphen"/>rous a command;
+tells her, <hi>that at preſent he has the Happineſs of wearing a Sword
+under the Bannors of</hi> Polydorus; <hi>and Commanding a</hi> Regiment of
+Horſe <hi>in his Service.</hi> But truly, <hi>Madam,</hi> continued the
+Baron, <hi>Since your Majeſty is pleaſed to ask the oc<g ref="char:EOLhyphen"/>caſion of my
+Reſidence in</hi> Gothland: <hi>in more ample obedience to that Command, I
+muſt own, that the Glory of Fighting under the Standart of a Monarch ſo
+Re<g ref="char:EOLhyphen"/>nown'd, (whoſe formidable Power in defiance of the Con<g ref="char:EOLhyphen"/>federated World,
+can ſingly stand the Swords of the <g ref="char:V">Ʋ</g>nited <g ref="char:V">Ʋ</g>niverſe against him,)
+carries an Attraction of it ſelf alone, ſufficient to invite a more
+diſtant admi<g ref="char:EOLhyphen"/>rer of that Famous</hi> Hero, <hi>than a neighbouring Na<g ref="char:EOLhyphen"/>tive
+of</hi> Italy, <hi>to quit inglorious Peace at home, for ſo active a Scene of
+Honour abroad: Nor is the Poſt, his Favours have rais'd me to, ſo
+inconſiderable, but nobler Merit, and higher Pride than my own might thank
+fully accept. However</hi> Madam, [Sighing]. <hi>a yet far nobler Cauſe made
+me deſert my Native, and (forgive me when I call it ſo) my loathed and
+hated Country. Tis true, I must avow, I drew in my first Breath within that
+happy</hi> Roman Principality, <hi>bleſt with the Birth of the fair</hi>
+Albion <hi>Queen: Yes, I had the envied Honour to be born a Subject to the
+Here<g ref="char:EOLhyphen"/>ditary Coronet of the Illuſtrious</hi> Meſſalina. <hi>Thus happy I
+was born; but oh Divine</hi> Madam! <hi>The aſcendant Star that ſhined ſo
+kind; yes, once ſo wondrous kind, and bleſt me with ſo bright and dazling
+Morning, re<g ref="char:EOLhyphen"/>called <pb n="13" facs="tcp:36723:10"/>her too generous influencing Beams; for
+Oh, I lived to ſee that black, that fatal over-clouded Day; the adored
+Guardian Planet of my Life, withdrawn to ſhine in a new Orb of Glory, to
+ſmile on a more worthy happier Charge; and ſet alas, from me, for ever
+ſet; and the miſerable wretched forlorne</hi> Sanctifiore <hi>left
+de<g ref="char:EOLhyphen"/>ſpairing, mourning, dying; and hurried by the horrours of his wild and
+ghastly Thoughis,</hi> (Remembrance, <hi>tor<g ref="char:EOLhyphen"/>menting</hi> Remembrance,) <hi>to
+fly his loathed detested Na<g ref="char:EOLhyphen"/>tive Soil, and ſeek ſome happier corner of the
+World to find a Grave in. But how far ſoever his deſpair could lead him;
+and as delectable as his miſeries had painted the lovely Face of Death to
+him; nevertheleſs his Pride would not permit him to lay his reſting Bones
+in any o<g ref="char:EOLhyphen"/>ther Bed than that of Honour: The Gratification there<g ref="char:EOLhyphen"/>fore of that
+only Ambition had fixt his thoughts and his reſolves on</hi> Gothland, <hi>as
+the noblest choice to find that Grave in. For indeed having ever a natural
+Averſi<g ref="char:EOLhyphen"/>on to the common</hi> Exits <hi>of Mortality, the</hi> Sleeping out of
+Life; <hi>to thoſe, who dying as dully as they lived, lye lazying on Down for
+their laſt Pillow; and with the effeminate cries of Children, and puling
+Womens Tears around them, are huſh'd and lull'd into their Eternal Rest; it
+was his ever constant wiſh, to bye harder, and die louder; to have the
+Thunder of the Cannon, a more manly Muſick at his long Repoſe, and his
+laſt Call to Fate, a ſum<g ref="char:EOLhyphen"/>mon from no other but the Trumpets ſound.</hi>
+The Queen at this Declaration of the dear Baron, ſo artfully made, as even
+the moſt rigid Virtue muſt have heard without a frown, not a little
+delighted at the recital of the fatal influences of that <hi>fair ſetting
+Star</hi> he had ſo paſſionately in ſuch murmur<g ref="char:EOLhyphen"/>ing plaints
+deſcribed, could (if ſhe pleaſed) have told him, that the very ſame
+tutelary Planet, as long ſet to him as it had been, and as many deſpairs it
+had caſt him into, was in this one ſhort half hour <pb n="14" facs="tcp:36723:11"/>ſo
+fully riſen again, with all its favourableſt Aſpects, every kind
+re-kindling Beam about it, as at this ve<g ref="char:EOLhyphen"/>ry moment could ſhine down all the
+tendereſt warmeſt Bleſſings o're again, all thoſe ſofteſt,
+ſweet<g ref="char:EOLhyphen"/>eſt Joys repeated, that ever its moſt melting in<g ref="char:EOLhyphen"/>fluence ſmiled
+upon him. All this She could have told him; but, alas, reſtrained by rigid
+all-com<g ref="char:EOLhyphen"/>manding <hi>Honour</hi> (empower'd at leaſt to Reign for one ſhort
+hour at their firſt meeting) thoſe ſubli<g ref="char:EOLhyphen"/>mer Felicities, are a reſerve,
+not to be cheapned by too haſty a Condeſcention.</p>
+            <p>The converſation between <hi>Meſſalina</hi> and
+<hi>Sanctifi<g ref="char:EOLhyphen"/>ore,</hi> now begins to be interrupted, by a concourſe of
+Gallick Ladies, come to make their morning Court to the fair <hi>Albion</hi>
+Queen: All ſhe can far<g ref="char:EOLhyphen"/>ther learn from him in ſo publick a conference is,
+that an important Expreſs brought him from his poſt on the Banks of the
+<hi>Rhine;</hi> and how ſoon he ſhould be commanded back thither lay only
+in the Breaſt of the King. His Expreſs indeed he had this morning ſent in
+to <hi>Polidorus;</hi> but his Majeſty be<g ref="char:EOLhyphen"/>ing indiſpoſed, and Orders
+left, that he would ad<g ref="char:EOLhyphen"/>mit of no Viſits till after Morning. Devotion, he had
+not yet had the honour of kiſſing His Royal Hand. When <hi>Sanctifiore</hi>
+had taken leave of the Queen in order to his attendance on <hi>Polidorus,</hi>
+and the Court Ladies alſo according to cuſtomary Cere<g ref="char:EOLhyphen"/>mony were retired, at
+the Queens uſual hour of her private Morning Prayers; <hi>Meſſalina</hi>
+having at this time gotten one half hour free to her ſelf, at<g ref="char:EOLhyphen"/>tended only by
+<hi>Aſpaſia,</hi> on whom ſhe had laid her particular commands; out of an
+extraordinary De<g ref="char:EOLhyphen"/>votion another way, that had taken up her preſent
+Contemplations, ſhe makes bold with Heaven for one mornings Diſpenſation;
+and taking her dear <hi>Aſpaſia</hi> with her into her Cloſet, to confer
+about <pb n="15" facs="tcp:36723:11"/>the importance of this mornings Adventure, and her
+future Conduct in relation to ſo unexpected a Viſitant, ſhe firſt asks
+her her opinion of her <hi>San<g ref="char:EOLhyphen"/>ctifiore.</hi> Truly, <hi>Madam,</hi> anſwers
+<hi>Aſpaſia,</hi> "If you will have my cordial ſentiments, I think him a
+Perſon of that generous Appearance, that <hi>Meſſali<g ref="char:EOLhyphen"/>na</hi> did her
+ſelf right, in her Virgin-Election of ſo Gal<g ref="char:EOLhyphen"/>lant a ſervant. For ſince
+Beauty is a Treaſure, like all other Treaſures, only truly valuable when
+<hi>Poſſeſt;</hi> (for what's the Pearl in the Sea, the Diamond in the
+Rock, or the Gold in the Mine; and by the ſame reaſon, the Lady in the
+Cloyſter, worth?) and accordingly we are all Jewels ordained for wearing; a
+young Lady by the undoubted Charter of her Sex, holding by that moſt
+abſolute of all Soveraign Tenure, <hi>viz. the whole Power in her own
+hands,</hi> the intire freedom of chooſing, whether the Privy Signet of
+<hi>Nature, Inclination</hi> and <hi>Love,</hi> or the Broad-Seal of <hi>Law,
+Matrimoney,</hi> ſhall firſt unlock the Maiden Cabinet; for my part, I
+applaud that Ladies dearer and worthyer choice; that honours the Firſt, with
+the conceſſion of ſo high a Favour, before the Laſt; unleſs, indeed,
+our Auſpicious Stars deſign us the uniting of Both in one Perſon,
+<hi>Love</hi> and <hi>Hymen</hi> in one knot. But, alas, that's a bleſſing
+of Heaven, (a rarity <hi>Phoenix</hi> like) ſo ſeldom ordaind for
+<hi>Princes,</hi> where Marriages are almoſt always the creation of
+<hi>Policy</hi> and <hi>Intereſt;</hi> that e<g ref="char:EOLhyphen"/>ven the common liberty of the
+pooreſt Vaſſal is de<g ref="char:EOLhyphen"/>nyed Them; for whilſt the meaneſt Peaſant,
+from his own equality, has, in a manner, the whole world to chooſe in; can
+ſelect the Face, the Wit, the Temper, the Humour of that Bride that beſt
+can make him happy; on the contrary poor confi<g ref="char:EOLhyphen"/>ned and ſhackled Princes,
+utterly debarred all theſe priviledges, muſt Wooe and Wed by Proxy; truſt
+<pb n="16" facs="tcp:36723:12"/>to the Flattery of a Painters Pencil, and the gro<g ref="char:EOLhyphen"/>ſer
+Dawb of a lying Embaſſy, for the Beauties both of Body and Mind; (and ten
+to one not that nei<g ref="char:EOLhyphen"/>ther, where abſolute State-Convenience, their com<g ref="char:EOLhyphen"/>mon
+Matchmaker, tyes the Gordian) and conſe<g ref="char:EOLhyphen"/>quently, ſo blindly and ignorantly,
+if not ſo ungrate<g ref="char:EOLhyphen"/>fully, Sign, Seal, and Contract; that certainly the Amorous
+Rambles, Wanton Stealths, and Love-Frailties of the <hi>Great,</hi> ought in
+Conſcience, to be liſted in the Roll of their Venial Sins, as a meer
+charitable grain of Allowance, in pure compenſa<g ref="char:EOLhyphen"/>tion for the ſervitude of
+Cuſtom, the ſlavery of Overuling Politicks, and the hard hand of Fate ſo
+heavy upon Them only, in Their <hi>Having</hi> and <hi>Holding,</hi> above all
+the reſt of the Creati<g ref="char:EOLhyphen"/>on, <hi>Well my witty Sophyſtreſs,</hi> replyed
+the Queen, <hi>Thou are an Artist at an amorous Argument, a very Caſuiſt in
+the School of Love; and truly, my</hi> Aſpaſia, <hi>I never had more need
+of ſuch a Councellour;</hi> alas, <hi>dear Friend, in the ſurprizing return
+of my</hi> Sanctifiore, <hi>I have encountred an object, dearer to my Eyes, and
+nearer to my Soul, then all the Favourites my Arms e're bleſt; ſo much
+above them all—</hi>Yes <hi>Madam,</hi> Re<g ref="char:EOLhyphen"/>plied <hi>Aſpaſia, Thoſe
+very Lovers whoſe Fortune it is to crop our Virgin-bloom, are always
+obſerved to poſ<g ref="char:EOLhyphen"/>ſeſs ever after it the utmoſt extreams of our
+Affecti<g ref="char:EOLhyphen"/>ons, the highest or the loweſt Seat in our Eſteem, be<g ref="char:EOLhyphen"/>coming either
+the objects of our ever tendereſt, ſofteſt Remembrance; or elſe our
+humbleſt and deſpicableſt Diſ<g ref="char:EOLhyphen"/>dain and Loathing. If a loſe
+wantoneſs, and unthinking Amour, ſome Folly, Frenzy, Surprize, or a
+prevailing Snare betray our Eaſineſs or Simplicity to yield up that
+irrevocable Treaſure to ſome indifferent or unworthy Poſſeſſour;
+our Eyes once opening; and our re-collected ſenſe awaking, we look back
+with that ſenſible Reſent<g ref="char:EOLhyphen"/>ment of our miſtaken and deluded weakneſs,
+till the un<g ref="char:EOLhyphen"/>deſerving <pb n="17" facs="tcp:36723:12"/>Rifler of thoſe envied favours
+becomes ſo much the object of our little Thought, that we deſpiſe and
+loath the very ſight and name. But if fore-thought and Reaſon, a studied
+Love and ponderated Paſſion, the Endearments of Addreſs, Careſs, Sighs,
+Tears, Pray<g ref="char:EOLhyphen"/>ers; the Charms of Wit, Senſe, Honour; the Tyes of Sevices, Duty,
+Faith, Gallantry; with Worth and Merit to fill up the ballance, all join to
+aſſault a yeilding Virgins Heart, till in the embrace of ſome dear dear
+Man, Deſires meet Deſires, Souls link Souls, and Tides daſh Tides; that
+ne're forgotten minute of De<g ref="char:EOLhyphen"/>light takes an impreſſion of that rooted
+Sweetneſs, ſo dear, ſo deep even in our inmost Thoughts, till that dear
+Darling never baniſh'd. Lord of our beſt wiſhes fills up ſo large a
+Room in our remembrance, that all our after-Favourites, ordained to reap our
+fainter Bleſſings left, ſucceed but like the Heirs of the Great</hi>
+Alexander; <hi>they only Canton out our Hearts, our ſub<g ref="char:EOLhyphen"/>divided Favours,
+Reigning but like pettier Provincial Lords, where his ſublimer, vaſter
+Empire was All and <g ref="char:V">Ʋ</g>niverſal.</hi> Oh hold <hi>Aſpaſia,</hi> Replyed
+the Tran<g ref="char:EOLhyphen"/>ſported Queen, <hi>Thou haſt touch'd me in the tendereſt
+part<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> and if there be an Art of
+Painting Souls, cer<g ref="char:EOLhyphen"/>tainly thou haſt made a Maſter-piece; for never was
+Effigies drawn ſo near the Life. True, my Prophetick</hi> Aſpaſia,
+<hi>that never, never Baniſh'd Lord of my First, Beſt, yes, and my Laſt
+Eternal Wiſhes, is my</hi> Sanctifiore. <hi>And after ſuch an envious
+Divorce, a hideous diſ<g ref="char:EOLhyphen"/>mal yawning Separation of more then ten long distant
+Years torn from me, Oh with what meeting, twining, rioting Bliſſes, in
+thoſe dear Arms could I pour out my Soul.</hi> After this frank
+Confeſſion of <hi>Meſſalina,</hi> the Generous. <hi>Aſpaſia</hi>
+Employs the remaining part of their Conference in Advice and Council; ſhe
+lays before her, how that <hi>Sanctifiore</hi> being in ſo eminent a Station
+in the Army, in this active Juncture of <pb n="18" facs="tcp:36723:13"/>the Affairs of
+<hi>Polydorus,</hi> could not poſſibly be per<g ref="char:EOLhyphen"/>mitted any long abſence
+from his Poſt of Honour; that as he came only with Martial Expreſſes from
+the Camp, undoubtedly his Diſpatches will be mat<g ref="char:EOLhyphen"/>ter of Haſte and
+Expedition, and conſequently his ſtay at Court but ſhort; and therefore
+the Golden Fruit muſt be ſpeedily gathered, leaſt <hi>Polydorus,</hi> by
+his ſudden Commands upon <hi>Sanctifiore,</hi> ſhould unluckily prove the
+envious Dragon to intercept it. And therefore Reſervedneſs and Diſdain,
+(thoſe com<g ref="char:EOLhyphen"/>mon Female Arts of poſtponing Bliſſes, only for the
+fantaſtick vanity of heightning their value; at beſt but a cuſtomary
+fooliſh Hypocriſy in the Sex,) muſt now be laid aſide. Nay, and
+conſidering that <hi>Sanctifiore,</hi> were his Deſires as ardent as her
+own, however, muſt not, or indeed dares not preſume to any Addreſs of
+Love to the Queen of <hi>Albion,</hi> the Advances therefore muſt be all of
+her own ſide; in ſhort <hi>Meſſalina</hi> muſt be the firſt Fair
+Inviter to the amorous Field; and that ſhe need not be abaſht at being her
+ſelf the Aggreſſor, ſhe deſires her to conſider that Neceſſity
+in that caſe had made that a Virtue in a Royal Character, which poſſibly
+might be a blemiſh in Ladies of a lower Station. Tis true indeed, ſince
+Honour perhaps may ſcru<g ref="char:EOLhyphen"/>ple at pronouncing the laſt conſummating Oracle
+from her own Lips; however, <hi>Aſpaſia</hi> offers her that
+Aſſiſtance and Service as ſhall take off that Bluſh: for that
+Province ſhall all be her own. The Queen threw her fair Arms about
+<hi>Aſpaſias</hi> Neck, in Gratitude for ſo Generous a Friendſhip,
+ex<g ref="char:EOLhyphen"/>preſſing her acknowledgements in all the ſofteſt endearing Terms
+ſuitable to the Obligation of ſo extraordinary a promiſed Service.</p>
+            <p>Upon the full reſult, the final Concluſion being agreed upon,
+and the whole Scene laid between <pb n="19" facs="tcp:36723:13"/>'em; in perſuance of the
+Meaſures reſolved, after Dinner <hi>Aſpaſia</hi> finds
+<hi>Sanctifiore;</hi> and inviting him into the Queens Privy Garden, at the end
+of their firſt walk, they are met by <hi>Meſſalina; Sanctifiore</hi>
+approaching with all the profoundeſt Reſpect, and <hi>Aſpaſia</hi>
+retiring, the Queen Graciouſly lending him her hand to walk with her, and
+taking the advan<g ref="char:EOLhyphen"/>tage of a cloſe Walk ſheltered both from envious Eyes, and
+dangerous Ears; after ſeveral languiſh<g ref="char:EOLhyphen"/>ing Aſpects, the ſofteſt
+Eloquence of her Eyes, and a hundred little kind introducing Preliminaries,
+(all which how ſenſibly ſoever the charmed <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi> might
+interpret to his Advantage, yet his trembling diſtance to Imperial Qualitie
+durſt yet only ſilently receive,) ſhe came at laſt to the
+condeſcending Confeſſion and Diſcovery, that her <hi>Sanctifiore</hi>
+was a Perſon ſhe never had and never can forget; and though advanced to
+ſhare the <hi>Albion</hi> Diadem, the Bed and Throne of <hi>Lycogenes,</hi>
+yet her bluſhing weakneſs compelled her to tell him, that to
+<hi>Sanctifiore</hi> ſhe was ſtill the Daughter of <hi>Italy,</hi> and
+Neice of <hi>Boanerges.</hi> The Tranſport of <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi> at this
+raviſhing Declaration, too full of Ex<g ref="char:EOLhyphen"/>taſy to be able to make anſwer in
+any other Lan<g ref="char:EOLhyphen"/>guage, threw him proſtrate at her Feet, which, graſping her
+Knees, he Kiſt with ſo much Ardence and Paſſion, that
+<hi>Aſpaſia</hi> thought it her Qu of Entrance now, and accordingly coming
+up to them; <hi>Help me my dear Aſpaſia,</hi> cryed the Queen, <hi>Help me
+to fly from this bewitching Man, to ſeek ſome ſilent cover for my
+ſhame, and hide my burning Bluſhes.</hi> At which the Queen having by a
+kind of Force got looſe from his Arms, immediatly ran away, leaving the Baron
+and <hi>Aſpaſia</hi> together. <hi>Aſpaſia,</hi> whoſe Part began at
+the Queens <hi>Exit,</hi> has now the opportu<g ref="char:EOLhyphen"/>nity of paying her endebted
+promiſe of ſerving the <pb n="20" facs="tcp:36723:14"/>Queen, and accordingly
+addreſſing to the Baron, in an artful and inſinuating Relation tells him,
+<hi>How ſurprizing the ſight of a Perſon ſometimes ſo dear to her had
+been; what a Paſſion it had awakned; what Violence, but all in vain, the
+Queen had put upon her ſelf: How Love had over-maſtered her Reaſon and
+Reſolution; what Fatality the</hi> Twice <hi>Victorious</hi> Sancti<g ref="char:EOLhyphen"/>fiore
+<hi>carried with him; and after all, how thankfully he ought to receive the
+yielded Laurel; and how Ho<g ref="char:EOLhyphen"/>nourably uſe his Triumph.</hi> Upon all which
+Topicks ſhe enlarged with all the Harange and Flouriſh fit for the Amorous
+Subject. All which <hi>Sanctifiore</hi> heard with that infinite Satisfaction
+and heighten'd De<g ref="char:EOLhyphen"/>light, and (having now found a Tongue) with a hundred
+ſeveral other moſt extravagant acknow<g ref="char:EOLhyphen"/>ments of the Divine
+<hi>Meſſalinas</hi> ſublime Favours, he conjured the kind
+<hi>Aſpaſia</hi> to aſſure her Majeſty that her ſmiles had rais'd
+him to that exalted Felicity, that he could even deſpiſe Kings, and
+almoſt pity Gods; and that had he millions of Lives and Souls, they were all
+her Vaſſals, and her Sacrifice. <hi>Aſpaſia</hi> being now come to the
+laſt point of her Commiſ<g ref="char:EOLhyphen"/>ſion, tells him ſhe muſt take her leave at
+preſent, but withal deſires him to make this Garden his walk alone after
+Sun-ſet, and ſo order his Affairs this Night, that he may Dedicate it to
+Felicities deſign'd for him; to which the Marchioneſs of <hi>Tomazo</hi>
+ſhould be his Harbinger: and ſo bids him good night, leaving him to all the
+Beatifick Viſi<g ref="char:EOLhyphen"/>ons in the Firſt Heaven of Love, <hi>Expectation.</hi>
+            </p>
+            <p>All things now conſpire to give our <hi>Meſſalina</hi> a
+Scene of Bliſs even to their higheſt Wiſhes; for the Evening is now
+drawing on, and our <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi> walking in the Garden with all the
+impatience of furious Love, repining at the very Sun for ſet<g ref="char:EOLhyphen"/>ting too ſlow,
+that his Happineſs could riſe no fa<g ref="char:EOLhyphen"/>ſter; <pb n="21" facs="tcp:36723:14"/>when
+<hi>Tomazo</hi> appears to him, and gives him a particular Mandate at Nine at
+Night to be in the Queens Gallery, where her ſelf ſhould be his farther
+Guid; and ſo retires to the Queen. Our Lover is not only fixt, and all
+preparations made for his Reception, but alſo, as her good Stars would have
+it, the Queen has not all this Day received one Viſit from
+<hi>Polydorus;</hi> his Indiſgeſti<g ref="char:EOLhyphen"/>on belike of laſt Nights
+over-ſurfeiting with his courſe Feaſt upon poor <hi>Lactilla</hi> for the
+miſtaken Regale of his Divine <hi>Meſſalina;</hi> his gorging with Lees,
+inſtead of Nectar; had put that melancholly ſhaggreen upon him, even to a
+ſhame that wan<g ref="char:EOLhyphen"/>ted Confidence (at leſt for one four and twenty hours) to
+look her in the Face; ſo that no Interruption from that Danger was like to
+diſturb her. The Hour of Nine now drawing nigh, ſomething of the earlieſt
+Bed-time with <hi>Meſſalina,</hi> (but a pre<g ref="char:EOLhyphen"/>tended Indiſpoſition had
+not only ſalved all that, but alſo cleared the whole Coaſt for the ſafe
+Ad<g ref="char:EOLhyphen"/>miſſion of her <hi>Sanctifiore,</hi>) amongſt other roving Fancies,
+<hi>Polydorus</hi> came into her Head, a Servant of that Quality, that at
+leaſt in due time muſt be conſidered; though at preſent her more
+dimini<g ref="char:EOLhyphen"/>tive Thought, (for Majeſty does not in all Caſes carry the
+Preheminence) compared with the over<g ref="char:EOLhyphen"/>ruling Aſcendance of <hi>all pure
+Love,</hi> in that Object of her more delicate Delight her dearer
+<hi>Sanctifiore.</hi> As <hi>Polydorus</hi> however was ſuch an Adorer, as
+for ſe<g ref="char:EOLhyphen"/>veral Reaſons muſt be endeared, her ruminating Fancy whiſper'd
+her, that, conſidering his abſence of a whole Day from her, and the known
+Malady the cauſe of it, ſhe could not do better than Write a kind Billet to
+him; a piece of Gallantry which after his late ſhameful Recoil in her Arms,
+would undoubtedly be received with that Rapture, and <pb n="22" facs="tcp:36723:15"/>ſo
+heighten his Value of his Darling <hi>Meſſalina,</hi> as might make for her
+Intereſt: Tis true, a Billet on that Subject from her, would be ſomewhat a
+fault on the <hi>Fond</hi> ſide of Love; however, as Fondneſs was always
+the captivating Allurement with <hi>Polydorus;</hi> (for even his once famous
+Veſtal Mrs. arrived to all her Grandeur by no other Charm,) and therefore
+excuſable; a little fondneſs too, on another account might be at preſent
+her wiſeſt Game, eſpecially ſhould <hi>Sanctifiore,</hi> (as ſhe
+truſted in her kindeſt Stars he would) ſtay long at Court; as a
+neceſſary and politick prevention of Jelouſy in <hi>Polydorus,</hi> a
+Frailty too much in his Nature; and which her Converſation with the Baron, if
+not artfully ma<g ref="char:EOLhyphen"/>naged, would give him ſpeedy occaſion for: and therefore
+reſolving to Dedicate to Morrow Night to the Embraces of <hi>Polydorus,</hi>
+ſhe ſets Pen to Pa<g ref="char:EOLhyphen"/>per and Writes this following Billet, Deſigned not to
+be delivered till to Morrow Morning, and ſo Written accordingly.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>To <hi>POLYDOR<g ref="char:V">Ʋ</g>S.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>A Whole Days unwonted Abſence of <hi>Po<g ref="char:EOLhyphen"/>lydorus</hi> muſt
+proceed from ſome un<g ref="char:EOLhyphen"/>common Cauſe; the unknown Reaſon of which, gives you
+this troubleſome Billet from a Jea<g ref="char:EOLhyphen"/>lous <hi>Meſſalina.</hi> However, both
+to Correct and Inſtruct you to Repair your Faults, ſo Order your Affairs,
+<hi>this Night,</hi> that you may receive your long Reprimand in the Arms
+of</p>
+                  <closer>
+                     <signed>MESSALINA.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <pb n="23" facs="tcp:36723:15"/> Having Sealed this ſhort but ſweet
+Epiſtle, ſhe gives it to <hi>Tomazo</hi> with a particular charge early to
+Morrow morning to attend the King, and either at, or before his upriſing,
+deliver it, or ſee it care<g ref="char:EOLhyphen"/>fully ſent in to him; having this farther
+reſerve of advantage to her ſelf in it; that the receipt of ſo welcome a
+Paper as the Invitation to her Bed at Night, would undoubtedly ſo take up our
+<hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> whole days thoughts, that ſhe need not fear any
+interrupting viſit from him in the morning, to incommode her happy Minutes in
+<hi>Sanctifiores</hi> Em<g ref="char:EOLhyphen"/>braces, whom ſhe is very well aſſur'd, ſhe
+ſhall not be willing ſo eaſily nor over early to part with<g ref="char:punc">▪</g>
+               <hi>Tomazo</hi> engages to execute her Commiſſion with due Diligence and
+Application; and now the hour of Nine approaching, lends her helping Hand to
+undreſs the Queen, and puts her to Bed; and that done, goes in Queſt of the
+Baron, whom ſhe ſoon finds in the Gallery, and having introduced him, tells
+the Queen, <hi>ſhe had brought a Mate for a coo<g ref="char:EOLhyphen"/>ing Turtle;</hi> and ſo
+leaving the two happy Lovers to an abſolute <hi>Jubile of Love,</hi> (where
+the whole Arrears of an Age are to be paid in the <hi>Revels</hi> of a Night;)
+ſhe locks 'em in together, and bids 'em good Night. Tis true, the
+Marchioneſſes apartment was an ad<g ref="char:EOLhyphen"/>jacent Chamber to the Queens, with a Door
+of Communication between 'em, where as being now the Queens only Night-waiting
+Bed-Chamber Lady, ſhe always lay, as a Matron of that ſworn Secre<g ref="char:EOLhyphen"/>ſy and
+Fidelity to <hi>Meſſalina,</hi> that upon all occa<g ref="char:EOLhyphen"/>ſions was to be
+confided in, in Matters and In<g ref="char:EOLhyphen"/>trigues, not to be committed to the Charge or
+Truſt of any common Courtier: however, ſhe thought it a little of the
+earlieſt for any but <hi>Pairs</hi> to go to Bed yet. Beſides, for another
+great rea<g ref="char:EOLhyphen"/>ſon, ſhe was not over-fond of being a Liſtner to 
+<pb n="24" facs="tcp:36723:16"/>Joys ſo near her, as but at one thin Walls di<g ref="char:EOLhyphen"/>ſtance,
+which old as ſhe was, might perhaps put her into longings that might
+diſturb her Nights ſleep; for which Cauſe ſhe would prudently keep away
+an hour or two, not only to return a little more ſleepy to Bed, and thereby
+leſs capable of receiving that diſturbance, but alſo to find the Lovers
+too after two hours engagement the leſs capable of giving her that
+diſturbance. Sway'd by theſe Reaſons our <hi>Tomazo</hi> withdraws; and
+imme<g ref="char:EOLhyphen"/>diately taking her Chair deſigns to ſpend an hour or two in viſits.
+Her firſt Ramble carried her to a knot of <hi>Gothick</hi> Ladies of her
+acquaintance, en<g ref="char:EOLhyphen"/>gaged at Cards, where ſhe fell in and made one at
+<hi>Ombre;</hi> but her luck being bad, after a two hour looſing Hand, it
+being now paſt eleven, ſhe thinks it time to adjourn homewards; but in her
+march, being to paſs under <hi>Aſpaſias</hi> Window, and finding
+extraordinary Lights in her Lodgings, and a great Crowd of Coaches and
+Attendance at her Door, ſhe ſtops her Chair, and reſolves to look in, and
+ſee what good Company ſhe had gotten, and ſo bid good Night and to Bed:
+When ſhe comes up, who ſhould ſhe meet there but <hi>Polydorus</hi> and a
+very great Trian of the greateſt Grandees of <hi>Gothland</hi> making their
+Court to <hi>Aſpa<g ref="char:EOLhyphen"/>ſia:</hi> For the King hearing of the Arrival of a Lady
+of her Intimacy with <hi>Meſſalina,</hi> and likewiſe the Wife of a
+Perſon of that eminent Fidelity; and Zeal in the <hi>Pagan</hi> Cauſe as
+her Lord <hi>Latroon;</hi> had generouſly vouchſafed her the Honour of a
+Viſit, attended with the higheſt Nobility of his King<g ref="char:EOLhyphen"/>dom. Our
+<hi>Tomazo</hi> meeting <hi>Polydorus</hi> ſo Fortu<g ref="char:EOLhyphen"/>nately, preſently
+conſiders with her ſelf, that ei<g ref="char:EOLhyphen"/>ther ſome neceſſary Service to the
+Queen, or her own Reſt in the Morning, may poſſibly make her 
+<pb n="25" facs="tcp:36723:16"/>over-ſlip her critical Time of obeying the Queens
+Commands in the delivery of her Letter; beſides the needleſs Trouble of a
+mornings Ramble and Attendance, for what an opportunity much fairer was
+preſented; ſhe reſolves to embrace this good Fortune, and by way of
+ſupererrogation not ſtay till to Morrow, but give him the Queens Billet to
+Night. Accordingly watching his motions, by a private Sign expreſſing her
+Inclination of ſpeak<g ref="char:EOLhyphen"/>ing with the King, <hi>Polydorus</hi> inſtantly
+ſingles himſelf out to a Window at ſome little di<g ref="char:EOLhyphen"/>ſtance, where the
+Marchioneſs without any words ſteals the Billet into his Hand; and after a
+Com<g ref="char:EOLhyphen"/>pliment made, takes her leave, <hi>Aſpaſia</hi> and the reſt of the
+Noble Company, preſt much for her ſtay: but excuſing her ſelf with the
+lateneſs of the Night, and her own Conſtitution that could not
+di<g ref="char:EOLhyphen"/>ſpenſe with unſeaſonable Hours; but above all that ſhe did not
+expect ſo ſplendid a Court, her viſit being only intended <hi>en
+paſſant</hi> in her way to Bed, ſhe immediately withdraws, takes Chair,
+and moves off; and entering her Lodging with all the ten<g ref="char:EOLhyphen"/>dereſt ſilence
+ſhe could, for fear of diſturbing that ſhort but neceſſary Repoſe
+of the Lovers, to which their hearty fatigue no doubt by this time invited
+them, ſhe ſteals into Bed; where [leaving her to her Reſt, and returning
+to our <hi>Polydorus.</hi>] No ſooner had <hi>Tomazo</hi> delivered the
+Letter as we told you, but the King notwithſtanding the ſilent delivery,
+not doubting <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut it come from the
+Queen, both by the Meſſenger and the manner of the convey<g ref="char:EOLhyphen"/>ance into his
+hand, was not a little tranſported at the very receipt of a Billet from
+<hi>Meſſalina;</hi> but when he came to Read it, and found himſelf that
+bleſt and more than happy Man, to be invited to the Bed of his
+<hi>Meſſalina,</hi> a whole Night in her <pb n="26" facs="tcp:36723:17"/>Arms; and
+<hi>this very Night,</hi> (for ſo the Invita<g ref="char:EOLhyphen"/>tion ran) he was ſo rapt with
+the very thought, that he could hardly contain himſelf, ſo extrava<g ref="char:EOLhyphen"/>gant a
+Joy poſſeſt him: However, with all the Decorum and Civility ſo haſty
+a parting Compli<g ref="char:EOLhyphen"/>ment would admit, he takes his leave of <hi>Aſpaſia,</hi>
+for indeed his Soul was upon the Wing; and no expedition faſt enough, to
+carry him to the Arms of his <hi>Meſſalina.</hi> Diſmiſſing therefore
+at his de<g ref="char:EOLhyphen"/>parture all his Nobles, Attendants, and his very Guards, he only
+Selects two confiding Grandees Maſqueraded for his preſent <hi>Gaurd du
+Corps,</hi> and immediately putting himſelf into incognito and in a private
+Chair, with theſe only Attendance is he carried to the Queens Palace. Where
+leaving his Chair below and the two Noble Maſquera<g ref="char:EOLhyphen"/>ders as his Watchmen and
+Scouts, up ſtairs he mounts, and opening all Doors by his Key, he is
+inſtantly got to the Queens Bed-Chamber. But as the General Keys of the
+Palace could open all other Doors, and he had made his own way thus far:
+However, he muſt be forced to depend upon the Queens Favour for Entrance
+here. According<g ref="char:EOLhyphen"/>ly firſt modeſtly (in the Court faſhion) ſcraping at
+the Door, but hearing no anſwer; (for truly at this minute, the Queen and her
+<hi>Sanctifiore</hi> were in a Goulden Slumber, poſſibly repeating in a
+lovely Dream, the Joys on which they had ſo lately and largely Feaſted
+waking,) after three or four times endeavouring to be heard by this gentler
+ſort of motion for Admiſſion, and no anſwer returned; enboldned at
+laſt by the impatience of Love, he ventures to make a pretty ſmart knock,
+and with an audible Voice to call, <hi>Tomazo! Tomazo! Madam, the
+Marchioneſs!</hi> This unexpected Alarm, the di<g ref="char:EOLhyphen"/>ſtinct Voice of
+<hi>Polydorus</hi> at her Bed-Chamber-Door, <pb n="27" facs="tcp:36723:17"/>put our
+<hi>Meſſalina</hi> (who with her awakning Lover had now both their Eyes and
+their Ears too open) into ſo terrible a fright, as made her ſink almoſt
+dead into the Arms of her <hi>Sanctifiore,</hi> (a very un<g ref="char:EOLhyphen"/>reſting Pillow at
+preſent) for ſo diſmal an ap<g ref="char:EOLhyphen"/>prehenſion had ſeized her, that the
+Kings Pre<g ref="char:EOLhyphen"/>ſence in that manner, unſent for, and at ſo unſea<g ref="char:EOLhyphen"/>ſonable
+an hour, appeared to her (ſo far from the real cauſe that brought him)
+nothing leſs than cer<g ref="char:EOLhyphen"/>tainly ſome Matchivil Train againſt her own Ho<g ref="char:EOLhyphen"/>nour
+and her dear <hi>Sanctifiores</hi> Life, and that un<g ref="char:EOLhyphen"/>doubtedly he had half a
+Battallion at leaſt at his Heels for the Execution of it What
+tremendous-Forms this ſudden Gorgon had rais'd, may eaſily be imagined;
+when all ſhe could utter, was; <hi>Oh my</hi> Sanctifiore, <hi>we are
+undone.</hi> Nor wanted our Ba<g ref="char:EOLhyphen"/>ron ſome little ſeeling too of
+<hi>Meſſalinas</hi> pain; for as naturally undaunted as he was at the
+Faceing of Death, and as much, and as long prepared as our brisk Warriour had
+been for ſleeping in the <hi>Bed of Honour;</hi> yet as his own Reaſon,
+beſides the Queens Fright, ſuggeſted that nothing but ſome Revenge<g ref="char:EOLhyphen"/>ful
+tranſport of Jealous Love, could make the King ſo untimely a viſitant:
+His violent ſuſpicion of ſome ill-boding impendent Fatality upon
+himſelf put him in a little Bodily fear at preſent. The ſame. Alarm too,
+had rowzed our <hi>Tomazo,</hi> who ſcarce ten minutes in Bed, and not ſive
+of them aſleep, was in a perfect maze half aſleep, and half awake, in her
+Smock by the Queens-Bed. <hi>Oh my Tomazo,</hi> crys the Queen, <hi>What
+curſed Deſtiny has conſpired my Ruine.</hi> Nay, <hi>Madam,</hi>
+anſwered the Marchioneſs, <hi>I know not what Devil's in the Wind, unleſs
+the King has miſtaken your Letter. My Letter,</hi> Cryed the Queen; <hi>Sure
+thou haſt not given it him? Yes, by my Troth, I met him at</hi> Aſpaſias 
+<pb n="28" facs="tcp:36723:18"/>
+               <hi>Lodgings, and to ſave the trouble of a Journey to
+Morrow morning—Nay then,</hi> Cryes <hi>Meſſalina, the Cauſe is
+plain, and thy officious folly has undone me.</hi> However, recovering ſome
+of her frighted Senſes again, at the ſatisfaction ſhe received from
+<hi>Tomazo,</hi> which had diſſipated her firſt hideous ap<g ref="char:EOLhyphen"/>paritions; and
+finding that a gentle tho' croſs Gale of Love, and not a ſtorm of Vengeance
+had dri<g ref="char:EOLhyphen"/>ven him thither; upon farther re-collection of mind, as unlucky as the
+accident is, in one half minutes thought, ſhe has caſt about to recover
+all, and retrive both his Life, and her own Honour. And thereupon in a few
+ſhort huddled Words, ſhe tells the Baron that ſhe muſt beg his Pardon,
+that there was an unfortunate Amour between her ſelf and <hi>Polydorus;</hi>
+that a miſtaken delivery of a Letter had occaſioned this unhappy Viſit of
+the King; that nothing but <hi>Polydorus</hi> admiſſion could pacify all;
+and that if he valued his own Safety or her Reputation, he had no other means
+of ſhelter from the certain Vengeance of a too powerful Rival, but by
+inſtantly concealing himſelf in <hi>To<g ref="char:EOLhyphen"/>mazo's</hi> Chamber, and lying
+huſht in her Bed, till ſhe received the King; and by her management made
+way for his Deliverance. This Propoſal was immediately embraced, and without
+any reply, <hi>Tomazo</hi> and <hi>Sanctifiore,</hi> are all hands at work at a
+nimble conveyance of all his Cloaths, Sword, Wig, Hat, and all other Rigging
+into the next Room, as well as the darkneſs of the Night would per<g ref="char:EOLhyphen"/>mit, for
+the laſt Candle was put out when <hi>To<g ref="char:EOLhyphen"/>mazo</hi> went to Bed; whilſt the
+Queen in the mean time, for want of better Attendance was put to the making her
+own Bed again, and laying the Pillows, the Bed-cloaths, <hi>&amp;c.</hi> in as
+much Decency and Order again as poſſibly ſo ſhort a warning 
+<pb n="29" facs="tcp:36723:18"/>from ſo late a ruffle could put'em into. All which
+performed with all the hurry and expedition ima<g ref="char:EOLhyphen"/>ginable, and our
+<hi>Sanctifiore</hi> got ſnug into <hi>Tomazoes</hi> Bed, the Marchioneſs
+unlocks the Door and admits the King, and with an immediate Apology ready at
+her Tongues End, to excuſe his Reception in the dark, which otherwiſe might
+have ſuprized him. <hi>Oh Sir,</hi> ſays ſhe, <hi>Excuſe the weakneſs
+of my poor Mrs. that loves you but too well, who is ſo ſtrangely aſhamed
+of that bold Paper ſhe ſent you, that ſhe dares not expoſe her
+Bluſhes to the light, to think what a fond Creature you have made of
+her.</hi> The King thus introduced, immediately unriggs him<g ref="char:EOLhyphen"/>ſelf for Bed,
+where the Queen receives him with ſuch open Arms, and endearing Embraces,
+that nothing poſſibly appeared more kind; tho' in truth our amorous Monarch
+comes but to a poor thin Gleaning in the Field of Love, after ſo large a
+Harveſt ſo profuſely cropt and carried off before; for in reality, her
+heartier ſatigue with <hi>Sanctifiore</hi> had ſo much imbeciled her
+Preſent Careſſes, that her moſt paſſionate Languiſhments in
+<hi>Polydorus</hi> Arms are little better than feigned, the movements ra<g ref="char:EOLhyphen"/>ther
+of Art than Nature; (a refuge always favour<g ref="char:EOLhyphen"/>able to that fair ſex, who
+boaſt that peculiar Ad<g ref="char:EOLhyphen"/>vantage above ours, that in the aſſaults of Love
+they can battle without Amunition, and engage even with the empty Quiver when
+all the Bolts are gone.) Tis thus, our fondling <hi>Meſſalina</hi> manages
+her wanton Dalliances with the more than raviſht <hi>Polydorus.</hi> On the
+other ſide, our ſculking <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi> lying <hi>Perdue</hi> in
+<hi>Tomazoes</hi> Bed, with the cold comfort of an old Matron by his ſide.
+(but that's the leaſt of his grievance) and troth with a pure Virgine
+Innocence too, lies ruminating with a hundred reſtleſs Thoughts about him.
+One while <pb n="30" facs="tcp:36723:19"/>he thinks of the Paradiſe he is ſo ſuddenly
+ex<g ref="char:EOLhyphen"/>cluded from; then of the aggravating conſidera<g ref="char:EOLhyphen"/>tion of the over-rivalling
+Imperial Raviſher that baniſhes him; after that, the ill-paid Merit of ſo
+many ſighing languiſhing Years for the adored <hi>Meſſalina,</hi>
+rewarded by his penurious Stars, only with one poor hour of happineſs; and
+that too, immediately ſullied and blaſted by the incroaching Felicity of a
+more happy, or at leaſt more for<g ref="char:EOLhyphen"/>midable Favourite; and even his own yet
+warm, yet melting Careſſes in her Arms, all daſht and blended; (Oh the
+nauſeating Imagination) with the miſcellanious Adulteration of
+ſlubberd-Joyes: and above all, himſelf ſo totally excluded from all his
+poor ſhort Reign of Victory, as if his ſucceed<g ref="char:EOLhyphen"/>ing bolder Triumpher had
+razed the very Mo<g ref="char:EOLhyphen"/>numents, and even defaced the memory and foot<g ref="char:EOLhyphen"/>ſteps of his
+Conqueſt: So witty and curious is Thought to its own tormenting pain; and
+ſo ſullen and gloomy Contemplation where the vapours of diſturb'd Love
+ſit brooding for the exhalation. Perhaps after another turn on his Bed, (ſo
+vo<g ref="char:EOLhyphen"/>luble is the rowl of Fancy,) a more ſmiling <hi>Idea</hi> dawns before
+him. Firſt, he remembers with what killing Horrours ſhe heard the very Name
+of <hi>Po<g ref="char:EOLhyphen"/>lydorus,</hi> and almoſt fell dead into his Arms, even at the
+ſound. Then he reflected with what re<g ref="char:EOLhyphen"/>velling Dalliances, Love flowed in
+Torrents. (Oh the balmy ſweets!) Embraces ſo twining, as if her
+tranſmigrating Soul had Kiſt through her Lips. And if the pitied poor
+deluded <hi>Polydorus,</hi> by the Caprice of wanton Fortune, was blindly
+ſhuffled into her Arms; what then! he comes too late: Alas, the purer Fires
+were all burnt out before; himſelf, his happy ſelf, had run down all the
+Gold, the bright <hi>Elixir;</hi> and the dull drudging Chymiſt 
+<pb n="31" facs="tcp:36723:19"/>after him was only toyling amongſt Smoak and Cinders;
+perhaps indeed ſhe kiſt him, embraced him: meer cheat, hypocricy; a bribe
+for her own Honour, and the Life of her <hi>Sanctifiore.</hi> In ſhort, he
+had found himſelf ſo dear a gueſt to her Bo<g ref="char:EOLhyphen"/>ſom, heard thoſe
+proteſting Accents from her Lips, that ſealed 'em as they ſell; ſo
+ſealed 'em that <hi>Po<g ref="char:EOLhyphen"/>lydorus</hi> comes but an intruder; ſteals her
+forced, tired, unwilling kiſſes, and only plays the Riffler and the
+Plunderer. But to draw towards Mor<g ref="char:EOLhyphen"/>ning, our Lovers all kept reſtleſs, and
+pleaſed on all ſides; our <hi>Sanctifiore</hi> with the tickling
+ſatis<g ref="char:EOLhyphen"/>faction of a cullied unenvied <hi>Polydorus;</hi> our
+<hi>Meſſa<g ref="char:EOLhyphen"/>lina,</hi> though diſappointed of ſublimer Pleaſures, yet
+not a little delighted to think how cheap, and yet ſo high her Arms had
+treated, in furniſhing out ſo Rich a Feaſt to the Rioting
+<hi>Polydorus,</hi> with all but Fragments; her whole Nights Charms all o're
+ſo lovely fair, and yet their Gold beat out ſo thin. But after all their
+ſeveral ſatisfactions, upon the firſt peep of Day, our cautious
+<hi>Meſſalina</hi> bethinks her ſelf of her wiſe and timely
+diſlodgement of her <hi>Polydorus:</hi> Accordingly ſhe tells him, <hi>that
+if he va<g ref="char:EOLhyphen"/>lues the continuation of her Favours, the preſerving her Reputation
+must be the effectual means of ſecuring 'em;</hi> wherefore, how unwilling
+ſoever, ſhe is com<g ref="char:EOLhyphen"/>pelled to deſire his upriſing, and his ſecuring
+his ſafe retreat by the kind ſhelter of the ſame friend<g ref="char:EOLhyphen"/>ly darkneſs
+that introduced him. The <hi>King,</hi> who indeed by this had exhauſted his
+whole preſent Artillery, is the readier to obey her Commands, to have the
+fairer opportunity of quitting the Field with Honor; and as dark as it was,
+made a ſhift to dreſs him in his <hi>Diſhabilee,</hi> (the Queen begging
+Excuſe that <hi>Tomazo</hi> was not called to ſtrike a Light, leaſt the
+blaze of a new lighted <pb n="32" facs="tcp:36723:20"/>Candle at that unſeaſonable hour
+in her own Bed-Chamber, might occaſion matter of curioſity to any
+accidental wakeing Eye near it.) The <hi>King</hi> after a Hundred
+Proteſtations and Vows of Eternal Love and Fidelity, by the help of
+<hi>Tomazo,</hi> who un<g ref="char:EOLhyphen"/>locks the Door for him, retires to his Chair, and ſo
+home to his Bed; his little ſleep-truly, and much exerciſe, of his riffled
+Spirits all Night inviting him to a heartier Mornings ſlumber, than ordinary.
+The <hi>King</hi> is no ſooner departed, but the Queen pre<g ref="char:EOLhyphen"/>pared for twenty
+little amorous Excuſes to her <hi>Sanctifiore,</hi> for her unfortunate Amour
+with <hi>Poly<g ref="char:EOLhyphen"/>dorus,</hi> by her ſummons likewiſe, the Baron begins to
+dreſs himſelf; but immediately upon ſearch for his Cloathes, amongſt
+all his other Rigging, he miſſes his Breeches; which upon ſudden
+re-col<g ref="char:EOLhyphen"/>lection, muſt either be unluckily left behind upon the Queens Couch by
+her Bed-ſide in the hurry of their removal, or elſe dropt in the
+paſſage by by the way. Inſtant inquiry is thereupon made, when to his no
+little ſurprize and confuſion, he finds the Kings Breeches dropt behind the
+Couch; and his own very fairly marcht off with by the <hi>King</hi> in their
+ſtead. What ſudden out-cry on all Hands this fatal miſtake had raiſed,
+may well be imagined. As for <hi>Tomazo,</hi> ſhe was almoſt
+thun<g ref="char:EOLhyphen"/>der-ſtruck to think, not only the Firſt, in the de<g ref="char:EOLhyphen"/>livery of the
+Queens Letter, but alſo, this laſt more fatal Errour lay wholly at her
+Door; that in her accurſed over-haſte, ſhe ſhould ſo unfortunately
+drop the Barons Breeches from out the reſt of his Cloathes, and the
+<hi>King</hi> ſo unluckily to meet with them. The firſt ſhock of their
+fright was ſuch, that except [ruin'd, betray'd, undone!] or ſome other
+ſuch ſhort Raptures to the ſame tune, they could hardly get out one
+reaſonable word. <pb n="33" facs="tcp:36723:20"/>But at laſt, a little conſideration
+being thought ſea<g ref="char:EOLhyphen"/>ſonable; they begin to examine the inſide and
+out<g ref="char:EOLhyphen"/>ſide marks of Both the Breeches, to ſee if there were any ſhaddow of
+hopes, that the King going home to Bed, might not poſſibly diſcover the
+miſtake. As for the Breeches themſelves, it fell out ſo that they were
+both Velvet, the Kings only Crimſon, and the Barons Scarlet. In the Kings
+pockets were only a few pieces of Gold, and a Gold Watch, with a Seal cut in a
+Ruby, tied to the Chain of it, and a ſnutch-Box: But the Baron in the
+diſcovery of his pockets, tells the Queen, <hi>Tis true, he had a Gold Watch
+in his too, and ſome ſmall matter of Money; but then here came the
+miſery, his Commiſſion was in his pocket; (plain demonſtration in the
+caſe, that would infallibly riſe up in Judgment againſt him;) and
+be<g ref="char:EOLhyphen"/>ſides, that very Jewel that he valued above his Life, her Majeſties
+Picture ſet in Diamonds, preſented to him as a mark of her Firſt Favours,
+which he had ever about him. Alas,</hi> Replied the Queen, <hi>That fooliſh
+Trifle is not worth your thought, that loſs might be Repaired; beſides, my
+dear</hi> Sanctifiore <hi>has ſo much Intereſt in the ſubstance; that the
+loſs of the ſhaddow ſhould not afflict him. But oh! this accurſed
+Com<g ref="char:EOLhyphen"/>miſſion! That fatal Paper points out my dear</hi> Sancti<g ref="char:EOLhyphen"/>fiore <hi>a
+certain Victim to the Bloody Rage of</hi> Poly<g ref="char:EOLhyphen"/>dorus. At this laſt
+Apprehenſion ſhe could not forbear burſting out into a torrent of Tears,
+which wrought a very tender Impreſſion in the Baron, Having at laſt
+retrieved Reaſon enough from an hundred paſſionate Expreſſions in
+concern for her Barons danger; upon farther debate upon this ac<g ref="char:EOLhyphen"/>cident, they
+conſidered, poſſibly the King might go to Bed without taking Cognizance
+of the colour of his Breeches; and alſo have no occaſion of ſearching his
+pockets to make any diſcovery by the <pb n="34" facs="tcp:36723:21"/>Inſide.
+Intelligence; and more than that, the Maſter of his Ward-robe might lay out
+other Cloaths for his next dreſſing. But, alas, what ſig<g ref="char:EOLhyphen"/>nified that; for
+though indeed all the Money found in 'em goes to a Fee; both the Watch, the
+Picture, and the Commiſſion, would certainly (as cuſtomary) be put into
+the pockets of whatever Breeches he ſhould next wear; ſo that either way,
+the Kings ſurprize at finding all thoſe things about him, would lead him
+into a thouſand Imaginations, but none of 'em either to
+<hi>Meſſalina</hi>'s Honour, or to <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi>'s Safety. What to
+do, or which way to turn themſelves in this unhappy Labyrinth, they can<g ref="char:EOLhyphen"/>not
+tell. However, 'tis reſolved between them, that <hi>Sanctifiore</hi> ſhould
+immediately withdraw, leſt the King might return and ſurprize him there,
+and not go to his own, but <hi>Aſpaſia</hi>'s Lodgings, to be out of harms
+way till ſuch time ſhe had felt the Kings Pulſe: For as ſooner or later
+the King muſt find thoſe things, undoubtedly his Curioſity, (whatever his
+Reſentments were) would ſoon bring him to the Queen; and if ſo,
+poſſibly Womans wit, which yet never fail'd her, would ſo far friend her,
+as to ſave all. For as 'twas impoſſible for her to know the Kings
+particular Sentiments till ſhe ſaw him; ſo all ſtirring in the matter
+before then, might rather create Jealouſies, than allay them. Beſides,
+ſhe had ſo much confidence in her own aſſurance, that her bluſhes
+ſhould not betray her Guilt; and whatever humour ſhe found him in, ſhe
+was reſolved to look ſo unconcern'd, and wear ſuch perfect Innocence in
+her Face and her behaviour, as well managed might make for both their Safety:
+Accordingly <hi>Sanctifiore,</hi> with two or three deep ſighes of his own,
+and as many of the Queens, and a wet Eye too into the bargain, takes 
+<pb n="35" facs="tcp:36723:21"/>his leave, ſubmitting the whole diſpoſal of his
+Deſtiny to no other Guardian-Angel than <hi>Meſſa<g ref="char:EOLhyphen"/>lina.</hi>
+            </p>
+            <p>But to return to our <hi>Polydorus,</hi> whoſe Contem<g ref="char:EOLhyphen"/>plations
+at his parting with <hi>Meſſalina</hi> had rapt him much above the
+conſideration of what colour his Breeches were of, it goes ſo fair for us,
+that he's at preſent in Bed heartily ſleeping; and no part of any
+diſcoveries yet made. And being to give Audience about Eleven a Clock this
+Morning to an Embaſſadour Extraordinary from the <hi>Grand Seigniour;</hi>
+a very Rich Embroidered Suite for the State of the Day is ready for his
+wearing. <hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> being got up and dreſt, no ſooner than juſt
+time enough for the appointed hour of Audience; in the middle of the
+Embaſſadours Speech, putting his hand in his pocket for his Snutch-Box, he
+lights upon a Gold Box, which opening, he finds the Contents much Richer than
+the outſide, <hi>viz.</hi> the Queen of <hi>Albions</hi> Picture ſet in
+Diamonds. The ſight of ſo dazling a Jewel ſtriking ſo ſudden upon
+him, and ſo unexpected, appeared a meer Viſion to him. The Darts that
+attended even but the ſhaddow of his adored <hi>Meſſalina,</hi> gave him
+a touch ſo near his heart, that he could not but conceive an infinite
+Pleaſure at ſo charming a miniature of the beauties of his <hi>Albion</hi>
+Divinity—. But how came he by it? ſo ineſtimable a Jewel in his
+poſ<g ref="char:EOLhyphen"/>ſeſion, and yet ſo unaccountably dropt into his Hands! I, that's
+the quection! Yes, ſuch a que<g ref="char:EOLhyphen"/>ſtion which Love, that always plays its own
+flat<g ref="char:EOLhyphen"/>terrer, ſoon anſwers for him. For that generous
+<hi>Meſſalina,</hi> who had given him ſuch a Night of Raptures, nay, and
+had Written her ſelf the invi<g ref="char:EOLhyphen"/>ting Summons into ſo fragrant a Field of
+Paradice; as an amorous Endearment to her ſo highly, fa<g ref="char:EOLhyphen"/>voured 
+<pb n="36" facs="tcp:36723:22"/>
+               <hi>Polydorus,</hi> muſt undoubtedly have gotten this
+Jewel conveyed into his Pocket; a Careſs ſo ſurprizing as infinitely
+heightned (if poſſible) the value of the Preſent. Amongſt an hundred
+plea<g ref="char:EOLhyphen"/>ſing Thoughts, (for the fond are eaſily tickled) upon ſo
+ſurprizing an Adventure, (which indeed had ſo taken up his Meditations,
+that he was but an indifferent Attender to the Embaſſy) it came into his
+head to dive a little deeper into his poc<g ref="char:EOLhyphen"/>ket; for if the Rich Mine, upon the
+firſt ſearch had produced ſo wealthy a Treaſure, poſſibly it was
+not yet wholly exhauſted. For who knows, thought he, (for Love is naturally
+avaritious) but his <hi>Meſſalina</hi> may have obliged him with ſome
+other kind Favour, if 'twere no more than a Let<g ref="char:EOLhyphen"/>ter with it, as a kind
+Interpreter to the ſilent Oratory of this Beauteous but Toungleſs Charmer.
+Accordingly, upon a ſecond ſearch in his Pockets, he lights upon the Barons
+Commiſſion. How, <hi>San<g ref="char:EOLhyphen"/>ctifiores.</hi> Commiſſion in
+<hi>Polydorus</hi>'s Pocket! Yes, very likely. The Queens Country-man, nay, and
+ſome part of a Relation to her! And undoubtedly his Commiſſion by the
+ſame fair Hand convey'd into his Pocket, as her Picture was: And though his
+preſent Apprehenſion cannot lead him to any fixt or poſitive Conjecture,
+why her Picture ſhould come ſo attended, he has no Curioſity for ſo
+puz<g ref="char:EOLhyphen"/>ling an inquiry. Let it ſuffice her fair Hand has lodged it there, for
+Cauſes and Reaſons to her ſelf beſt known; which in her
+<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>n due time, her own fair Lips will
+vouchſafe to explain<g ref="char:punc">▪</g> It is enough, he's Maſter of a Jewel of that
+ineſtima<g ref="char:EOLhyphen"/>ble Value, the Sacred Image of his Goddeſs, the unqueſtioned
+Demonſtration of her kindeſt Favour, with neither Riddle nor Myſtery in
+it; but all Love, pure Love, and nothing elſe but Love both 
+<pb n="37" facs="tcp:36723:22"/>in the Bleſſing and the Conveyance of it. Our
+<hi>Polidorus</hi> is ſo all on Fire to be throwing himſelf at his
+<hi>Meſſalinas</hi> Feet, in Gratitude for ſo tran<g ref="char:EOLhyphen"/>ſcendant an
+Endearment, that he is almoſt impa<g ref="char:EOLhyphen"/>tient till the Embaſſy's finiſht,
+(it being the firſt time that an <hi>Ottoman</hi> Embaſſadour could tire
+him before.) And that diſpatcht, he immediately poſts away to the Queens
+Palace; whether he comes with that chearful and indeed tranſported Look, that
+<hi>Meſſalina</hi> began to read a favourable prologue in his very Eyes.
+The King finding the Queen alone with only <hi>Tomazo,</hi> (for indeed the
+Queen had ſo managed it, as to avoid all Viſits on pur<g ref="char:EOLhyphen"/>poſe for a private
+Conference) <hi>Oh Madam,</hi> [fall<g ref="char:EOLhyphen"/>ing upon his Knees] <hi>You have ſo
+greatly Surprized me, ſo bleſt me—This little Divinity, this
+unva<g ref="char:EOLhyphen"/>luable Treaſure—[kiſſing the Picture] Fie, Sir, [raiſing
+him]</hi> Replied the Queen, <hi>But pray [ſmiling] when did this little
+Divinity (as you are pleaſed to call it,) that it ſeems deſcended in a
+Cloud, firſt diſcover it ſelf to you? Oh Madam, not above half an hour
+ago. Just in the height of my attending the</hi> Ottoman <hi>Embaſſy, I
+found this little Dear Beauty crept into my Hand, with that ſurprize, that I
+pro<g ref="char:EOLhyphen"/>test, it put my whole Politicks of Empire, quite out of my Head; and my
+heart was ſo wholly taken up with receiving this little Envoy from the fair
+Ma<g ref="char:EOLhyphen"/>jeſty of</hi> Albion, <hi>that I had not leizure to lend Audi<g ref="char:EOLhyphen"/>ence to any
+leſs favoured Royal Repreſentative.</hi> The Queen, who by
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>his time had made diſcovery
+e<g ref="char:EOLhyphen"/>nough to lighten the whole Load of her Soul, thought it ſeaſonable to
+make this anſwer. <hi>Well, Sir, you ſee what a confident thing your Love,
+or rather my own has made me; that I durſt take the boldneſs, by the help
+of kind</hi> Tomazo, <hi>to ſteal ſo worthleſs a trifle into your
+Pockets—Worthleſs!</hi> 
+               <pb n="38" facs="tcp:36723:23"/>Replied the King? <hi>Yes,
+my</hi> Polydorus, anſwered Meſſalina, <hi>worthleſs indeed; that poor
+dull ſhaddow, a faint and weak Reſembler of the paſſionate</hi>
+Meſſa<g ref="char:EOLhyphen"/>lina, <hi>when her Soul, her intire Devoted Soul to</hi> Poly<g ref="char:EOLhyphen"/>dorus,
+<hi>not all the Pencils in the World can draw. That Imagery, that
+Pourtraict-work fit only for the Pencil of the Gods, the Gods that know, that
+ſee, yes, and themſelves inſpired that Heart, where</hi> Po<g ref="char:EOLhyphen"/>lydorus
+<hi>Reigns, and Reigns alone. But, alas, whether does Love tranſport me! Let
+me not boaſt my Virtues too fast, before I firſt beg Pardon for my Faults.
+For I have committed a greater piece of boldneſs yet, in diſarming a
+Collonel of yours. To take his Com<g ref="char:EOLhyphen"/>miſſion from him, was an Atchievement
+which perhaps no power but</hi> Meſſalina<hi>'s could have performed. But
+as a near Relation of</hi> Meſſalina, <hi>and a Native Sub<g ref="char:EOLhyphen"/>ject of my
+Brother, I hope you'l Excuſe his Re-ſigna<g ref="char:EOLhyphen"/>tion to my abſolute Commands
+laid upon him. Nay, Sir, I have yet greater Preſumption that wants your
+Forgivenneſs. For that Commiſſion ſo boldly intruding into your Royal
+Hands, carries a bolder Petition along with it from a ſupplicating</hi>
+Meſſalina, <hi>whoſe Natural Affection for a Perſon ſo near to her
+Blood, brings her a Suitor to your Majesty, that, that Com<g ref="char:EOLhyphen"/>miſſion, though
+it ſelf already ſo Honourable; yet, if</hi> Sanctiſiores <hi>Courage and
+Fidelity, and my Interceſſion may prevail; may (when Opportunity will
+ſerve, or a Vacancy permit) receive ſome ſmall additional Glory for my
+ſake. Opportunity! and Vacancy!</hi> Replied <hi>Polydorus. Wait tedious
+Months, <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Weeks, or Days, to
+grant a Boon, my Royal</hi> Meſſalina <hi>vouchſafes to ask her</hi>
+Polydorus? <hi>No,</hi> Madam, <hi>thus I cancel his Commiſſion,</hi>
+[pulling it out of his Pocket, and tearing off the Seal] <hi>and in Exchange
+for a poor Regiment of Horſe, I from this minute Create him a</hi>
+Mareſ<g ref="char:EOLhyphen"/>chal <hi>of</hi> Gallia; <hi>and bid him wait on me at Supper 
+<pb n="39" facs="tcp:36723:23"/>to receive his New Commiſſion.</hi> The Queen almoſt
+raviſhed at the Gallantry of <hi>Polydorus,</hi> on ſo plea<g ref="char:EOLhyphen"/>ſing a
+Subject as the Advancement of her <hi>Sancti<g ref="char:EOLhyphen"/>fiore,</hi> was Launching into a
+hundred Thanks and Acknowledgments; when the impatient <hi>Polydorus</hi>
+interrupting her. <hi>Hold,</hi> Madam, <hi>I can hear no more, oh ſpare
+thoſe unindebted Thanks; for by the Gods, I grant not this New Honour to the
+Baron of</hi> Sancti<g ref="char:EOLhyphen"/>fiore, <hi>at</hi> Meſſalina<hi>'s Suit, but his own.
+No, Royal</hi> Madam, <hi>when</hi> Miſſalina<hi>'s my Petitioner,
+reſerve it for a Nobler Boon, worthier her ſelf to ask, and me to Grant. It
+it enough the Baron of</hi> Sanctifiore <hi>has Veins enricht with</hi>
+Meſſalina<hi>'s Blood, and with that ſingle Plea alone, ſtands
+Candidate for higher Honour; and I have but paid his due.</hi> The Queen could
+hardly find words to expreſs her Senſe of the prodigious Generoſity of
+<hi>Polydorus;</hi> nor indeed would <hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> hear any on that
+Subject, pleaſing himſelf undoubtedly with a greater vanity in gratifying
+his <hi>Meſſalina,</hi> without the vanity of receiving Ap<g ref="char:EOLhyphen"/>plauſe for it.
+The Queen perceiving his humour, told him in a little airier Stile, <hi>that
+ſhe had play'd another Love-trick with him, ſhe had made bold by her</hi>
+Tomazoes <hi>help too, to exchange a Watch with him (but indeed the Seal tied
+at the String<g ref="char:punc">▪</g> ſhe had no deſign upon, which therefore ſhe
+reſtores him) reſol<g ref="char:EOLhyphen"/>ving to count all her tedious widowed minutes in</hi>
+Po<g ref="char:EOLhyphen"/>lydorus <hi>abſence, by no other Hand of Time but his own: And if in his
+own gay hours in her abſence, be would honour hers with the ſame uſe, it
+would be no little pleaſure to her to think, that when his Eye ſhould
+ſometimes be caſt upon it, it might now and then at an idler minute be his
+remembrancer of</hi> Meſſalina. <hi>Polydorus</hi> flying into her Arms,
+and printing his Soul upon her Lips, made anſwer, <hi>Yes,</hi> Madam,
+<hi>your Watch, your Picture, and your Eternal <pb n="40" facs="tcp:36723:24"/>Charms,
+ſhall all be my Remembrances. But I have almost forgot my kind and
+generous</hi> Tomazo, <hi>my ho<g ref="char:EOLhyphen"/>neſt Engineer in this Affair:</hi> At which
+calling to one of his Attending Lords in the Drawing-Room, he or<g ref="char:EOLhyphen"/>dered him the
+Payment of Twenty Thouſand Crowns to the Marchioneſs of <hi>Tomazo;</hi> a
+Preſent which made her ſmile; and for which ſhe returned no ſmall
+Compliment. To conclude their preſent interview, all parties are ſo well
+ſatisfied, more eſpecially our over-joyed <hi>Polydorus,</hi> that he
+humbly beſought her private Company in her Cloſet at
+<hi>Veſper</hi>-time<g ref="char:punc">▪</g> to which the Queen kindly anſwered, <hi>That all
+her hours are at his Service, when her whole Life muſt be ſo.</hi> After a
+parting Embrace, and a ſeal<g ref="char:EOLhyphen"/>ing Kiſs, the King takes his Leave.
+<hi>Well,</hi> ſays <hi>Tomazo,</hi> to the Queen (as ſoon as the Kings
+Back was turned) <hi>Never was a pack of ill Cards ſo luckily play'd out as
+this Nights Adventures; Twenty Thouſand Crowns for a Pair of Breeches ſo
+neatly lined with ſham: In troth, would I had put the Doublet upon him too,
+for half ſuch another Sum. Well,</hi> Madam, <hi>to your everlaſting Honour
+be it ſpoken; never was Credulous Monarch ſo over-reacht.</hi>
+            </p>
+            <p>Whileſt this Harangue between the <hi>Queen</hi> and
+<hi>Tomazo</hi> went on, <hi>Sanctifiore</hi> increaſed their Com<g ref="char:EOLhyphen"/>pany, who
+by his ſpies abroad, having Learned the Kings motions; was greedily come to
+inquire his Fate from his fair Oracle. The Queen with an open <hi>[All
+Hail]</hi> gives him Joy of his Mareſchal-Sraff, and briefly recounts the
+whole Scene be<g ref="char:EOLhyphen"/>twixt the King and her ſelf. <hi>Sanctifiore</hi> was not a
+little delighted with a turn of Affairs ſo be<g ref="char:EOLhyphen"/>yond all Expectations,
+himſelf ſo ſtrangely mounted to the top of Fortunes-Wheel, by an
+Accident, that in all reaſonable appearance, rather threatned his utter
+Deſtruction; and therefore firſt, in all the <pb n="41" facs="tcp:36723:24"/>tendereſt Expreſſions he Congratulated the miracu<g ref="char:EOLhyphen"/>lous
+Deliverance of the Queens Honour; and then was falling at her Feet, as the
+ſole Foundreſs of his Happineſs, to thank her for that endearing
+Character ſhe had been ſo Generouſly pleaſed to give of him; and to
+which alone he owed the whole Exaltation to his preſent glorious Preferment;
+which the Queen would no ways permit, telling him very gaily, that
+<hi>Polydorus,</hi> tho' ignorantly, had done no more than Juſtice; and the
+Mareſchals-ſtaff he had given, was but in Honourable amends for the Nights
+Joys he had robb'd him of: Nay, truly, in amends for her loſſes too; the
+intollerable tedious Nights Pennance he had made her undergo; there being
+certainly no diſſimulation ſo irkſome and uneaſy, as playing the
+Hypocrite in Love, between a pair of Sheets; eſpecially, her dearer
+<hi>Sanctifiore,</hi> the right<g ref="char:EOLhyphen"/>ful Lord of the Night, lying ſo near, yet
+under ſo fevere a <hi>Bill of Excluſion.</hi> The Baron was returning a
+compliment for all theſe obliging Expreſſions of <hi>Meſſalina;</hi>
+but the Queen would not ſuffer the hear<g ref="char:EOLhyphen"/>ing it, telling him, that his
+immediate aſſiduous Attendance on <hi>Polydorus,</hi> was his preſent
+Duty, for his Commiſſion would be Sealed to night; bidding him make haſte
+accordingly; only deſiring him to take this one conſideration with him,
+that as ſhe was engaged in an Amour with <hi>Polydorus,</hi> he would
+ſeri<g ref="char:EOLhyphen"/>ouſly reflect on the great difference betwixt an Amour of Intereſt,
+and an Amour of Choice and Election; the firſt, only the gratification of our
+Pride, and our Vani<g ref="char:EOLhyphen"/>ty but the Laſt, the pleaſure of our Arms and our
+Souls. The Baron was going to Reply, when the Queen waved her Hand to haſten
+him to <hi>Polydorus.</hi> However, the Baron remembring a Command from
+<hi>Aſpaſia,</hi> begs Pardon for three or four words from
+<hi>Aſpaſia,</hi> who was under ſome trouble in mind; <hi>and 
+<pb n="42" facs="tcp:36723:25"/>humbly beſought her Majeſty to Honour her with a walk
+in the Garden about half an hour before</hi> Veſpers, <hi>where ſhe might
+fall at her Feet, and unboſom her Griefs to her Royal Mrs.</hi> And ſo he
+takes his leave.</p>
+            <p>The Queen much concerned at any thing that ſhould diſturb the
+Peace of her dear <hi>Aſpaſia;</hi> was impatient till the Evening drew on,
+that ſhe might receive the knowledge of her Pain, in hopes of lend<g ref="char:EOLhyphen"/>ing her
+miniſtring help to the Cure of it. The hour is come, and the Queen meets
+<hi>Aſpaſia;</hi> who indeed appears with Countenance as had not much
+taſted of ſleep laſt Night, the very Aſpect and Air of her Face being
+much changed from that natural Gayety that before was uſed to ſit ſo
+lively and ſo lovely there. <hi>Why, hownow!</hi> ſays the Queen, <hi>What
+ſad, my dear</hi> Aſpaſia? <hi>What ſawcy ſorrow dares invade thoſe
+Eyes; Can any thing of Trouble uncalm thy Rest, or ruffle thy Brow, whileſt
+thou art in a Court where Ho<g ref="char:EOLhyphen"/>nour waits thee; at least whilſt I have any
+there, my dear</hi> Aſpaſia <hi>ſhall ſhare it. Ah, too Generous</hi>
+Madam, Replied <hi>Aſpaſia, Your Majesty cannot gueſs my Load of Griefs;
+nor can I find a Tongue to utter them, ſo much my guilty ſhame confounds
+me. Fye,</hi> Aſpaſia, (anſwers the Queen) <hi>Now you diſtruſt my
+Friend<g ref="char:EOLhyphen"/>ſhip! Can thy Heart hold a murmur or a ſigh, and</hi>
+Meſſalina<hi>'s be a stranger to it! Ah Madam</hi> (Re<g ref="char:EOLhyphen"/>plies
+<hi>Aſpaſia,</hi>) <hi>But am I ſuch a Criminal againſt that
+Friendſhip? Yet ſince my Crime must come before my Royal Judge, and stand
+your just Tribunal: Know, that the King, the Great, the Glorious, the moſt
+Pagan</hi> Po<g ref="char:EOLhyphen"/>lydorus, <hi>did me the Honour of a Viſit laſt Night, in ſo
+much State and Grandeur. It was no more that what he owed thee</hi> (anſwered
+<hi>Meſſalina</hi>) <hi>both as</hi> Latroon<hi>'s Lady; and</hi>
+Meſſalina<hi>'s Friend. But my</hi> Aſpaſia, <hi>where's the guilty
+ſhame in this! Ah Madam,</hi> ſays <hi>Aſpaſia, The criminal
+Part</hi>'s <hi>to come. What, cryes</hi> Meſſalina, <pb n="43" facs="tcp:36723:25"/>
+               <hi>Did he make Love to thee! Love, to me Madam</hi> (an<g ref="char:EOLhyphen"/>ſwered
+<hi>Aſpaſia,</hi>) <hi>When ſo fair a Deity fills up his Heaven.</hi>
+[Meſſalina] <hi>Didſt thou make Love to him then?</hi> [Aſpaſia,]
+<hi>Make Love to him! No, were he Greater than he is, all the</hi> Caeſars
+<hi>and</hi> Alexanders <hi>put together, I think I know my natural Pride too
+well, and far above ſo poor a weakneſs. Well then,</hi> Aſpaſia,
+(ſays the Queen) <hi>without mincing the matter, thou art e'en after all faln
+in Love with</hi> Polydorus. <hi>Oh Madam,</hi> replied <hi>Aſpaſia, After
+that Confeſſion, that criminal Confeſſion, how can your Royal Eye
+vouchſafe to look upon ſo black and ſo ungrateful a Creature, or ſuffer
+the vile Wretch to appear before you? Look up<g ref="char:EOLhyphen"/>on thee, my</hi> Aſpaſia,
+(ſays the Queen) <hi>Yes, and hug thee, kiſs thee, love thee; as kind, as
+cloſe, as warm as ever. View thee all o're as fair and lovely as ever thou
+wert. Pray what has made the change? Aſpaſia</hi> could hardly forbear
+falling at her Feet, at this ob<g ref="char:EOLhyphen"/>liging anſwer; and the Queen continued her
+Ca<g ref="char:EOLhyphen"/>reſſes to her <hi>Aſpaſia,</hi> in ſo many endearing Terms; that
+<hi>Aſpaſia</hi> unfolded the whole Root of her Pain; told her, <hi>That
+the Imperial</hi> Polydorus <hi>appear'd with ſo much Majeſty, and
+addreſt with ſo much Gallantry, and moved with ſuch a Port; his Meen, his
+Perſon, his Glory, all ſo dazling, that her own Charms drove not more rapid
+to the Captivating of</hi> Polydorus <hi>Heart, then</hi> Polydorus <hi>to the
+undoing of hers. In fine, the Hand of Fate was in it, and irreſiſtible was
+the Influence.</hi>
+            </p>
+            <p>As the continuation of this Diſcourſe rais'd a great deal of
+Paſſion from the murmuring <hi>Aſpaſia,</hi> com<g ref="char:EOLhyphen"/>plaining of her hard
+Fate in ſo ill-placed a Love; and as great Attention in the Queen, that
+liſt<g ref="char:EOLhyphen"/>ned with no ſmall pity to all her ſighs: we muſt be forced to
+leave them to their ſolitary walk; and recount a little of the farther
+Hiſtory of our Lord <pb n="44" facs="tcp:36723:26"/>
+               <hi>Laforſe,</hi> our
+<hi>Lactilla,</hi> the <hi>Cambrian</hi> Nurſes, <hi>Inamorato.</hi> This
+unhappy Gentleman as you have heard at large, had his tother Nights
+<hi>Veſper</hi>-Aſſignation defeated by <hi>Polydorus,</hi> ordained by
+blind chance to leap into his Saddle, tho' Heaven knows full ſore againſt
+his will, when his miſtake of a Nurſe for the Queen, (ſo poor a Cloud for
+ſo bright a <hi>Juno</hi>) coſt him ſo many hard words and hearty ſobs
+for it—But poor <hi>Laforſe</hi> knowing nothing of the matter, is
+reſolved to Viſit his Mrs. this very <hi>Veſper</hi>-time, and after his
+Excuſe for his two Days abſence, reap thoſe Bliſſes, the
+poſſeſſion of which have only thus long been defer'd to heighten their
+Expecta<g ref="char:EOLhyphen"/>tion, and enhance their Tranſport. Accordingly, the Bell ringing
+juſt now for <hi>Veſpers,</hi> up to the Queens Bed-Chamber he boldly
+marches, and to his wiſh finds no body there but his <hi>Lactilla</hi> all
+alone, and the young Prince aſleep in the Cradle by her. <hi>Lactilla</hi>
+was very much pleaſed at Sight of ſo dear a Face; but remembring in what an
+abrupt ſort of manner he had flung from her Arms the laſt time, a little
+unkind (as ſhe thought) after ſuch kind Embraces as ſhe fancied ſhe had
+given him, that deſerved better from him, was reſolved to behave her ſelf
+a little reſerved to him. The Count who obſerved her ſhighneſs, and
+imagined it to ſpring from a quite contrary Cauſe, fancying his two Days
+abſence the only occaſion of her preſent ſullen look; thought it
+Prudence to ſoften her Aſpect by his juſt Apology. <hi>Well, my</hi>
+Lactilla, (ſays he) <hi>You may have reaſon to deny your good looks to
+your</hi> Laforſe, <hi>but I aſſure you, puniſh me as ſeverely as you
+pleaſe, I have this innocence on my ſide, that you frown not upon a
+criminal, but an unfortunate Lover. For upon my Soul, dear Rogue, 'twas envious
+cruel Deſtiny, inter<g ref="char:EOLhyphen"/>poſing Fate, that barr'd my Joy; that I could not
+poſſi<g ref="char:EOLhyphen"/>bly <pb n="45" facs="tcp:36723:26"/>ſee thee theſe two whole Days; for that
+dear in<g ref="char:EOLhyphen"/>tended happy Evening the other Day, I heard the Queen was
+indiſpoſed, and went not to Prayers, and then, I durſt not, thou knowest,
+I durſt not approach thee; and all Day Yeſterday I was out of Town, ſent
+forty miles unluckily abroad with an Expreſs from the King; and came home
+Poſt not half an hour ago. After this honeſt frank Confeſſion, I hope
+my dear will not now debar my happineſs, but generouſly grant me all
+thoſe Golden Bliſſes, for which I have ſighed ſo long. Lactilla</hi>
+who was a little amazed at this Narrative, to hear him talk of taſting his
+<hi>Firſt</hi> Joys now, when his me<g ref="char:EOLhyphen"/>mory muſt be either very treacherous,
+or himſelf very ungrateful, that could not, or would not re<g ref="char:EOLhyphen"/>member, how
+kindly ſhe had entertained him in her Boſom before, and how profuſely
+ſhe had melted her Soul in his Arms on this very Bed, and not Forty Eight
+hours ago. (For the Devil a ſhadow of her miſtake of the King for
+<hi>Laforſe</hi> could enter into her Soul.) Accordingly turning a little
+ſcornfully towards him: <hi>How Sir,</hi> (ſays ſhe,) <hi>was not you
+here tother Night? I here my Dear,</hi> (ſays <hi>Laforſe</hi>) <hi>thou
+knoweſt my Love I was not.</hi> [Lactilla] <hi>Oh you baſe man you,
+diſown my Favours, ſlight my Love, baſe and
+un<g ref="char:EOLhyphen"/>grateful—</hi>[Laforſe] <hi>I, I ſlight my dear</hi> Lactilla!
+<hi>diſ<g ref="char:EOLhyphen"/>own her Favours!</hi> [Lactilla] <hi>Yes trecherous, falſe
+ungrate<g ref="char:EOLhyphen"/>ful wretch—</hi>[Laforſe] <hi>Trecherous and Falſe! by
+Heaven, all Love all Conſtancy. Fye, my dear Love, no more; Oh take me, take
+me to thy Arms, and let me breath my Life, my Love, my Soul, into thy
+Boſom.</hi> [Lactilla] <hi>Stand off Diſſembler,</hi> [puſhing him from
+her] <hi>I loath thy very ſight. My Love not worth your Re<g ref="char:EOLhyphen"/>membrance! Alas, I
+am but a poor Country-Woman, and you a Lord Forſooth; a proud forgetful
+Devil. That fall of</hi> Lucifer, <hi>Pride, and worſt of ſins,
+Ingrati<g ref="char:EOLhyphen"/>tude! No, you were not here tother Night, not you.</hi> 
+               <pb n="46" facs="tcp:36723:27"/>What the Devil (thinks <hi>Laforce</hi> to himſelf, does
+this raving Woman mean.) Pride of <hi>Lucifer,</hi> and Ingratitude, and the
+reſt of her unintelligible Gib<g ref="char:EOLhyphen"/>beriſh. [Lactilla] <hi>No, my falſe
+recanting Loon, my Equivocating Jebuſitick Pagan proud Lord you were not here
+tother Night.</hi> [Laforſe] <hi>No</hi> Madam, <hi>if that will ſatisfy
+you, by all that's Sacred, or what's a properer Oath at this time; by all the
+Wind-mills in your Head, I was no more here then, than I was at the</hi>
+Eaſt-Indies. <hi>But what in the name of Frenzy is the meaning of all this,
+unleſs you have a mind to make us both run mad with Noiſe and
+Non-ſenſe? Lactilla</hi> who hears him ſo heartily ſwear he was not
+there, has another new bi<g ref="char:EOLhyphen"/>ting Maggot that ſtings ten times deeper than
+be<g ref="char:EOLhyphen"/>fore; for now nothing leſs will ſerve her fancy, but that this falſe
+Lord has only abuſed her all this while, and he a Lord, and ſhe but a poor
+Country<g ref="char:EOLhyphen"/>woman, has put only a trick upon her, has wrought her up to the
+yielding up of her Love, and in<g ref="char:EOLhyphen"/>ſtead of enjoying her himſelf, he baſely
+and vilanouſly ſent one of his Foot-men or Grooms to act their fil<g ref="char:EOLhyphen"/>thy
+Luſt upon her: (ſuch a piece of wickedneſs be<g ref="char:EOLhyphen"/>ing no new thing, for ſhe
+had heard ſtories of poor Women in <hi>Albion</hi> that had been ſo
+abuſed by un<g ref="char:EOLhyphen"/>grateful Debauches) and what confirms her that the Villain
+ſent by <hi>Laforſe</hi> tother Night to abuſe her muſt be ſome
+ſuch impoſtor, was that no ſooner (who e're he was) had he gained his
+beaſtly ends upon her, but he left her ſo baſely, clapt the Door after
+him ſo ſliely, and run away lo like a guilty Rogue as he was (which nothing
+of a Gentleman could ever have ſo ſerved her) that at beſt he was ſome
+Var<g ref="char:EOLhyphen"/>let or Scoundrel. This imagination fell ſo violent and ſo ſtrong upon
+her, that now ſhe runs ſtark ſtaring mad. And all the Rogues, Dogs,
+Villians, <pb n="47" facs="tcp:36723:27"/>Traytors, Devils, is the beſt Language ſhe
+can af<g ref="char:EOLhyphen"/>ford him. What was ſhe a Woman to be abuſed by Laqueys and
+Foot-boyes. No, ſhe'd have him to know when ſhe was in <hi>Albion,</hi>
+ſhe had Marqueſſes, nay Dukes and Princes ſued for her Favours; put his
+Raſcals and Paultrons upon her! The Count that underſtood not one Syllable
+of all this medley, was however ſeveral times endeavouring to thruſt in a
+word or two towards bringing her to her right Wits again. But all in vain, for
+ſhe talks all, rayls on, and will hear nothing: was ſhe a Woman he had the
+Impudence to think deſerved no better, ſhe that had Honourable Milk run in
+her Breaſts, worthy to ſuckle a Prince, and the Heir of three Kingdoms: And
+ſham his Scanderoons, his Tater<g ref="char:EOLhyphen"/>demallions upon her! Out on him for a
+Villain. To conclude, ſhe fell a bellowing ſo heartily, and ſcolding ſo
+loud, till ſhe e'en ſoamed at both cor<g ref="char:EOLhyphen"/>ners of her Mouth; and after ſhe
+had bethun<g ref="char:EOLhyphen"/>dered him, round the whole points of the compaſs, in all the
+indignation and ſcorn ſhe could rowze, ſhe flings from him, and quite
+forgetting the charge of her Nurſery, led by Deſpair and Frenzy ſhe runs
+in a diſtracted Rage croſs the Room of State; and the Door of the Queens
+Cloſet happening to ſtand a jarr; without any thought whither led, or how
+carried, ſhe flounces into the Cloſet, and throws her ſelf upon the
+Couch. <hi>Laforſe</hi> all this while in a perfect maze did not think it
+worth his while to follow her, but ſat muſing in the Bed-Chamber to think
+what Tarantula had ſtung her to run her into all theſe unaccountable
+Deliriums.</p>
+            <p>The King, who remembring his aſſignation with the Queen at
+<hi>Veſper</hi> Time, and who indeed had for<g ref="char:EOLhyphen"/>tified even with Cock-broath and
+Jellies, for the meeting of his <hi>Meſſalina,</hi> had juſt now approach
+<pb n="48" facs="tcp:36723:28"/>the Cloſet, the appointed Scene of Bliſs; and en<g ref="char:EOLhyphen"/>tring
+in the Dark, had juſt a glimmering of light enough to perceive a Lady upon
+the Couch; who at that hour in that place, and in that poſture, his Reaſon
+told him could be no other than his Divine <hi>Meſſalina.</hi> Accordingly,
+he makes his ad<g ref="char:EOLhyphen"/>vance towards her in his Cuſtomary Prologue of, <hi>Life of
+my Life, my deareſt Guardian-Angel—Lact illa</hi> hearing the very
+ſame ſtyle from the very ſame voice (for her Ears were now grown
+critical) and finding him the very ſame Counterfeit <hi>La<g ref="char:EOLhyphen"/>forſe,</hi> the
+audacious Impoſtor that had deceived her before, preſently thought no
+leſs than that her Arch-fiend and Devil of a Lord, had impudently ſent the
+ſame Villain to abuſe her once again. That very imagination in half a
+moment had turn<g ref="char:EOLhyphen"/>ed her into ſo abſolute a Fury, that with only a ſhort
+Salute of, Monſter, Ruffian, Traytor, ſhe flew like a Tygreſs upon him,
+and with the firſt ſeize of her Talons, (which were not over-well pared)
+caught him by the Face, and tore him from the Eyes to the Chin.
+<hi>Polydorus</hi> at ſo ſtrange an Aſ<g ref="char:EOLhyphen"/>ſault, could hardly imagine
+leſs than the whole Confederate Army upon him. All he could do, was to
+diſentangle our Milch-bear from his Face, and hold her Paws faſt from
+farther Outrage. At which, ſhe fell into ſo bellowing an out-cry, kicking
+and ſpitting in his Face, calling him all the Rogues and Raſcals, Sons of
+Whores, pitiful Slaves, and what not: a ſhabby beggarly Scoundrel, as he was,
+to abuſe a Woman of her Quality, that was too good for his Betters. Juſt at
+this very Inſtant, the Queen (who had over-ſlipt ſome few minutes of her
+appoint<g ref="char:EOLhyphen"/>ment with the King, by liſtning a little too zea<g ref="char:EOLhyphen"/>louſly to
+<hi>Aſpaſia</hi>'s Amorous Complaint in the Gar<g ref="char:EOLhyphen"/>den,) was with her
+<hi>Tomazo</hi> with a light in her <pb n="49" facs="tcp:36723:28"/>Hand gotten to the Door
+of her Cloſet; where certainly never ſo Comical a ſight encountred her.
+The Great and Mighty <hi>Polydorus,</hi> the Terrour of the World, that had
+driven whole Nations before him, now Fencing againſt a poor filly Woman; and
+ſo much of the beaten ſide, his Wig ſtampt under her Feet, his Cravat all
+torn, and his Face all o're Bloody; a Trophy that all his Enemies could never
+boaſt of; (for indeed, tho' his Victories reſound through the Univerſe,
+he had always the Prudence to keep per<g ref="char:EOLhyphen"/>ſonal danger at a diſtance, having
+ever the Caution of Fighting beyond reach of Cannon ſhot.) At the approach of
+the Queen, and the Light that had diſ<g ref="char:EOLhyphen"/>covered our <hi>Lactilla</hi>'s
+miſtake, the poor Nurſe to think what ſhe had done, fell down dead in a
+Swoon'd, and then into a fit; inſomuch that <hi>Tomazo</hi> was forced to
+call in help to bring her to her Senſes a<g ref="char:EOLhyphen"/>gain. The King in the mean while
+was gotten into the Queen's Bed-Chamber; (from whence poor <hi>La<g ref="char:EOLhyphen"/>forſe</hi>
+at the beginning of the ſcuffle had very wiſely drawn off) and was
+waſhing his Face, where he found ſo many ſhameful marks of her
+Indignation left, and ſo many not over Honourable Scars, the remains of her
+mortal Dugdeon; that he could hardly ſee him ſelf in a Glaſs, without
+frightning himſelf. He very well remembred what poor Rogues and Dogs ſhe
+had called him; and truly he fancied ſhe was re<g ref="char:EOLhyphen"/>ſoived to make him ſome
+ſuch deſpicable Wretch; for he had ſo little a Face of a Gentleman left,
+that really he was hardly fit for Converſation. The con<g ref="char:EOLhyphen"/>cern of ſpoiling
+his Beauty, in ſo ignominious a man<g ref="char:EOLhyphen"/>ner made him ſtark mad: As for his
+appointed Amour, it put him ſo out of all humour of Love, that all the
+ſtrong Broth and Chocolate he had Eat or Drank that Day, was at preſent
+thrown away upon him. The Queen a little pitying her Imperial Ser<g ref="char:EOLhyphen"/>vant, 
+<pb n="50" facs="tcp:36723:29"/>in his preſent diſtreſs, humbly befought him to
+inform her the occaſion of ſo outragious a Behavi<g ref="char:EOLhyphen"/>our from <hi>Lactilla.
+Outragious, Madam,</hi> Replied <hi>Po<g ref="char:EOLhyphen"/>lydorus! Hell confound her, for never
+was Monarch in all kinds ſo handled by Rubbiſh, as I have been. The
+Occaſions!</hi> ſay you? <hi>To ſatisfy that Curioſity, pray ask your
+Madam Trowel, your Brick-kill Cinder her ſelf: the occaſions ſo
+ſhameful, and the accident ſo ſcandalous, that tis fit for no other Mouth
+but her own.</hi> The King upon advice of laying ſomething to his Face to
+prevent, as much as poſſible, the marks of her Nails, takes his leave, with
+no little grumbling about him, curſing his very Stars, that their ma<g ref="char:EOLhyphen"/>lice
+ſhould have the Impudence to raiſe up ſo ſordid a Reptile to give him
+diſquiet: Our <hi>Lactilla</hi> is no ſooner got to Life again, but ſhe's
+in fear of a worſe Death: For Wracks and Wild Horſes are the leaſt of her
+Viſions, to think what vengeance hangs over her Head for an aſſault upon
+<hi>Polydorus;</hi> and though on the better ſide, ſhe finds by the whole
+matter ſhe has now had a Monarch inſtead of a Foot-boy in her Arms, the
+rectifying of that miſtake makes little to her Satisfaction. For though her
+Ambition a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pired to a young Lord, as
+her dear, (and now poor wrong'd) <hi>Laforſe</hi> was; yet
+<hi>Polydorus,</hi> was ſo much above her Deſires, that ſhe fancies (if
+ſhe ſcapes otherwiſe) ſhe ſhall dye with ſhame. The very thought of
+ſo cruel a <hi>Pagan</hi> Tyrant (ſuch was her apprehenſion of him) had
+created that Averſion that ſo Great a Man under ſo little a Character
+with her, was a more nauſeous diſquieting Thought, than the courſeſt
+Amour ſhe could have made. But her great<g ref="char:EOLhyphen"/>eſt Torment is yet to come; for
+poor <hi>Lactilla</hi> is called to Examination by the Queen; where in down
+right ſimplicity, interlarded with a great deal of blubbering and Begging
+Pardons, ſhe confeſſes her weakneſs to <pb n="51" facs="tcp:36723:29"/>the Lord
+<hi>Laforſe,</hi> and the miſtakes that had occaſi<g ref="char:EOLhyphen"/>oned all this
+hurly-burly. The Queen, as ſerious a Face as ſhe put upon it, could hardly
+forbear ſmiling; for now the myſtery of <hi>Polydorus</hi>'s firſt
+Impotence in her Arms is all unfolded; nor truly could ſhe well be angry, the
+whole Anventure was ſo comical; however, ſhe gave her a ſhort Repri<g ref="char:EOLhyphen"/>mand;
+telling her, that if ſhe play'd ſuch tricks any more, ſhe muſt be
+forced to wean her Prince, and take her Nurſery from her. Poor
+<hi>Lactilla</hi> fell upon her knees, and heartily beſought her Majeſties
+for<g ref="char:EOLhyphen"/>giveneſs, Vowing and Proteſting all the future inno<g ref="char:EOLhyphen"/>cence in the
+World.</p>
+            <p>But come to the more important part of our Hi<g ref="char:EOLhyphen"/>ſtory, the
+following Day is the expected <hi>Lycogenes</hi> Arrived at the Court of
+<hi>Gothland.</hi> I ſhall not be tedious in Recital of the Univerſal
+Addreſſes to ſo Imperial a Gueſt; and all the <hi>Panegyricks</hi> made
+him on ſo Di<g ref="char:EOLhyphen"/>vine a Subject, as that memorable Conſtancy to his Pagan Zeal,
+which will one Day give him that bright Starry Crown as ſhall more than
+compenſate his Loſs of three poorer Earthly Diadems; nor ſhall I recount
+what part our <hi>Polydorus</hi> bears in the mag<g ref="char:EOLhyphen"/>nificence of
+<hi>Lycogenes</hi>'s Entertainment. Let it ſuffice the World reſounds his
+Gallantry on that occa<g ref="char:EOLhyphen"/>ſion, which Gallantry paid by <hi>Polydorus,</hi> not
+only as a Debt to the long ſworn friendſhip between them, was poſſibly
+heightned by his private Gratitude to <hi>Lycogenes</hi> for his borrowed
+Felicities in his <hi>Meſſalinas</hi> Arms, as owing only to
+<hi>Lycogenes</hi>'s happy Sanctuary taken in the Court of <hi>Gothland.</hi>
+In this State of Matters in the <hi>Gallick</hi> Court, our
+<hi>Meſſalina</hi> has a great many Irons in the Fire; to flatter and
+deceive her <hi>Lycogenes,</hi> to humour and careſs her <hi>Polydorus,</hi>
+and to pleaſe and be pleaſed with her dear <hi>Sanctifiore;</hi> her
+forgotten Count <hi>Dauliah,</hi> being at preſent, <pb n="52" facs="tcp:36723:30"/>diſpatcht with a negotiation to <hi>Boanerges,</hi> and that
+worn-out-Lover, thanks Heaven, taken off of her Hands. <hi>Meſſalina</hi>'s
+whole true Happineſs ſeems bounded in her Darling <hi>Sanctifiore</hi>'s
+Embra<g ref="char:EOLhyphen"/>ces, whom ſhe ſees every Day more Reſplendant, and every Hour more
+paſſionately Doats upon; in<g ref="char:EOLhyphen"/>ſomuch that ſhe envies her compell'd
+Favours to <hi>Polydorus,</hi> as all Invaſion upon the only Sacred Right of
+her dear Baron; and which on no other account ſhe could forgive her ſelf
+than the Satisfaction of the uſury they were repay'd with, in the
+extraordi<g ref="char:EOLhyphen"/>nary Advancement of her <hi>Sanctifiore;</hi> the profuſe
+<hi>Polydorus</hi> having with a more than common Munifi<g ref="char:EOLhyphen"/>cence furniſht out
+her Barons Equipage and Gran<g ref="char:EOLhyphen"/>deur in his new poſt of Honour; a
+conſideration that ſoften'd her into eaſier compliances to
+<hi>Polydorus</hi> than otherwiſe ſhe could ſo well have brooked with
+pati<g ref="char:EOLhyphen"/>ence. During this manage of Affairs ſome Days were paſt, when
+<hi>Sanctifiore</hi> ſurprized with an im<g ref="char:EOLhyphen"/>mediate and unexpected Command from
+<hi>Polydorus,</hi> of repairing to the Army, comes to <hi>Meſſalina</hi>
+juſt after Dinner, and tells her, that with no longer warning than early to
+morrow Morning, he was Commanded to the Banks of the <hi>Rhine.</hi> The Queen,
+who though ſhe knew the envious Day muſt come, that Love muſt truck to
+Glory, yet not prepared for ſo ſudden an Alarm from the Trumpet of Honour;
+was not a little ſtaggered at the ſound. The con<g ref="char:EOLhyphen"/>cern it put her into,
+ſhe was compell'd at preſent to ſtifle, this viſit of her Baron being
+received in pub<g ref="char:EOLhyphen"/>lick; ſo that all at preſent between 'em, was little more
+than uſual Compliment in wiſhing Proſperity to his Sword,
+<hi>&amp;c.</hi> only ſhe whiſpered in his Ear to let him know, that about
+an hour hence, ſhe deſired to ſpeak with him alone. The Baron accordingly
+makes his obeyſance, and retires. No ſooner was <pb n="53" facs="tcp:36723:30"/>he gon,
+but getting looſe, alone with her <hi>Tomazo,</hi> ſhe poured forth thoſe
+tender Lamentations for the Fatal blow that muſt raviſh her dear
+<hi>Sanctifiore</hi> from her Arms, in ſuch mournful Accents, as might have
+ex<g ref="char:EOLhyphen"/>torted compaſſion almoſt from a Rivals Eyes. <hi>She knew not but to
+Morrow might be his eternal Farewell; the chance of War, ſo uncertain, and
+the undiſtinguiſhing Bullet and Sword ſuch relentleſs Deſtroyers,
+that Merit or Worth are no Plea at their Arbitrary Tribunal.</hi> Theſe and
+many other Reflections drew a great many ſighs from her; and what added to
+her misfortune, upon her reſolving to have her <hi>Sanctifiore</hi> this
+laſt parting Night in her Arms, at leaſt one Riotous Night of Pleaſure,
+before their Fatal Divorce; in the tran<g ref="char:EOLhyphen"/>ſport of that Thought, to
+compenſate if poſſible the abſtinence of a whole Faſting Age to come;
+to her no ſmall diſtraction, ſhe remembers that this very Night ſhe has
+unfortunately made an appointment with <hi>Polydorus;</hi> an Obligation that
+tis almoſt im<g ref="char:EOLhyphen"/>poſſible to diſengage her ſelf from; and which, if
+ſhe performs, under ſo cruel an Excluſion from the Arms of her parting
+<hi>Sanctifiore,</hi> muſt give her in the Em<g ref="char:EOLhyphen"/>braces of <hi>Polydorus,</hi> a
+Night of ſo much Sacrifice and Pennance, as ſhe can hardly think of, but
+with Im<g ref="char:EOLhyphen"/>patience and Reluctance: <hi>Tomazo</hi> her helf could not forbear
+telling her, that indeed to keep an Aſſigna<g ref="char:EOLhyphen"/>tion with <hi>Rolydorus</hi> to
+Night, and part with <hi>Sancti<g ref="char:EOLhyphen"/>fiore</hi> to morrow, without one fare well
+Bleſſing, would be very hard. <hi>No, my</hi> Tomazo, anſwered the
+Queeen, <hi>Not Wild-Horſes ſhall draw me to an Act of ſuch
+Ingrati<g ref="char:EOLhyphen"/>tude;</hi> in ſhort, <hi>Sink Nations,</hi> and <hi>Periſh
+Worlds,</hi> no<g ref="char:EOLhyphen"/>thing ſhall make her ſo wretched a Victim. Whileſt
+ſhe's a Fortifying her ſelf with this Reſolution; her
+<hi>Sanctifiore</hi> approaches; where the Queen with ſo many tender
+Kiſſes; and twining Embraces, enricht with a Chain of flowing Pearl from
+her Eyes, enter<g ref="char:EOLhyphen"/>taines <pb n="54" facs="tcp:36723:31"/>him ſo paſſionately, and ſo
+bewails and con<g ref="char:EOLhyphen"/>dols the impending hour of their ſeparation, that nothing
+could be more moving. When the mutual ſighings and murmurings between 'em had
+vented the tendreſt ſentiments of their Souls; the Queen to im<g ref="char:EOLhyphen"/>prove the
+few ſhort minuts left, tells him, <hi>That this laſt Night muſt be
+Dedicated to Love,</hi> and according<g ref="char:EOLhyphen"/>ly, bids him order his Affairs.
+<hi>Sanctifiore</hi> receiving the ſeraphick Summons with all duteous
+Humility and Veneration, is compell'd to tell his <hi>Meſſalina, That his
+preparation for ſuch exalted Bliſs, and ſome little hurry towards his
+Journey to Morrow, which muſt be diſpatcht in the ſhort remainder of the
+Day, call him away at preſent. The poſitive Hour of being ready at call, in
+the Gallery, at Ten at Night aſſigned,</hi> our <hi>Sanctifiore</hi> till
+that bleſt hour, bids her adieu. He is no ſooner marcht off, but our
+<hi>Polydorus</hi> big with the Expectation of this Nights Extaſies, makes a
+viſit to <hi>Meſſalina;</hi> who with a ſorrowful Face, tells him,
+<hi>She is very un<g ref="char:EOLhyphen"/>happy; for this very Night, which with ſo much
+ſatiſ<g ref="char:EOLhyphen"/>faction to her ſelf ſhe had aſſigned to the Arms of her
+dear</hi> Polydorus, <hi>had her cruel</hi> Lycogenes <hi>ſent her Word that
+he intended to Bed with her; deſiring him withall to conſider what
+uneaſineſs her defeated Joys muſt give her in ſo killing a
+Diſappointment. Rolydorus</hi> who was toucht to the Heart at this
+ſurprizing News, tho' at the ſame time delighted with his dear
+<hi>Meſſalina</hi>'s ſenſi<g ref="char:EOLhyphen"/>ble Regret ſo viſible in her Looks,
+after ſome few Revilings at his perſecuting Stars, in the Debarment of his
+Joys, told her, <hi>He must be forced, how unwillingly ſoever, to acquieſce
+to irreſiſtible Deſtiny; For if the in<g ref="char:EOLhyphen"/>terpoſing</hi> Lycogenes <hi>was
+fated to Rob him of this Nights Felicity; the Diſtreſſes of Love must
+inure him to that Patience, as to attend the ſlower, but ſurer Hand of
+Fortune to Crown his Love ſome happier Hour. No, my dear</hi> Polydorus,
+(replied the Queen,) <hi>This Night <pb n="55" facs="tcp:36723:31"/>my</hi> Lycogenes
+<hi>Beds with</hi> Meſſalina; <hi>and yet this Night ſhall</hi>
+Meſſalina <hi>Lodge in the Arms of</hi> Polydorus. <hi>How, Madam!</hi>
+Anſwered the amazed King. <hi>Yes, my</hi> Poly<g ref="char:EOLhyphen"/>dorus, <hi>continued</hi>
+Meſſalina: <hi>Shall a dull Husband bar my Joys? Shall</hi> Meſſalina
+<hi>Love as I do? And ſuch a feeble Bar have Power to hold her from her dear
+Darling</hi> Polydorus <hi>Arms!</hi> No—In fine to unriddle this
+tran<g ref="char:EOLhyphen"/>ſcending kindneſs, which how unintelligible ſoever at preſent, had
+nevertheleſs already tranſlated our <hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> to the very
+Battlements of no common Heaven; ſhe told him, that ſhe loved him ſo
+paſſionately, that ſhe could not content her ſelf with any poor or
+common Teſtimonials of it. Her Husband, tis true, bedded with her to Night,
+but her burning Love for <hi>Polydorus,</hi> had form'd ſuch a Deſign, that
+ſhould o're paſs that Obſtruction, and the Boſom of her
+<hi>Polydorus</hi> ſhould be her this Nights pillow. To explain her ſelf,
+ſhe had ſo ordered it that <hi>Polydorus</hi> about half an hour paſt
+Nine at Night, ſhould be privately let in to <hi>Tomazo</hi>'s Bed, where
+with the Curtains cloſe round him, and the Darkneſs to ſhrowd him, he
+ſhould lye ſafe and unſuſpected; and when her ſelf had ſeen her
+<hi>Lycogenes</hi> faſt aſleep, (his Cuſtom being never to wake after his
+firſt ſleep till Day break) ſhe would ſteal from his, to her
+<hi>Polydorus</hi>'s Arms; and tho' perhaps a little ſilenter than
+otherwiſe in his Embraces, ſhe would come all Love and Rapture to his
+Boſome, and devote the whole Night to unſpeak<g ref="char:EOLhyphen"/>able Delights. As for any
+Danger, there was not the leaſt ſhaddow in it: but if there were, ſhe
+deſired only ſuch an occaſion to teſtify the Courage, as well as the
+Ardence of her paſſion, which only wanted <hi>Hazard</hi> to win her
+<hi>Glory,</hi> having yet done too little in ſo dear a Cauſe.
+<hi>Polydorus</hi> was intirely loſt in aſtoniſhment, and too poor in all
+the Eloquence of Love to anſwer ſo tranſcendently endearing an
+En<g ref="char:EOLhyphen"/>gagement. <pb n="56" facs="tcp:36723:32"/>
+               <hi>Polydorus</hi> after recovery of Senſe
+enough to expreſs his amazeing Sentiments of ſuch inſpiring Charms,
+pour'd forth his raviſht Soul in a whole Tor<g ref="char:EOLhyphen"/>rent of acknowledgements; and
+after as many Seal<g ref="char:EOLhyphen"/>ing kiſſes, promiſes his impatient waiting the
+Bleſſed Minute. No ſooner was the King retired, but
+<hi>Meſ<g ref="char:EOLhyphen"/>ſalina</hi> deſigning to ſend for <hi>Aſpaſia,</hi> has
+that trouble ſaved; for the ſight of her dear Friend is the next object
+ſhe meets. After other introductory Careſſes. <hi>Well my</hi>
+Aſpaſia, (ſays <hi>Meſialina,</hi>) <hi>When ſhall I convince you
+that Rivals can be hearty Friends? Thou pineſt, and ſigheſt, and
+languiſheſt for my</hi> Polydorus; <hi>and yet I Value, Eſteem, and Love
+my dearest</hi> Aſpaſia, <hi>nay, with that Beauty, thoſe dangerous Eyes
+thou loveſt him too; and yet my</hi> Aſpaſia <hi>is my best, truſted,
+dearest Friend still.</hi> Oh, <hi>Madam,</hi> replyed <hi>Aſpaſia, Your
+unexampled Friendſhip amazes and confounds me; and perhaps, my utter want of
+all hopes to repay your astoniſhing Goodneſs to your poor</hi> Aſpaſia,
+<hi>added to the weight of my Deſpair in Love, may make the only preſſing
+Load to ſink me quite.</hi> She finiſht this ſhort Period with ſo
+hearty a ſigh, that the Queen could not forbear in meer Pity to Eccho her
+with another; when turning kindly to her, with a gayer Ayr in her Face.
+<hi>Well,</hi> ſays <hi>Meſſalina, What if my Friendſhip ſhould give
+thee ſtronger Proofs? What wouldst thou give this Night to ſleep in</hi>
+Polydorus <hi>Arms, and the Generous</hi> Meſſalina<hi>'s the Gracious Hand
+to lead thee to his Bed.</hi> O Cruel <hi>Meſſalina,</hi> Replied
+<hi>Aſpaſia, This is ſevere to mock my Miſery. Can ſhe that</hi>'s
+<hi>bleſt with</hi> Polydorus <hi>Love, that happy, happy Woman, yield but
+one Minutes Reſignation of ſuch a Treaſure! No,</hi> Madam, <hi>This is
+unkind to make my Griefs your Paſtime. Fye, my</hi> Aſpaſia (ſays the
+Queen) <hi>Why this unjuſt ſuſpicion! What ſeeſt thou in thy</hi>
+Meſſalina<hi>'s Friendſhip ſo mean, to charge me with ſo wretched an
+Hypocriſy? No, my</hi> Aſpaſia, <hi>I am in Earneſt with thee. 
+<pb n="57" facs="tcp:36723:32"/>This Night my</hi> Polydorus <hi>is thy own; by this kind
+kiſs, thy own.</hi> The Queen who ſpoke ſo heartily, and look'd ſo much
+the Generous Friend ſhe acted, had now diſſipated our
+<hi>Aſpaſia</hi>'s ſuſpicion; and conti<g ref="char:EOLhyphen"/>nuing to tell her, how ſhe
+had laid the whole Scene, ſnatcht her up to ſuch a pinnacle of Joy, till
+her de<g ref="char:EOLhyphen"/>light redden'd and bloom'd ſo lovely in her Cheeks, that half an hours
+ſuch Cordial, was enough to cure a whole Months Conſumption. Embracing the
+Queens Knees, and kiſſing the very Hem of her Robes, was the leaſt
+acknowledgment ſhe made her. But the Queen utterly forbidding any ſuch
+thing, ordered her to leave Ceremonies, and haſten to important
+Inſtructions that muſt make her way. Yes, any thing, thought ſhe, to lead
+to ſuch a Bliſs. All things prepared, at juſt half an hour paſt Nine,
+the punctual <hi>Polydorus</hi> is admitted to <hi>Toma<g ref="char:EOLhyphen"/>zo</hi>'s Bed, the
+Curtains cloſed about him, the Candle put out, and the Door between the two
+Bed-Cham<g ref="char:EOLhyphen"/>bers ſoftly ſhut. In leſs than half an hour after, the Queen
+with her <hi>Sanctifiore</hi> are likewiſe put to Bed, and the Lights all put
+out; who privy to the Plot, and not a little indeared by ſo Generous an
+Artifice practiſed for his own dear ſake, behaves himſelf with Caution
+and Silence. They are not long in Bed, till <hi>Aſpaſia</hi> undreſt,
+covered only with her Night-Gown, according to Inſtruction, gently opens the
+Door between the two Chambers, and goes to Bed to the King. Never was Night on
+all ſides ſo deliciouſly melted down. <hi>Sanctifiore</hi> and
+<hi>Meſſalina</hi> are laying ſuch Riotous Foundations of Love and
+Pleaſure, that (foreſeeing their to Mor<g ref="char:EOLhyphen"/>rows ſeparation) may make
+baſis-work enough for the pleaſing Dreams of a Month; our
+<hi>Aſpaſia,</hi> it being the firſt Night of her Bliſs, and for ought
+ſhe knows the laſt, is ſo beatified; ſo rapt in De<g ref="char:EOLhyphen"/>light, 
+<pb n="58" facs="tcp:36723:33"/>that ſhe reſolves to play the politician in Lux<g ref="char:EOLhyphen"/>ury,
+and to make a <hi>Mahumetan</hi> Paradice in Miniature of it, circle the
+Thouſand Years of Rapture within the circumference of a Night. Our
+<hi>Polydorus</hi> is like<g ref="char:EOLhyphen"/>wiſe under the like Rapidity of Happineſs: For
+beſides, the Pleaſure of a ſound-ſleeping unthinking <hi>Lycogenes</hi>
+ſo near him, (as he fancies) the Titil<g ref="char:EOLhyphen"/>lation of the Theft, and the endearing
+Hazard of the fair Thief (the ſuppoſed <hi>Meſſalina</hi>) thus ſtoln
+into his Boſom; he finds ſomething ſo extraordi<g ref="char:EOLhyphen"/>nary careſſing in her
+Embraces, above all ſhe had given him before; that he fancies no leſs than
+that he grows every day dearer and dearer to her, and accordingly, accumulates
+to himſelf additional De<g ref="char:EOLhyphen"/>lights from ſo elevating a contemplation. The
+Night thus paſt over; our <hi>Aſpaſia</hi> according to full
+Inſtructions, having not only all the Night kept an intire Seal of ſilence
+on her Lips, (a Counſel that even her ſafety Inſtructed her, as well
+knowing the diſcovery of her Voice, had been as fatal as that of a
+cloven-foot, to the Detection of the falſe Angel in his Arms, and
+conſequently to the exclu<g ref="char:EOLhyphen"/>ding her from her Paradiſe) at the firſt peep
+of day likewiſe ſteals from his Arms, and ſhutting the Door ſoftly
+after her, as if ſhe retired to her <hi>Lycogenes</hi> Bed, leaves our
+<hi>Polydorus</hi>'s imagination ſo fill'd with the Image of his Viſionary
+<hi>Meſſalina,</hi> till his roving Meditations at laſt, had lull'd him
+into a ſlumber.</p>
+            <p>About an hour after, when Day began to look out a little broader;
+our <hi>Sanctifiore</hi> Riſes and Dreſſes himſelf. The Queen in her
+Night-Gown and Petti<g ref="char:EOLhyphen"/>coat leads him into her Cloſet on the other ſide of
+the Room of State; where at that diſtant ſhe might give her ſelf freedom
+of unlocking that ſilence, which ſo near the dangerous <hi>Polydorus</hi>
+had before <pb n="59" facs="tcp:36723:33"/>been under Reſtraint. Her deſign being only
+a parting Farewel with her <hi>Sanctifiore,</hi> ſhe has leiſure to talk
+but few words, only co conjure him to pre<g ref="char:EOLhyphen"/>ſerve her Memory; and not to be
+Jealous of <hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> in his abſence; her putting this Nights
+Impo<g ref="char:EOLhyphen"/>ſition upon him, being an ample Teſtimonial how unformidable a Rival
+he is. <hi>And Sir,</hi> continued Meſſalina, <hi>For one convincing
+Argument of my Love to</hi> Sactifiore <hi>above all the World beſides; as my
+Hus<g ref="char:EOLhyphen"/>bands Inclinations are leading him to</hi> Ibernia, <hi>no ſooner ſhall
+be move that way, but I will lock my ſelf up in a Cloyster, which tho' indeed
+my Honour may ſeem to exact from me; Remember 'tis my Love to</hi>
+Sanctiſiore, <hi>performs that Abſtinential Pennance, to ſhew you that
+no</hi> Polydorus <hi>is, or can be dangerous, in the abſence of</hi>
+Sanctifiore. The Anſwer of her Baron was infi<g ref="char:EOLhyphen"/>nitely tender. But the envious
+Day now called him away, and their, meeting Lips, too cloſe for any words
+between them, Seal their Farewel. <hi>Meſſalina</hi> returning to her Bed,
+orders <hi>Tomazo</hi> (who had been a watcher all Night) to wake
+<hi>Polydorus,</hi> and tell him, that <hi>Lycogenes</hi> had left the Queen,
+and was retired to his own Bed; and now was the only Minute of Riſing, and
+Retreating with Safety; which is accordingly performed. The amo<g ref="char:EOLhyphen"/>rous
+<hi>Polydorus,</hi> intirely raviſht with the whole Series of his Felicities,
+eſpecially his Laſt Nights Entertainment, had fortunately after Dinner met
+his <hi>Meſſalina</hi> alone in the Garden; and thinking it now a
+favourable Minute to unboſom his whole Soul to her, he told her 'twas his
+Deſtiny ſo ſtrangely to Love the Divine <hi>Meſſalina,</hi> that even
+his enjoy<g ref="char:EOLhyphen"/>ment of her Charms could not content him; even yet he muſt be the
+unhappieſt of Men, unleſs he might be permitted to flatter himſelf with
+the hopes that one Day he ſhould live to plant his <hi>Meſſalina</hi> on
+the <pb n="60" facs="tcp:36723:34"/>Throne of <hi>Gothland.</hi> The Queen who took this
+for no more than common Gallantry, made a ge<g ref="char:EOLhyphen"/>nerous Anſwer. But
+<hi>Polydorus</hi> not contented with that Anſwer, preſt her to a farther
+Declaration; when, telling her that he was ſo indebted for all, but
+eſpecially her Laſt Nights Favours, that he could not anſwer his very
+Accounts to Heaven, nor pay his Arrears to the Providences that had ſo
+ſignally ſmiled upon him, unleſs ſhe would Gene<g ref="char:EOLhyphen"/>rouſly pleaſe to
+Promiſe him, that when the Gods ſhould make her capable of accepting it,
+ſhe would vouchſaſe to ſhare the <hi>Gothick</hi> Crown with him; and
+by a ſtronger Hymeneal Tye between 'em, publiſh the Glory of that Love to
+the whole World, which at preſent with only ſo private a vanity he yet
+poſſeſt. For, alas, he had hitherto, only ſatisfied his Love; but he
+had his Ambition too, to grati<g ref="char:EOLhyphen"/>fy; which nothing but the circling his
+<hi>Meſſalina</hi> in the <hi>Gallick</hi> Diadem, could conſummate. The
+Queen could by no means refuſe him that Promiſe, aſſuring him, that if
+ever kind Fortune obliged her with the Capacity of Granting it, he need not
+doubt but ſhe who could not refuſe him, even her guilty Favours, would be
+proud of conceding her Honourable ones; the Bed of ſuch a Monarch being an
+Honour that the moſt haughty Beauty of the Univerſe, would thankfully
+accept. <hi>Nay then, Divine</hi> Madam, <hi>I have your Promiſe, and will
+Challenge the Performance. And for your Capacity of Granting it; yes, Fortune,
+ſmiling Fortune does and will oblige me; and even this very moment, ſhe
+preſents the glittering Proſpect of that Glo<g ref="char:EOLhyphen"/>rious Day, Recorded in the
+fairest Regiſter of Heaven, when I ſhall mount my</hi> Meſſalina <hi>to
+the Throne of</hi> Gallia. In ſhort, he told her how the obſtinate
+ſelf<g ref="char:EOLhyphen"/>will'd <hi>Lycogenes,</hi> deaf to all Councels, all perſwa<g ref="char:EOLhyphen"/>ſions,
+was reſolved for <hi>Ibernia,</hi> in hopes not only <pb n="61" facs="tcp:36723:34"/>to
+reduce that Kingdom, but by the <hi>Ibernian</hi> Army recover his Loſt
+<hi>Albion.</hi> He deſired her to con<g ref="char:EOLhyphen"/>ſider, what a hopeleſs Attempt he
+had undertaken, and to what certain Fate we would expoſe him<g ref="char:EOLhyphen"/>ſelf. 'Tis
+true, <hi>Polydorus</hi> would be no ways wanting in Arms and Aſſiſtance,
+but alas, to no purpoſe; the Chriſtian <hi>Albionites</hi> were now too
+Potent, and all the Aids he could ſpare, in his preſent Engage<g ref="char:EOLhyphen"/>ments
+againſt the Confederated Bands of <hi>Europe,</hi> would be only ſo many
+Sacrifices to the Head-long raſh Deſpair of <hi>Lycogenes.</hi> And as her
+ſelf was ſenſible how inexorable <hi>Lycogenes</hi> was to all lutreaties
+or Prayers to with hold him from the Deſign; ſo he implored his
+<hi>Meſſalina</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s ſolemn
+Engagement, that when the unhappy <hi>Lycogenes,</hi> by his own Fault alone,
+had pulled down his Ruin, and faln in this mad Attempt; that the Widdowed
+<hi>Meſſalina</hi> would con<g ref="char:EOLhyphen"/>deſcend to Reign the Sovereign Mrs. of
+<hi>Gotbland.</hi> The approach of Company which interrupted them, per<g ref="char:EOLhyphen"/>mitted
+only her ſhort Reply, <hi>viz.</hi> If his Stars had ſo ordered for her
+unfortunate <hi>Lycogenes, Meſſalina,</hi> and the whole diſpoſal of
+her Fate were in the Hands of <hi>Polydorus. Polydorus</hi> was now as good as
+fully Arri<g ref="char:EOLhyphen"/>ved at the Haven of his utmoſt wiſhes; for <hi>Lycogenes</hi>'s
+Doom is Sealed. Yes, to <hi>Ibernia</hi> he'll ſend him, and with
+aſſiſtance too; but with the irrevocable Fate of falling there. For by
+challenging and placing all Power and Truſt in that Kingdom, in
+<hi>Gothick</hi> Hands (as agreed by the over-reacht <hi>Lycogenes</hi>) ſo
+naturally hated, and the <hi>Gothick</hi> Government ſo ſuſpected by the
+<hi>Ibernians;</hi> the very diſguſted Pagans themſelves ſhall fall
+from his Cauſe, whileſt with the certain Deſtructi<g ref="char:EOLhyphen"/>on and Fate of
+<hi>Lycogenes,</hi> the certain <hi>Meſſalina</hi> is his own. Nay, to
+ſecure all, when once he has gotten him mew'd up there, he will leave him
+ſo embaraſs in ne<g ref="char:EOLhyphen"/>ceſſities, and ſo ſhortn'd in that only
+<hi>Strongest Sinew</hi> 
+               <pb n="62" facs="tcp:36723:35"/>War, <hi>MONEY,</hi> that he
+ſhould be compelled to Coin Copper for Silver, even the value of a
+<hi>Marve<g ref="char:EOLhyphen"/>dis,</hi> enhanched to a <hi>Ducatoon;</hi> and when that poor brazen
+Payment of his Army ſhall fail, his Royal Stamp in Leather (ſometime an
+Antique Coynage of <hi>Albion</hi>) muſt be his Laſt Reſuge. In ſhort,
+if all fail, <hi>Lycoge<g ref="char:EOLhyphen"/>nes</hi> his Life, is in his own Power, and
+<hi>Meſſalina</hi> muſt and ſhall be his own. The Queen, who could no
+leſs ſtiſle her Joys at the Kings Laſt Declaration, ſingles out her
+dear <hi>Aſpaſia,</hi> to make her ſhare in her Delight; and after
+recounting the whole Scene be<g ref="char:EOLhyphen"/>tween <hi>Polydorus</hi> and her ſelf: <hi>Oh
+my dear</hi> Aſpaſia, ſays ſhe, <hi>I ſhall be the happieſt Woman
+in the World. My poor</hi> Lycogenes, <hi>too head-strong to his own
+De<g ref="char:EOLhyphen"/>ſtruction, is by his ſullen, or rather commiſerating Deſtiny burried
+to the certain Period of all his ſorrows, to make way to mount thy Royal Mrs.
+the happy</hi> Meſſalina, <hi>to the Bed and Throne of the Great</hi>
+Polydorus. <hi>Nor do my Ea<g ref="char:EOLhyphen"/>gle Joys perch only there; for in his Bed, that
+poor unenvi<g ref="char:EOLhyphen"/>ed Happineſs I could even ſpare a ſhare to my dear</hi>
+Aſpa<g ref="char:EOLhyphen"/>ſia. <hi>No, my</hi> Aſpaſia, <hi>I have a higher flight of
+Pleaſure. My Husband, my poor pitied Husbands fall, mounts me to</hi>
+Polydorus<hi>'s Throne; and</hi> Polydorus<hi>'s Throne, to the ele<g ref="char:EOLhyphen"/>vating
+Felicity of dreſſing up the Empreſs of</hi> Gotland, <hi>a more
+Glorious</hi> Meſſalina <hi>for the Arms of her</hi> Sancti<g ref="char:EOLhyphen"/>ſiore;
+<hi>whilſt, by the Advantage of ſo Royal a Husband, I ſhall be enricht
+with the brighter Golden Mines to ex<g ref="char:EOLhyphen"/>hauſt with my</hi> Sanctifiore, <hi>and
+with the Spoils of Empire adore the Man I Love.</hi>
+            </p>
+            <l>Oh, Thou unmatcht <hi>Original</hi> of High Mind!</l>
+            <l>And, oh, the Depths of Glorious <hi>Woman-kind!</hi>
+            </l>
+            <l>Let boaſting <hi>Man</hi> to profound Wit, Plot, Senſe,</l>
+            <l>And deep Intrigue, lay his long falſe Pretence.</l>
+            <l>Let <hi>Faction</hi> and <hi>Cabal</hi> their Embryo's hatch,</l>
+            <l>No Politicks can <hi>Wit of Woman</hi> match:</l>
+            <l>
+               <pb n="63" facs="tcp:36723:35"/>Her teeming Brain, ſuch vaſter Products
+fill,</l>
+            <l>That <hi>LOVE</hi> alone's th' immortal <hi>Macchiavil.</hi>
+            </l>
+            <l>Let Heroes mine, trench, ambuſcade: ſo far</l>
+            <l>Outreacht are all the Stratagems of War,</l>
+            <l>By thoſe which ſubtler <hi>Love</hi> more Nobly weilds;</l>
+            <l>That Mighty <hi>Mars</hi> to Mightier <hi>Venus</hi> yeilds.</l>
+            <p>This ingenuous Declaration of our fair <hi>Meſſalina,</hi>
+that ſo frankly open'd the rich Cabinet of her Soul, and diſcovered the
+prodigious Reach of <hi>reſolving Love,</hi> being the Subject of no common
+Wonder, nor indeed leſs praiſe, had created Matter of a longer
+Entertain<g ref="char:EOLhyphen"/>ment between our two fair faithful Confidants; nor had the grateful
+<hi>Aſpaſia</hi> been wanting in a very Dutious acknowledging Return to her
+Royal Mrs. for that part of it that related ſo neer to her ſelf, in the
+kind Queen's ſo willing a Reſignation of her <hi>Poly<g ref="char:EOLhyphen"/>dorus</hi> unenvied
+Careſſes to her enamour'd Favourite, had not a crowd of Intruders
+interrupted, and broke off the Conference. For her <hi>Lycogenes,</hi> in the
+Head of a ſmall Troop of Captains (being the Disbanded Remnants of his Pagan
+<hi>Albion</hi> Officers) was come to viſit her: Advancing therefore a little
+from them, who dutifully kept at Diſtance, and lending her his Hand, He told
+her, he was come to take his Leave; and, in a long and paſſionate Harangue,
+he fell to ex<g ref="char:EOLhyphen"/>tolling the unexampled Generoſity of <hi>Polydorns.</hi> His
+Favours, he told her, both to himſelf, his <hi>Meſſalina,</hi> and his
+ſweet <hi>Cambrian Infant,</hi> were Obligations that Providence, by all her
+kindeſt ſhowers of Bleſſings, would hardly ever enable him with a
+Capacity of re<g ref="char:EOLhyphen"/>quiting: His Debt was a Score he muſt be forced to leave to
+Heaven, to pay for him. In ſhort, he told her, how heartily
+<hi>Polydorus</hi> had reſented his Wrongs, and eſpouſed his Quarrels;
+and that, with theſe few ſcat<g ref="char:EOLhyphen"/>tered Royal Reliques (pointing to the
+Officers behind <pb n="64" facs="tcp:36723:36"/>him) of his late Infidel-<hi>Albion</hi>
+Army, joyned with what <hi>Gothick</hi> Leaders <hi>Polydorus</hi> was
+pleaſed to lend him, together with thoſe <hi>Gallick</hi> Hands his own
+pre<g ref="char:EOLhyphen"/>ſent involved Affairs at home could ſpare him, he had already fixt his
+Expedition for <hi>Ibernia;</hi> where he doubted not but quickly to raiſe
+that formidable Power, as ſhould not only recover him that Loyal Pagan Realm,
+but likewiſe, in time, by their Hands, be able to ſhock the whole Strength
+of <hi>Albion,</hi> and Reduce his Three revolted apoſtatized Kingdoms.
+<hi>Alas, my Dear,</hi> continued <hi>Lycogenes, The heretick Fools may idly
+think I droop too low beneath the loſs of Empire, and my Excluſion from
+three glorious Diadems has ſtruck ſo near my Heart, that my declining Age,
+and my dejected Soul, will never bear ſo hardy a Fatigue, nor live to ſee
+that Day. How the dull dull World is all miſtaken! I droop? Ah no! Perhaps my
+Loſs of Empire has, for ſome Sacred Conſiderations, been more my
+Pleaſure, than my Pain. Does the mad World believe in that ſtoln Flight, in
+which I left the</hi> Albion <hi>Shore, 'twas any Perſonal Fear, or Dread of
+Life or Dignity, that made me fly! No; as I knew the</hi> Church of Albion
+<hi>call'd over the Great</hi> Anaxi<g ref="char:EOLhyphen"/>mander, <hi>the Guarranly both of my</hi>
+Life <hi>and</hi> Crown, <hi>with ſuch ſound Principles, and in ſuch
+untainted Hands, had been ſo ſafe, that had I ſtay'd in</hi> Albion,
+<hi>my Crown had yet been upon my Head. Yes; with that Fetter at my Heels, of
+Ruling by</hi> LAW, <hi>by curſed</hi> Heretick Laws, <hi>and all my
+Great</hi> Arcana <hi>call'd to Account by</hi> SENATES, <hi>thoſe
+everlasting Objects of my Averſion; and ſhackled down to a</hi>
+Coronation-Oath; <hi>with thoſe unkindly Clogs and Manaches, and all my
+ſoaring Pagan Wings quite clipt; I know I might have Reigned still; yes: I
+might ſo. No, my Dear</hi> Meſſalina, <hi>a Crown at ſuch hard Terms
+not worthy of my wearing. My prouder Spirit, and ſublimer Faith to our Great
+Pagan Gods, diſdain'd ſo poor a Thought. Yes; Honour, and the dearer Call
+of Hea<g ref="char:EOLhyphen"/>ven <pb n="65" facs="tcp:36723:36"/>withdrew me from my Native</hi> Albion <hi>Soyl;
+I left a</hi> Deſerted <hi>and</hi> Abdicated <hi>Throne. Alas, I only
+quitted a a worthleſs Empire to gain a Glorious one; Deſerted a ſordid
+truckling</hi> BOUNDED <hi>Monarchy, that by the long Sworn Fidelity, and the
+reſolved Aſſiſtance of the Royal</hi> Polydorus, <hi>I might return
+like my true God-like ſelf; and by that mighty Founders Arm, build up an</hi>
+ABSOLUTE <hi>one. If our kind Pagan Gods aſſiſt me, and I once Reign
+by</hi> Conqueſt; <hi>Oh, the Immortal Charms of Royalty ſo Divine;
+Farewell to the dull Scepter of poorer feeble</hi> Succeſſion: <hi>A
+nauſeating ſlaviſh Thought, below the Great</hi> Lycogenes. <hi>A</hi>
+Limited <hi>Government! No; that very Minute I ſet my Foot into the Hoysting
+Bark to waft me over into</hi> Gothland; <hi>I hope I made a Nobler</hi>
+Declaration, <hi>when I own'd my generous Indigna<g ref="char:EOLhyphen"/>tion and juſt Contempt of
+ſuch a</hi> Servile Soveraignty, <hi>by avowing the true Sentiments of my
+Soul, That</hi> I had ra<g ref="char:EOLhyphen"/>ther be but a Captain of a Troop of Light Horſe
+un<g ref="char:EOLhyphen"/>der <hi>Polydorus,</hi> than Reign the Monarch of <hi>Albion,</hi> and
+<hi>Albania</hi> under the Check and Curb of <hi>Senates. That ſingle
+Sentence ſpoke the whole</hi> Lycogenes: <hi>He ſpoke it, and he thought
+it.</hi> Senates <hi>and</hi> Senate-Laws? <hi>No; we have formed and
+reſolved Things more Glorious. In that great</hi> Day of Conqueſt, <hi>then
+ſhall our Altars ſmoak, ſmoak uncontrouled; and tottering tumbling</hi>
+Hereſy <hi>crum<g ref="char:EOLhyphen"/>ble to Dust, beneath the Wheels of our Triumphant Cha<g ref="char:EOLhyphen"/>riot.
+With this Fore-thought and this Reſolve, I deſerted my abandon'd</hi>
+Albion, <hi>not by</hi> Force, <hi>but by</hi> Choice. <hi>Alas, if once the
+Conquer'd</hi> Albion <hi>we recover, the long-vow'd Erection of our Pagan
+Altars will then be all our own: For by that</hi> SWORD <hi>we</hi> Enter,
+<hi>we must</hi> Hold; <hi>and holding by the Sword, my</hi> Meſſalina,
+<hi>what is't I cannot Act?</hi> Yes, my Dear <hi>Lycogenes, Replied the</hi>
+Albion <hi>Queen,</hi> proud <hi>Albion</hi> once Subjected and Governed by a
+<hi>Gothick</hi> and an <hi>Ibernian</hi> Army, what can you fear! <hi>Fear,
+my</hi> Meſſalina (anſwered <hi>Lycogenes</hi>) <hi>No; a true 
+<pb n="66" facs="tcp:36723:37"/>Faithful, Zealous Pagan Army will play my Game out, tho' a
+falſe Renegado Christian one threw up my Cards. Beſides, I ſhall have
+this manifest Advantage by this</hi> Re<g ref="char:EOLhyphen"/>acceſſion <hi>to Empire, which that
+of</hi> Birth-right <hi>could not yield me, when above the Tenure of</hi>
+Conqueſt, <hi>which throws off all Obligation of</hi> Law, <hi>and
+conſequently, leaves the whole Adminiſtration to my own</hi> Deſpotick
+Will, <hi>to Act, Model, Transform, and Govern at my own</hi> Arbitrary
+Pleaſure. <hi>Beſides,</hi> I ſay, <hi>this open'd Gate to the whole
+Ambition of my Soul, the</hi> Pagan Reſurrection; <hi>by my Return to my
+Kingdoms on the Necks of my Defeated Heretick Enemies, my Eſtabliſhment of
+the</hi> Pagan Reli<g ref="char:EOLhyphen"/>gion <hi>will carry its own Juſtification ſo clearly,
+that even Malice and Murmur it ſelf ſhall be huſht; and the most repining
+Tongue want Matter to reproach or revile me. For then, if I demoliſh the
+Heretick</hi> Church of Albion; <hi>'tis their own Crimes, not I, have pulled
+it down; their</hi> Revolt <hi>and</hi> Rebellion <hi>has deſerved it from
+me, and 'tis my Royal condeſcending Mercy that I ſhall exact no more. Then,
+as I once told the</hi> Heretick Aca<g ref="char:EOLhyphen"/>demicks [they ſhould feel the weight of
+an angry Prince] <hi>they ſhall thank me that I fall no heavier, when ſo
+eaſy a Vengeance againſt their Treaſon and Apoſtacy ſhall be all
+their puniſhment. 'Tis true, indeed,</hi> con<g ref="char:EOLhyphen"/>tinued <hi>Lycogenes, I am
+under ſome private</hi> Covenants, <hi>and</hi> Stipulations <hi>with</hi>
+Polydorus; <hi>nor do I murmur at the utmost</hi> Conceſſions <hi>and</hi>
+Condeſcenſions <hi>I have made him; for that, and more, he merits from me.
+For ſince that Heroick Champion Embarked in the Recovery of my Crowns, fights
+the Battles of our Gods too, what can I pay too much?</hi> Gothland <hi>indeed
+of old, was a long Tributary to</hi> Albion. <hi>Nor let miſta<g ref="char:EOLhyphen"/>ken History
+Record it the Effieminacy of</hi> Lycogenes, <hi>that not only in his preſent
+misfortune, but alſo through the whole ſtudy of his Life, he has ſo
+indefatigably labour<g ref="char:EOLhyphen"/>ed to efface that Jewel in the</hi> Albion <hi>Diadem. For
+in <pb n="67" facs="tcp:36723:37"/>this Heavenly Cauſe 'tis</hi> Lycogenes<hi>'s greater
+Pride and Glory to hold the</hi> Feodatory Crown <hi>of</hi> Albion, <hi>a</hi>
+Dependant <hi>upon</hi> Gothland <hi>(a Reward too little for ſo great a
+Service) when thou knoweſt, my</hi> Meſſalina, <hi>I had rather admit
+Great</hi> Polydorus <hi>a Sharer in my Diadem, and ſit even on the</hi> Left
+Hand <hi>of a Throne with that Great Monarch by my ſide, whilſt by his
+Sword I build the Altars of our Pagan Gods up; than Reign with all the</hi>
+Grandure, Conqueſts, Glories <hi>of all my Roy<g ref="char:EOLhyphen"/>al Anceſtors, once the
+Arbiters of</hi> Europe, <hi>heaped and maſſed together with that one only
+Trophy wanting. Since the</hi> Extirpation of Hereſy <hi>is ſo eminently
+the never dying Renown of</hi> Polydorus, <hi>my humblest ſubmiſſions
+even to</hi> Vaſſalage <hi>it ſelf under ſo Illuſtrious a Leader,
+were not a little Meritorious, when they bring me the Honour of lying a Pupil
+at the Feet of that Great</hi> Ga<g ref="char:EOLhyphen"/>maliel.</p>
+            <p>The Queen, who ('tis true) felt an inward De<g ref="char:EOLhyphen"/>light, at ſo
+Enthuſiaſtick and Religious a Tranſport of her <hi>Lycogenes</hi> in the
+Pagan Cauſe, returned him all the due Acknowledgments to ſo reſolved a
+Cham<g ref="char:EOLhyphen"/>pion. But as her own quite contrary proſpect of Succeſs from an
+Attempt of that kind (how well ſoev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Deſigned and Endeavoured) led her to wan<g ref="char:EOLhyphen"/>dring Thoughts of a far
+different Nature; the Hazard of the Enterprize renewed the pleaſing
+Contemplation of the late Great Foundation of Glo<g ref="char:EOLhyphen"/>ry, laid her by the Amorous
+<hi>Polydorus,</hi> and her own Greater one of Love and Felicity in the Arms of
+her <hi>Sanctifiore.</hi>
+            </p>
+            <p>
+               <hi>Lycogenes</hi> now haſtening to a Farewell, tells his
+<hi>Meſſalina,</hi> that all preparations were already made, the
+<hi>Gallick</hi> Navy was ready for ſetting Sail, the Forces being all
+Embarked, and himſelf and ſome of his Officers only wanting to go aboard;
+that accordingly, his, and their immediate diſpatch, was <pb n="68" facs="tcp:36723:38"/>called for; and this very day, his Departure was Aſſigned, in
+order to his ſpeedieſt ſetting forward for the Fleet. He deſires her
+therefore to look upon his neceſſitated abſence, as no other than the
+ordi<g ref="char:EOLhyphen"/>nance of his Governing Stars, in which not only his own Vindication, but
+that of Heaven too, was Engaged. That, that conſideration would not only
+expedite his Zeal, and make his Toyl and Labour light, but alſo, he hoped,
+would intereſs aiding Providence it ſelf, to facilitate his Atcheivements,
+as its own peculiar Care to Conſummate ſo Pious and Holy an
+undertaking.</p>
+            <p>The Queen, receiving this Farewell Summons, with a ſhock
+befitting the Character ſhe bore, attended the King to the Palace, where
+retiring with him alone into her Cloſet, for a Receſs of Pri<g ref="char:EOLhyphen"/>vacy to
+unboſome thoſe mournful Plaints at ſo ſad a Divorce, a Scene of
+ſorrow, which admitted no hearer nor ſpectators, ſhe entertain'd him with
+ſo many tender and wailing Accents, which ſeconded with an additional
+Eloquence of the moſt melting ſhower of Tears, wanted no Appearances of the
+moſt cordial Concern. With the moſt endearing Embraces ſhe recommended
+his Cauſe, but more particularly the preſervation of his Perſon to the
+tendreſt charge of his beſt Guardian Angels: She conjured him to believe
+her Life was wholly wound up in his; and that every wound that ſhould hurt
+her <hi>Lycogenes,</hi> muſt ſtrike through the Heart of
+<hi>Meſſalina;</hi> for all his perſonal Dangers could have no other
+paſſage. She deſired him likewiſe to re<g ref="char:EOLhyphen"/>flect on the few ſhort broken
+ſlumbers her ſad Pil<g ref="char:EOLhyphen"/>low muſt now give her, whileſt he left behind him
+the moſt melancholly of <hi>Widows;</hi> for as Pleaſure and Delight from
+any other Object but her <hi>Lyco<g ref="char:EOLhyphen"/>genes</hi> had ever been ſtrangers to her
+Soul, he muſt <pb n="69" facs="tcp:36723:38"/>believe his abſence could have no leſs
+Effect, than to baniſh all joy from her Life, and all ſmiles from her
+Cheeks till his return, whileſt the continued buſineſs of her whole Days
+and Nights, till that bleſt hour, ſhould wholly be ſpent in Prayers for
+his Proſperity; and that with every Bead to Heaven, ſhe would drop a Tear
+for her <hi>Lycogenes.</hi> In ſhort, the cooing murmurs of our fair
+<hi>Turtle</hi> may well be believed to be very paſſionate, when 'tis
+always obſerved that <hi>Art,</hi> when the Imitatour of <hi>Nature,</hi>
+paints with the boldeſt ſtroaks, even beyond the Life. Her commanded Sighs
+and Tears therefore were not a little extravagant on this occaſion.</p>
+            <p>But to leave our mourning Royal Mates to their parting Scene, our
+Hiſtory calls us to ſome few Affairs of <hi>Aſpaſia.</hi> The Reader
+may remem<g ref="char:EOLhyphen"/>ber in the firſt Treatiſe that Father <hi>Sebaſtian</hi> had
+been a long favour'd Inamorat of <hi>Aſpaſias;</hi> who be<g ref="char:EOLhyphen"/>ing one of
+thoſe <hi>Albion</hi> Fugitives, who eſcaping the Univerſal Pagan Wrack
+in that revolted King<g ref="char:EOLhyphen"/>dom, was Landed ſafe on the <hi>Gothick</hi> ſhore,
+and at preſent a ſhelterer in the <hi>Gallick</hi> Court, you may imagine,
+was not wanting with all Aſſiduity and Addreſs (after ſo long a
+ſeparation as his dear <hi>Aſpaſias</hi> late abſence in
+<hi>Ibernia</hi>) ever ſince her Arrival in <hi>Gothland,</hi> to renew his
+amorous Viſits, in hopes of gathering his old Golden Fruit from ſo fair a
+Tree. But as ill Fortune, the malice of <hi>Cupid,</hi> or ſome other (if
+poſſible) blinder Deity was his Enemy; or rather the ill Humour of
+<hi>Aſpaſia,</hi> or ſome other Feminine Devil about her, envied him his
+old Felicities, he could never yet get one pri<g ref="char:EOLhyphen"/>vate minute alone with her.
+Whether the multipli<g ref="char:EOLhyphen"/>city of her Viſitants, as ſo new a Gueſt in that
+Court, might be ſome interpoſing Debarment to a private Acceſs, or no;
+however, his good opinion both <pb n="70" facs="tcp:36723:39"/>of her and himſelf, made
+him for ſome time impute his misfortune to no other Cauſe. But that
+flat<g ref="char:EOLhyphen"/>tering Excuſe at long run being not altogether ſatisfactory, he
+diſcovered at laſt, that by her Art<g ref="char:EOLhyphen"/>ful ſhunning of all opportunities,
+'twas her palpable ſlight of him, if not her down-right Averſion that
+excluded him: For in all his Converſation with her, which hitherto had been
+only in publick, he could not obtain ſo much as a ſmile, nay, not a look, a
+glance, or a civility from her, that expreſt the leaſt remaining ſpark of
+her former Graces and Kindneſs. For to tell you the Truth, our ina<g ref="char:EOLhyphen"/>mour'd
+<hi>Aſpaſia</hi> ever ſince her Captivity to <hi>Polydo<g ref="char:EOLhyphen"/>rus,</hi> had
+entertained ſo burning a paſſion for that Great Man, even little leſs
+than abſolutely Roman<g ref="char:EOLhyphen"/>tick. For tho' naturally, a profeſt Wanton, yet, but
+to look upon that Idol of her Soul, her very <hi>Plato<g ref="char:EOLhyphen"/>nick Delights</hi> in
+that adored Object (for <hi>Enjoyment</hi> ſhe never durſt hope, her whole
+Tranſlation to her laſt nights Paradiſe, being purely and altogether
+miraculous) carried thoſe infinite Tranſports, all along with them, that
+all other humbler, tho' more ſubſtantial Feaſts of Love, were utterly
+deſpiſed, for that more pleaſing, tho' aiërier Food. Soaring
+there<g ref="char:EOLhyphen"/>fore ſo high, ſhe diſdained all lower ignoble Quar<g ref="char:EOLhyphen"/>ries; and her
+Conceſſion of a Favour (ſuch was her Craprice of Fancy) to
+<hi>Sebaſtian,</hi> or any other meaner Favourite, ſhe thought ſo
+notorious an In<g ref="char:EOLhyphen"/>vaſion of the Sacred Right of <hi>Polydorus</hi> (for ſhe
+ow'd him all, tho' ſhe ne're hoped to pay him any) as ſhe could not ever
+forgive her ſelf for: And Love it ſelf, tho' with no other accuſer, than
+her own con<g ref="char:EOLhyphen"/>ſcious Soul, would fly in her Face, and arraign and condemn her
+for abſolute Impiety and Prophanation.</p>
+            <p>This unaccountable Frenzy of Love, had made her very carefully
+avoid the Company of <hi>Sebaſtian,</hi> 
+               <pb n="71" facs="tcp:36723:39"/>as the Object of
+her leaſt Thought; and being of a better Temper, than to uſe him rudely,
+tho' ſhe very well knew her Command (if laid upon him) might repel all
+troubleſome Viſits, yet partly through better breeding, and partly to avoid
+all tumultu<g ref="char:EOLhyphen"/>tuous Reſentments that might ariſe from ſeverity, ſhe
+thought it her wiſeſt courſe to wean him from the deſire of her
+Converſation, by more moderate methods; and accordingly, when preſt too
+much by him, with no other ways left of eſcaping him, ſome<g ref="char:EOLhyphen"/>times in her
+Retirements, ſhe has pretended In<g ref="char:EOLhyphen"/>diſpoſition, nay, often made her ſelf
+be denied to ſhun him; and at all other times, ſhe ſtudiouſly crowded
+her ſelf into all publick Company, to be free from importunities.</p>
+            <p>However, this Policy had not its deſired Effect upon
+<hi>Sebaſtian,</hi> for though Men of his Figure and Gown, can never want
+Female Game in ſo amo<g ref="char:EOLhyphen"/>rous a Court, as that of <hi>Gothland;</hi> however, at
+preſent, he is for only flying here, and no other impreſſion could efface
+his Paſſion for <hi>Aſpaſia.</hi> And all her preſent ſlights, now
+too plainly viſible in her whole Conduct, ſerved only to give him the
+moſt vexatious Diſquiets, and run him at laſt into a moſt tormenting
+<hi>Jealouſy.</hi> Some other Favourite (he conſidered) and more grateful
+Choice, undoubtedly could be the only Cauſe of her coldneſs to him. With
+this new Load upon his Soul, his diſcovery of his more happy Rival (a
+knowledge always much deſired, though very little ſerviceable to ſlighted
+Lovers) was now his whole ſtudy; inſomuch, that in all places, and at every
+turn, he was an abſo<g ref="char:EOLhyphen"/>lute Spy upon all her motions, to find out (if
+poſſible) the accurſed Deſtroyer of his Happineſs.</p>
+            <p>In all his long Watchings, but hitherto, all in vain, it fortuned
+that laſt night, he diſcovered her, <pb n="72" facs="tcp:36723:40"/>carried in her
+Chair to the Queens Apartments. And as Jealouſy makes remarks upon every
+thing, Firſt, he obſerved that ſhe went in an undreſs, <hi>viz.</hi> in
+her Night Gown, a very unlikely Habit, accor<g ref="char:EOLhyphen"/>ding to the Rules of Court, to
+make a viſit to the Queen in; beſides, no ſooner had her Chair-men ſet
+her down, but they carried off her empty Chair back again, which plainly told
+him, ſhe in<g ref="char:EOLhyphen"/>tended to ſtay all Night, and therefore a Viſit to the Queen,
+could be no part of her Buſineſs. Upon this Thought, he fell to
+conſidering, what <hi>Man</hi> might lye in the Queens Apartments, and upon
+re-collection, remembred that Father <hi>Pedro</hi> had Lodgings there; (a
+Favour which granted him in the Court of <hi>Albion,</hi> was continued in her
+Court in <hi>Gothland</hi> too.) No ſooner had he ſtarted upon this
+unluckly remembrance, but he preſently reflected, on the once fatal miſtake
+in <hi>Albion,</hi> that threw Father <hi>Pedro</hi> into his
+<hi>Aſpaſias</hi> Arms, inſtead of himſelf; with the Agony of that
+Thought, there was not that moſt ungrateful apprehenſion, that he did not
+immediately form to himſelf. That <hi>Aſpaſia</hi> was the baſeſt and
+falſeſt of her Sex, were the kindeſt Epithites he could afford her. That
+<hi>Pedro</hi> had not as formerly by Fortunes blind Lot, but by her own
+Laſcivious Choice, now invaded his Right. That ſhe had this Night made an
+Aſ<g ref="char:EOLhyphen"/>ſignation with him, and was ſo hot in the pur<g ref="char:EOLhyphen"/>ſuit of her
+Infidelity, that ſhe poorly followed him to his own Bed. That all his own
+paſt Endear<g ref="char:EOLhyphen"/>ments, nay, even the very Name of <hi>Sebastian</hi> was utterly
+razed out of her Thoughts; and Sacrificed to her dearer Darling <hi>Pedro.</hi>
+That all her pre<g ref="char:EOLhyphen"/>tended Indiſpoſitions and Excuſes to ſhun his very
+ſight, were nothing but her down right hate of the forgotten
+<hi>Sebastian,</hi> to give her the freer looſe <pb n="73" facs="tcp:36723:40"/>to her
+riotous Lewdneſs with <hi>Pedro.</hi> All that Jea<g ref="char:EOLhyphen"/>louſy could forge, or
+rage inſpire, was now fer<g ref="char:EOLhyphen"/>menting in his Soul: One while, he was thinking to
+ſtop the Chair-men to ask Queſtions of them, for his compleater
+Satisfaction: But that folly was ſoon corrected, for undoubtedly, their
+ſimple igno<g ref="char:EOLhyphen"/>rance knew no more of her privacies, than the Car<g ref="char:EOLhyphen"/>riers-Horſe
+does the Treaſure he carries. Beſides, the conviction was plain enough; but
+to be more amply informed beyond all ſtaggering or doubts, he reſolved to
+attend below at the Palace Door all Night, till the Chair-men fetcht her back
+again. The Evening blew a little cool, but whether the Agitations of his Soul
+were ſo buſied, that the mind<g ref="char:EOLhyphen"/>ing his Body was not any part of his care, or
+that his Heat within had influence enough to keep him warm without, he
+contented himſelf with the cold Entertainment of Fayries and Goblins, and
+very de<g ref="char:EOLhyphen"/>murely, walked all Night under the Palace Window. What Furies and
+Spectres were his Familiars, you may eaſily conjecture; for Jealouſy
+Rampant had an intire Aſcendant over him, and all the Devils of Revenge, like
+ſo many <hi>Cyclops</hi> at the Anvil, were hammering all the Bolts he could
+invent againſt <hi>Pedro.</hi> The Morning was ſcarce awake, before the
+Chair-men were returned, and the glowing <hi>Aſpa<g ref="char:EOLhyphen"/>ſia</hi> more ruddy than
+the bluſhing Roſe, ſoon after came nimbly tripping down Stairs, and
+inſtantly bolted into her Sedan, and ſo marcht off. This the undiſcovered
+<hi>Sebaſtian</hi> ſtanding perdieu, no ſooner ſaw, but
+Demonſtration, Oracles, and Brazen-heads, had now ſpoken: The Truth is too
+palpable, and the accurſed <hi>Pedro</hi> is the Villanous Riffer of all her
+melting ſweets; and ſhe came but this mo<g ref="char:EOLhyphen"/>ment, with all her guilty Bloom in
+her Face, juſt wreeking from his Arms.</p>
+            <p>
+               <pb n="74" facs="tcp:36723:41"/>This Reſentment of her Falſehood, as it
+had lighted a whole Mine of Sulphur within him, he had watcht this opportunity
+of following the Queen and <hi>Aſpaſia</hi> into the Garden; where at the
+ap<g ref="char:EOLhyphen"/>proach of <hi>Lycogenes</hi> to <hi>Meſſalina, Aſpaſia</hi>
+with<g ref="char:EOLhyphen"/>drawing, at the turn of a walk in the Garden, he had the Fortune juſt
+full in the Face to meet her all alone; and reſolving that no pretence
+ſhould now hinder him, not to ſlip the offered minute, he advanced up to
+her, and deſired her to do him the Juſtice of half a ſcore words with
+her. <hi>Aſpaſia</hi> poſſibly ſuſpecting ſome Reprimands for her
+late cold looks to her neglected old Servant, was never<g ref="char:EOLhyphen"/>theleſs ſo pufft up
+with the vanity of her laſt Nights Happineſs in her Imperial
+<hi>Polydorus</hi>'s Arms, that ſhe was prepared to ſtand all Batteries of
+that kind, and laugh at ſo little, and ſo pitied a wretch as
+<hi>Sebaſtian;</hi> and accordingly, in anſwer to the half ſcore words,
+deſired with her, ſhe told him half a hundred, if he pleaſed, were at his
+ſervice. <hi>Seba<g ref="char:EOLhyphen"/>stian,</hi> at firſt diſſembling his Reſentments,
+began calmly to ask her, what Envious Planets had ma<g ref="char:EOLhyphen"/>ligned him in ſo long
+debarring him the Felicity of her Converſation ever ſince her return from
+<hi>Ibernia? Planets,</hi> replied <hi>Aſpaſia; Alas, Sir, thoſe higher
+Powers, have other weightier work to mind, than to intermeddle in ſo poor,
+and ſo trivial a Matter.</hi> Well, Madam, anſwered <hi>Sebaſtian,</hi> I
+find that not only their Higher Powers, as you tell me, but
+<hi>Aſpaſias</hi> Higher Thoughts too, have weightier work to mind, when
+<hi>Sebastian</hi> is grown ſo indifferent to her. There was a Day, when I
+ſtood fairer and warmer in your Thoughts. There was a Day you Loved
+<hi>Sebaſtian;</hi> was there not cruel <hi>Aſpaſia? Faith, Sir,</hi>
+replied <hi>Aſpaſia, Such a Day perhaps may have been, but at preſent I
+carry no Almanack in my <pb n="75" facs="tcp:36723:41"/>Head, for my particular remembrance
+in that Affair. If there has been ſuch a Day in your Calendar, pray, mark it
+down for a very idle one, when I play'd the Fool becauſe I had nothing elſe
+to do [Sebastian]</hi> How, Ungrateful, Falſe, Inhumane—[Aſpaſia]
+<hi>No hard Words</hi> (interrupting him) <hi>all things in this World, have
+their Period; and Folly, the ſooner the better. And if this Declaration
+diſpleaſe you, look upon your Gown, conſider, you are a</hi> Church-man,
+<hi>Re<g ref="char:EOLhyphen"/>pent and Mortify, and carry your Prayer-Book to Bed with you, and Sleep
+contented.</hi> How, my rallying In<g ref="char:EOLhyphen"/>fidel, anſwered <hi>Sebaſtian,</hi> If
+I may be bold to ask, did you and your laſt Nights Bed-fellow, carry your
+Prayer-Books to Bed too? [Aſpaſia] <hi>How, In<g ref="char:EOLhyphen"/>ſolent!—</hi>Yes,
+Madam, (continued <hi>Sebaſtian</hi>) were you and your New Stallion at
+<hi>Mortification</hi> too, laſt Night? If you were, you were very cloſe
+and warm at it, that he ſent you away ſo piping hot, ſo early in your
+Chair this Morning. <hi>Aſpaſia</hi> was ſtruck with ſuch Confuſion
+to hear him talk thus, that in the ſuddenneſs of her ſurpriſe, ſhe
+thought no leſs, than that he had dealt in Witchcraft and Magick, and
+diſcovered the whole laſt Nights Adventures with <hi>Polydorus,</hi> a
+Secret of that value, that ſhe would not have diſcloſed, for half his
+Kingdom, much leſs, have it Lodged in ſo dangerous a Breaſt as
+<hi>Sebaſtians;</hi> inſomuch, that at the firſt ſhock, ſtruck
+almoſt dumb, and without one word to anſwer, ſo ſtrong a Vermilion
+pain<g ref="char:EOLhyphen"/>ted her Cheeks, as if the whole Blood in her Heart, had fluſht into her
+Face. <hi>Sebastian</hi> (perceiving her Diſorder, continued) well, Madam, by
+the extra<g ref="char:EOLhyphen"/>ordinary Scarlet in your Face, a ſign of Grace (as they tell us)
+the Prayer-Book you talk of, would not do amiſs with you now. <hi>Grace,</hi>
+did I ſay! Cry you mercy, Madam, I am affraid I am mi<g ref="char:EOLhyphen"/>ſtaken, 
+<pb n="76" facs="tcp:36723:42"/>Thoſe confeſſing Bluſhes of yours, I fear proceed
+from a quite contrary Cauſe. Your hot Blood, has been ſo ſtirred up to
+Night, that a lit<g ref="char:EOLhyphen"/>tle thing ſets it a circling, and that's the reaſon your
+Ladyſhip reddens ſo eaſily, and ſo naturally; Well, much good may do
+you with your <hi>Pedro,</hi> your darling Villain, <hi>Pedro.</hi> But know
+fair Devil, the time may come, when your Sanctified Jmp and
+you—<hi>Aſpaſia</hi> at that word, recovering her Tongue, and pertly
+interrupting him (for ſince ſhe found that <hi>Pedro</hi> was the
+ſuppoſed Man, it took ſo great a weight from her Spirits, that ſhe
+cared not if ſhe confirmed him in it, rather than diſabuſed him from that
+miſtake; that kind Errour poſſibly being her only Fence, againſt a more
+dangerous Inquiſition into her laſt Nights Arcana, and a neceſſary
+Guard againſt ſo prying a Spy.) <hi>Well,</hi> ſays ſhe, <hi>If I do
+Love</hi> Pedro, <hi>and came ſo warm from him this Mor<g ref="char:EOLhyphen"/>ning, as you tell me,
+ſnarle on, feeble Envy, and make your best on't. Sebaſtian,</hi> at that
+word, was juſt upon launching into a great deal of outragious Language, had
+not approaching Company come to her Deliverance, when, ſtarting from him,
+ſhe left him to the venting his Gall to himſelf, and burſting with his
+own Venom at his own Leiſure and Pleaſure.</p>
+            <p>
+               <hi>Sebaſtian,</hi> from this hardned Impudence of her own
+Confeſſion, had now no farther ſcruple: <hi>Pedro</hi> was the happy man;
+and himſelf the out-caſt of her hate and ſcorn. His Love for
+<hi>Aſpaſia,</hi> now cankering into the moſt rancrous Malice and
+Re<g ref="char:EOLhyphen"/>venge; the firſt thing he reſolves, is the Deſtru<g ref="char:EOLhyphen"/>ction of
+<hi>Pedro.</hi> For the effecting of which, after a hundred ſeveral roving
+Fancies upon that Subject, he fixt at laſt upon traducing him to
+<hi>Polydorus,</hi> as a Plotter againſt the <hi>Gothick</hi> State, and
+rather <pb n="77" facs="tcp:36723:42"/>than want Proof to condemn him, to ſtart up an
+Evidence himſelf againſt him. This Project fully re<g ref="char:EOLhyphen"/>ſolved, he very
+ſpeedlly gains private. Acceſs to <hi>Polydorus,</hi> and after a great
+deal of other Intro<g ref="char:EOLhyphen"/>ductory matter, to ſoften him for the Impreſſion,
+ſuch as the unfortunate Affarrs of <hi>Albion,</hi> he fell very Artfully to
+haranging upon the reſtleſs Spirit of <hi>Pedro,</hi> and ſpecifying in
+ſeveral particulars, how highly his Falſe and Clandeſtine Management, had
+been inſtrumental in the Fall and Ruine of <hi>Lycogenes;</hi> he
+inſinuated at laſt that <hi>Plotting</hi> and <hi>Faction</hi> were his
+Study and Delight, and that in ſhort, uneaſy and turbulent in all
+Governments, he this very day held Correſpondence with the Enemies of
+<hi>Polydorus,</hi> and was a perſon unfit to be truſted in his Kingdom,
+much leſs in his Court, if that only were all he deſerved. And this charge
+he himſelf was ready (tho' unwilling to be ſeen in ſuch an Affair, if
+other Teſtimony might ſatisfy) to make out againſt him. In fine, he
+preſt on the matter ſo far, that <hi>Polydorus</hi> inclining to believe
+him, returned <hi>Sebaſtian</hi> thanks for his Zeal, and promiſing his
+ſpeedy inquiry into the matter, <hi>Se<g ref="char:EOLhyphen"/>baſtian</hi> humbly adviſed the
+immediate ſeizing of his Papers, which would make ample and ſufficient
+Demonſtrations againſt him, and excuſe himſelf from that ungrateful
+Office of his Accuſer.</p>
+            <p>The King reflecting on the <hi>Albion</hi> miſcarria<g ref="char:EOLhyphen"/>ges, as
+ſo highly and particularly the Fault of <hi>Pedro,</hi> and relying on the
+Integrity of <hi>Sebaſtian,</hi> for whom he had a ſpecial Value and
+Eſteem, immediately applies himſelf to <hi>Meſſalina,</hi> telling her
+the whole Accuſation againſt him, and his own Inclination to Credit the
+Truth of it. The Queen whoſe Pride could no leſs than naturally reſent
+her <hi>Al<g ref="char:EOLhyphen"/>bion</hi> Misfortunes, and (though her ſelf their Princi<g ref="char:EOLhyphen"/>pal 
+<pb n="78" facs="tcp:36723:43"/>Cauſe) ſhe looked upon the hot Councils and Violent
+Meaſures of <hi>Pedro,</hi> as not a little Crimi<g ref="char:EOLhyphen"/>nal in that Affair: And
+though his Extraordinary Zeal for the Pagan Cauſe, had raiſed him ſo
+great in her Eſteem, his Succeſs and Conduct however, were no little allay
+to her Favour and Graces towards him inſomuch that Doubt and Suſpicion
+might eaſily be Entertained againſt him, and a lit<g ref="char:EOLhyphen"/>tle Breath would go to
+the lighting that Coal. Beſides, her abſolute Reſignation to the
+Pleaſure of <hi>Polydorus,</hi> ſilenced all Queſtions and Diſputes.
+'Twas enough he <hi>Believed,</hi> and 'twas not her Qu to <hi>Doubt.</hi>
+Accordingly with an immediate Concurrence to <hi>Po<g ref="char:EOLhyphen"/>lydorus,</hi> ſhe her
+ſelf adviſed the ſeizing, not only of his Papers, but his Perſon too,
+and doing himſelf open Juſtice. <hi>No Madam</hi> (replied
+<hi>Polydorus</hi>) <hi>Your Sacred Roof, is a Sanctuary againſt all ſuch
+Violence; for ſince he has the Honour of Sleeping under that Protection, the
+publick Apprehenſion either of himſelf or his Papers, though on the moſt
+Criminal Account, would be too Profane an Intruſion in a Place ſo
+Sa<g ref="char:EOLhyphen"/>cred.</hi> The King therefore humbly beſought her permiſſion, that
+himſelf might give <hi>Pedro</hi> a Viſit in his own Lodgings at his
+firſt upriſing next Morning, and in reſpect to the Place as the Palace of
+<hi>Meſſalina,</hi> make that privater Scrutiny, and thoſe leſs noiſy
+Demands of him, that might give as full, tho' not ſo publick a ſatisfaction
+into the Truth of the Matter alledged againſt him. The Queen inſtantly
+complying with the Kings Deſire, and likewiſe humbly thanking him for the
+Great Reſpect he was pleaſed to ſhew to her ſelf, in this manner of
+Proceſs againſt ſo treacherous a wretch, told him that his Pleaſure
+therein, or what elſe ſhould not only be punctually obſerved, but alſo
+ſhe her ſelf would Accompany him thither, as <pb n="79" facs="tcp:36723:43"/>proud to
+confront ſo impious an Infidelity as durſt in the leaſt conſpire
+againſt the Glory or Peace of her dear <hi>Polydorus.</hi>
+            </p>
+            <p>In purſuit of this Reſolve, early next Morning,
+<hi>Polydorus</hi> and <hi>Meſſalina</hi> enter <hi>Pedro's</hi> Chamber,
+who receives them with a profound Reverence, not a little pleaſed, if not
+aſtoniſht at ſo unuſual a Fa<g ref="char:EOLhyphen"/>vour. But the Queen to undeceive him in
+that point, deſired him not to miſtake the occaſion of this Honour they
+did him, commanding the Keys of his Cloſet and Cabinets; <hi>Pedro</hi>
+Thunder-ſtruck at ſuch a ſound, and finding by her Looks, that the want
+of his Keys was not to ſearch for Bra<g ref="char:EOLhyphen"/>celets or Love-Letters, but more
+important mat<g ref="char:EOLhyphen"/>ters, fell inſtantly upon his Knees, and with a long repetition
+of his Zeal and Services, and a thouſand Proteſtations of his Truth and
+Fidelity, humbly remonſtrated his whole Innocence and Loyalty, and the
+meaneſs of her Suſpicion againſt ſo known and tried Integrity.
+<hi>Well, Sir,</hi> ſays the Queen (who as an endearment to
+<hi>Polydorus,</hi> reſolved to be the forwardeſt in <hi>Pedro's</hi>
+Proſecution) <hi>If you are that Honeſt and Loyal Man, the Innocence of
+your Papers, which we come hither to ſee, will be your Confirma<g ref="char:EOLhyphen"/>tion, and as
+ſo many Records in your behalf, ſtand the Monuments of your Glory.
+Pedro,</hi> now almoſt dead, was going to uſe the little feeble Breath he
+had left, to diſwade her from her purpoſe; but as ſhe would hear no more,
+but be obeyed, he was forced at laſt to give her the Keys, where, whileſt
+the King and She entred the Cloſet, himſelf ſtood root<g ref="char:EOLhyphen"/>ed like a Stature
+in his Chamber without, both dumb and motionleſs, attending his approaching
+Fate.</p>
+            <p>No ſooner had the Queen unlockt the firſt Drawer of his
+Cabinet, but a dazling appearance of Jewels glared in her Eyes; which ſhe no
+ſooner ſaw, but <pb n="80" facs="tcp:36723:44"/>ſhe inſtantly cried out.
+<hi>Oh</hi> Polydorus, <hi>my own</hi> Al<g ref="char:EOLhyphen"/>bion <hi>Jewels! O Villain</hi>
+Pedro, <hi>Villain, Villain!</hi> How Madam, <hi>anſwered</hi> Polydorus
+<hi>amazed,</hi> Your Jewels! <hi>Yes, Sir,</hi> replied the Queen, <hi>the
+very ſame I loſt at my Landing in</hi> Gothland, <hi>and for which you
+publiſht ſo many Thouſand Crowns Reward, for the Diſcovery of. This
+very Monſter adviſed me to truſt them with an</hi> Italian <hi>Priest of
+his own Recommendation, ſince run away: and be-like, by the quantity I here
+find of them, has conſpired in the Robbery, and went ſhares and ſnacks
+with the very Thief that stole 'em. Oh Execrable Miſ<g ref="char:EOLhyphen"/>creant! Was't not
+enough, that thy Villany has raviſht my Glory, rifled my Crown from me, and
+loſt me three Kingdoms, but thy low-born wretched Soul, could ſtoop to ſo
+petty a Larceny as to ſteal my very Jewels from me?</hi> The Queen had went
+on with a great many more bitter Expreſſions, on ſo pregnant a Subject;
+had not her farther Curioſity ſound her other Employment. The firſt
+Papers they lighted of, proved to be Accounts of Monies laid out, and a Journal
+of Domeſtick Expences, &amp; not worthy of their Inſpection: only
+unfortunately the firſt Paper of them that fell into the Queens Hand, and the
+firſt Line ſhe caſt her Eye upon, was the Account of what Monies he had
+paid to his Landlord an <hi>Inn<g ref="char:EOLhyphen"/>keeper</hi> at the Waters of <hi>Bajae</hi> in
+<hi>Albion</hi> (when the Queen was laſt there) for the Maintenance of a
+Child gotten by him upon the Body of the ſaid Landlord's Daughter. This
+innocent Diſco<g ref="char:EOLhyphen"/>very occaſioned a comical ſmile or two, and ſome few
+jocoſe Remarks between <hi>Polydorus</hi> and <hi>Meſſa<g ref="char:EOLhyphen"/>lina.</hi> The
+next Papers they came to (being a very large Bundle) were an Account of Summs
+of Mo<g ref="char:EOLhyphen"/>ney received, part ſeperately to himſelf; and others in Paternſhip
+with <hi>Polyorchetes</hi> the Chancellour, for Pardons, Sold to the
+<hi>Weſtern</hi> Rebels in <hi>Perkins</hi> 
+               <pb n="81" facs="tcp:36723:44"/>Inſurrection. <hi>Ah, Sir,</hi> ſays the Queen to <hi>Polydorus,
+what wicked Papers are here? You may ſee how</hi> Kings <hi>are abuſed,
+when the Mercy of my poor</hi> Eycogenes <hi>to thoſe</hi> Weſtern
+<hi>Wretches, tho' God knows, that Mercy was but</hi> Little, <hi>yet even
+that</hi> Little <hi>was</hi> Bought <hi>and</hi> Sold. The following Papers
+they met, were a Liſt and Computation of the Number of the Officers, and
+private Souldiers of the Pagan Religion in <hi>Ly<g ref="char:EOLhyphen"/>cogenes Albion.</hi> Army,
+<hi>taken at the laſt Campagne by the King's Special Order and Command. Ah,
+Sir,</hi> ſays <hi>Meſſalina, that very Paper undid my poor</hi>
+Lyco<g ref="char:EOLhyphen"/>genes: <hi>For as you know the Deſign of keeping up that Army, ſo,
+poor zealous good Man, being deſirous to learn the Strength of what Pagan
+Hands he had to trust to, in order for the good of his Cauſe, he ſent his
+Command to every Captain, to bring him in the Number of the Pagans in their
+each reſpective Com<g ref="char:EOLhyphen"/>pany or Troop<g ref="char:punc">▪</g> and, would you think it? thoſe
+falſe inſinuating Villains, to humour, as they call'd it, the Kings weak
+ſide, and thereby ingratiate themſelves in<g ref="char:EOLhyphen"/>to his Favour, made the
+Computation of the Pagans amount to the full Moiety of the whole Army,
+within</hi> 600; <hi>when, God knows, not a Seventh of 'em were of that Faith,
+as ſad Experience has ſince convinced him; whilſt, by theſe, and
+ſeveral other falſe and flattering Reports of the Pagan Strength, was my
+poor</hi> Lycogenes <hi>drawn into that</hi> Confidence, <hi>and
+conſe<g ref="char:EOLhyphen"/>quently, thoſe</hi> Snares, <hi>that lost him his Kingdoms.</hi>
+            </p>
+            <p>
+               <hi>Polydorus,</hi> had not ſearched much farther, till he
+diſcovered the Mine he deſired, <hi>viz.</hi> A Correſpon<g ref="char:EOLhyphen"/>dence between
+Father <hi>Pedro,</hi> both with the <hi>Imperial</hi> and the
+<hi>Arragonian</hi> Court, the preſent ſworn Ene<g ref="char:EOLhyphen"/>mies of
+<hi>Polydorus.</hi> A great many Letters fill'd with promiſes of large Golden
+Rewards, were the firſt that occurred; and tho' part of them were Writ<g ref="char:EOLhyphen"/>ten in
+Characters, and others of leſs dangerous <pb n="82" facs="tcp:36723:45"/>Import, were
+more bare-ſac'd; the firſt Eye into them plainly detected an Intelligence
+held with both thoſe Enemies of the Crown of <hi>Gothland;</hi> and this
+mercinary Villain and Spy, had for Foreign Gold, betrayed the Secrets of his
+Kingdom.</p>
+            <p>The King, could not forbear ſome juſt Reſent<g ref="char:EOLhyphen"/>ments at ſo
+ſurpizing a Diſcovery; but the Queen, for her part, could hardly contain
+her ſelf from be<g ref="char:EOLhyphen"/>ing down right outragious, in meer Indignation a<g ref="char:EOLhyphen"/>gainſt
+ſuch infernal Treachery, and what's yet blacker, ſuch monſtrous
+Ingratitude; a Villain, ſo kindly Entertain'd and cheriſht, as he had been,
+in that only Sanctuary, that thorough his own De<g ref="char:EOLhyphen"/>merits, and the univerſal
+Hatred of Mankind the whole World had left him and yet ſcarce warm in his
+Neſt, to play ſo venomous and treacherous a Serpent. And to heighten her
+bitterneſs ſhe did not in the leaſt doubt all his ſoul play in
+<hi>Gothland</hi> any more (if the Truth were known) than a ſecond Part of
+his old Game in <hi>Albion.</hi> In ſhort, being almoſt aſhamed to defile
+her Breath with ſo Poiſonous a Name, ſhe deſired <hi>Polydorus</hi> to
+take him inſtantly and hang him, or break him upon the Wheels, for a moments
+Life was too great a Mercy for ſuch a Monſter. <hi>No, Madam,</hi> replied
+<hi>Polydorus, If you'll permit me to Sentence him, his Deem ſhall be to
+Live. The Truth on't is, I always believed him a Rogue at the bottom, and tho'
+his Dependance and Relation to</hi> Meſſalina, <hi>as in Duty, gave him
+ſo Favourable a Re<g ref="char:EOLhyphen"/>ception here, yet I aſſure you, Madam, I never
+truſted him with any thing of Importance, my Cabinet ſecrets were never
+Lodged in ſuch Hands; and tho' the Con<g ref="char:EOLhyphen"/>tents of theſe Letters, when I have
+leiſure to peruſe them, will I doubt not, ſhew his hearty good will to be
+the baſeſt of Traytors, and moſt ungrateful of Men, yet, whatever his
+Inclination has been, his Power has <pb n="83" facs="tcp:36723:45"/>not had it in his reach
+to hurt me much, and there<g ref="char:EOLhyphen"/>fore I am the leſs concerned at ſo ſtingleſs
+a Falſe<g ref="char:EOLhyphen"/>hood. But Madam, ſince year Diſpleaſure is that Sa<g ref="char:EOLhyphen"/>cred Thunder
+that ſhould never breathe without Exe<g ref="char:EOLhyphen"/>cution, in my Opinion, the giving him
+his Life will be his greateſt Puniſhment<g ref="char:punc">▪</g> for when I Baniſh him my
+King<g ref="char:EOLhyphen"/>dom, all the Would beſide, will give him ſo unſafe a Retreat, and
+cold a Reception, that he will be forced to wander in Shade and Covert, that
+deplorable wretch, as to fear every hand be meets will be his Executi<g ref="char:EOLhyphen"/>ner. This
+lingring Torment, as the outcaſt of the Cre<g ref="char:EOLhyphen"/>ation, to a ſpirit ſo
+reſtleſs, and ſo ambitious, will out<g ref="char:EOLhyphen"/>do any ſho<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>-paind ſtroak of Justice. Beſides</hi> (conti<g ref="char:EOLhyphen"/>nued
+<hi>Polydorus</hi>) <hi>all publick and exemplary Puniſhment, would in a
+meaſure, leave a blemiſh on the Fair</hi> Meſ<g ref="char:EOLhyphen"/>ſalina, <hi>in
+publiſhing and proclaiming to the World, Hers, and her</hi> Lycogenes<hi>'s
+weakneſs and folly (Pardon the harſhneſs of the Word) in ſo highly
+Exalting, ſo unde<g ref="char:EOLhyphen"/>ſerving a Favourite. Princes in ſome Caſes ought not
+to tell too broadly, how groſly they have been de<g ref="char:EOLhyphen"/>ceived and impoſed upon.
+His Trust in</hi> Albion <hi>was ſo Great, and his Aſcendance ſo High,
+that his open Fall will not ſo much expoſe his Guilt, as the
+ſhal<g ref="char:EOLhyphen"/>lowneſs of that Credulity that raiſed him.</hi>
+            </p>
+            <p>The Kings farther Reaſonings upon this Argu<g ref="char:EOLhyphen"/>ment, made the
+incenſed <hi>Meſſalina</hi> acquieſce in the Pleaſure of
+<hi>Polydorus.</hi> And taking the Queens Jewels (a very honeſt Reprizal) and
+thoſe Laſt Papers along with them; as he left the Chamber, he bid
+<hi>Pedro,</hi> avoid his Preſence, and let his Court and Kingdom ſee his
+hated Face no more. <hi>Pedro,</hi> who wanted Power and indeed Courage to
+ſpeak to him, remained mute; however, as the eſcap<g ref="char:EOLhyphen"/>ing of an expected
+immediate Death, an Exit he was not over-well at this time prepared for,
+recover'd him Strength enough to hold up his Head from <pb n="84" facs="tcp:36723:46"/>not
+quite drooping under ſo fatal a ſhock; he be<g ref="char:EOLhyphen"/>gan to recollect Senſe
+enough to provide for his ſpeedy Decampment from his preſent too hot a
+Poſt; and accordingly with no ſmall hurry and precipitation, he left the
+Court, and 'tis much ſu<g ref="char:EOLhyphen"/>ſpected the Kingdom too; for we have never heard of
+him ſince. And truly (the Cauſe of his depar<g ref="char:EOLhyphen"/>ture being huſht by
+<hi>Polydorus,</hi> and concealed by himſelf) in what diſguiſe he
+ſculked, or which way he travelled, our Intelligence is wholy in the Dark.
+However, tho' we now Live in ignorance what Corner of the World has at
+preſent the Honour of his Company, his loſs is not very conſiderable;
+there being very few over-fond of his Face, unleſs to make Money of his
+Head.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:36723:46"/>
+         </div>
+      </body>
+   </text>
+</TEI>
